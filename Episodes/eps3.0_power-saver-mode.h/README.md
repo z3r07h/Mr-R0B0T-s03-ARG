@@ -27,7 +27,7 @@ Observations
 - @26.34 - there is a sign that says "NOTICE, Building under 24 hour surveillance"
 - Taxi number 7X23
 - Following car number plate - UVM7482 (NY)(2015)
--** www.nyspcjis.net/menu/services/nyspncic2000/**
+-**www.nyspcjis.net/menu/services/nyspncic2000/**
 - Car registered to Brooklyn 11222
 - New chr is called Detective Robert Abernethy/ Abernathy 
 - Detective Badge number is 8301  - 19th Precinct
@@ -35,22 +35,22 @@ Observations
 - Number 4 on redwheel barrow menu is - St louis _____ pork ___ 
 - Lots of signs around saying things like FOR LEASE OR RENT, PRIME COMMERCIAL SPACE AVAILABLE
 - FOR, SALE, OR, LEASE, 2000 Sq.Ft., On Ground FL, WILL, SUB-DIVIDE
-- signs are mostly from E-Corp Real Estate Group
-- more signs showing the NEW NBC show "Shift+Control"
-- 34.48 Sound of the Tv newscaster is distorted
+- Signs are mostly from E-Corp Real Estate Group
+- More signs showing the NEW NBC show "Shift+Control"
+- 34:48 Sound of the Tv newscaster is distorted
 - Sign for Yankee Perfumes with a phone number - 21____7_24
 - 35:31 Trumps audio and VIDEO visibly distorted
 - Nods to Gideon Goddard 1963-2015
-- **QR code on wall - leads to CV of Dylan C Roberts, which leads to "inside_e_corp" Subreddit **
+- **QR code on wall - leads to CV of Dylan C Roberts, which leads to "inside_e_corp" Subreddit**
 - Dylan C Roberts reddit user name is BCC4LIFE
 - CV is hosted at jobs.runpula.net (runpula base64 becomes ECOULA)
-- part of the css used comes from a site call thingsthatarebrown.com - needs to be checked
+- Part of the css used comes from a site call thingsthatarebrown.com - needs to be checked
 - 718-555-0179 phone number on the bottom of one of the job adverts on the wall
 - Shodan.io used by Mr Robot
 - "org: "Evil corp" product: "Apache Tomcat"
 - **compute.evil-corp-usa.com**
 - Also information about AWS staging area and a session cookie
-- between 49:55 - 50:40 approx there is another weird static sound distortion
+- Between 49:55 - 50:40 approx there is another weird static sound distortion
 - Bus number is 7016
 
 
@@ -84,7 +84,7 @@ Reading the first letter from top to bottom we get **BU2VS**
 If we include each word instead we get **BU24HVS**
 
 The FBI car is FOLLOWING the taxi, perhaps this means that UVM7482 (the car number plate) follows 7x23, smells like a subdomain to me
-7x23.UVM7482
+**7x23.UVM7482**
 
 Shodan.io Screen shows a number of cookies - we might be able to hijack these to get a live session on the website.
 Mr Robot is also looking for installation of Apache Tomcat - Of which older versions that expose the management console have huge vulnerabilities in. 
@@ -102,15 +102,20 @@ also other name servers can be seen with 2ns. and ns2.
 
 192.251.68.242:36268 | http://www.conficturaindustries.com/ 
 
+
+
 Files
 -----
 apc_hw05_aos_640.bin
+
 
 
 CMD used
 --------
 ls
 shred -f -n 3 *
+
+
 
 Crazy Ramblings
 ---------------
