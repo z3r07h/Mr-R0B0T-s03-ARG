@@ -21,7 +21,7 @@ Observations
 - "Poison the data" - perhaps links back to Alice in wonderland
 - Nameservers on the ruxmsu9u dns page are different than on the maindomain.co website
 - Domain K6F7241
--** computer 192.251.68.242:36268 | http://www.conficturaindustries.com/ - this is supposed to be Tyrells machine, acting as the master for the rwwwshell**
+-**computer 192.251.68.242:36268 | http://www.conficturaindustries.com/**
 - Eliiot gets a connection from the slave at 10:29/10:30 pm approx - NY time
 - file apc_hw05_aos_640.bin is also on the slave machine
 - @26.34 - there is a sign that says "NOTICE, Building under 24 hour surveillance"
