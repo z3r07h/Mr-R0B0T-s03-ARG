@@ -21,13 +21,13 @@ Observations
 - "Poison the data" - perhaps links back to Alice in wonderland
 - Nameservers on the ruxmsu9u dns page are different than on the maindomain.co website
 - Domain K6F7241
--**computer 192.251.68.242:36268 | http://www.conficturaindustries.com/**
+- **computer 192.251.68.242:36268 | http://www.conficturaindustries.com/**
 - Eliiot gets a connection from the slave at 10:29/10:30 pm approx - NY time
 - file apc_hw05_aos_640.bin is also on the slave machine
 - @26.34 - there is a sign that says "NOTICE, Building under 24 hour surveillance"
 - Taxi number 7X23
 - Following car number plate - UVM7482 (NY)(2015)
--**www.nyspcjis.net/menu/services/nyspncic2000/**
+- **www.nyspcjis.net/menu/services/nyspncic2000/**
 - Car registered to Brooklyn 11222
 - New chr is called Detective Robert Abernethy/ Abernathy 
 - Detective Badge number is 8301  - 19th Precinct
@@ -71,11 +71,6 @@ Need to find someone (as Im lazy) to put the sound distortions noticed into an a
 If we can get onto the MASTER (Tyrells) Machine at 10:29/10:30 perhaps we can get a connection from the slave machine (via rwwwshell). If so, the BIN file on their may be quite Easter Eggy
 
 Also the video distortion at 35:31 seems highly suspect
-
-r/inside_e_corp This is Insane.. IS this the hidden thing Sam E was talking about? It would make sense, considering so much of Reddit was focused on the previous ARGS and never noticed that there was an e-corp subreddit all along!
-This thing is crazy, all made two years ago, which shows us how deeply they've thought about this story and it's main events. 
-Two other crazy bits here 1) the subreddit also references another one called "Real Mystery Spot" which hints at parallel dimension stuff.. Which was one of the fan-theories. 
-Also if We as fans found this two years ago, we would have been getting a glimpse of the future, also fueling the time travel theories. This is weird. I will say more about it in their own sections. 
 
 There is a sign basically saying LOOK AT ME
 it says **NOTICE - Building under 24 hour surveillance**
@@ -128,3 +123,9 @@ Abernathy in the Red wheel barrow shop when debating about his free milkshake.
 Is the 36268 port used a representation of the word ROBOT? 
 
 ECOULA was quite close to ECORP, so for completeness, the base 64 RUNPRP -> ECORP
+
+r/inside_e_corp This is Insane.. IS this the hidden thing Sam E was talking about? It would make sense, considering so much of Reddit was focused on the previous ARGS and never noticed that there was an $
+This thing is crazy, all made two years ago, which shows us how deeply they've thought about this story and it's main events.
+Two other crazy bits here 1) the subreddit also references another one called "Real Mystery Spot" which hints at parallel dimension stuff.. Which was one of the fan-theories.
+Also if We as fans found this two years ago, we would have been getting a glimpse of the future, also fueling the time travel theories. This is weird. I will say more about it in their own sections.
+
