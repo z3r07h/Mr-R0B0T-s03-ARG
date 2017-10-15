@@ -30,9 +30,11 @@ Observations
 - **www.nyspcjis.net/menu/services/nyspncic2000/**
 - Car registered to Brooklyn 11222
 - New chr is called Detective Robert Abernethy/ Abernathy 
+  -AKA Irving
 - Detective Badge number is 8301  - 19th Precinct
-- DT asks Darlene to order a "couple of number 4s)
-- Number 4 on redwheel barrow menu is - St louis _____ pork ___ 
+- DT asks Darlene to order a "couple of number 4s" at RWB-BBQ
+  - Number 4 on redwheel barrow menu is - St louis _____ pork ___ 
+  - Most similar item on website's menu.pdf is the St. Louis Style Pork Ribs
 - Lots of signs around saying things like FOR LEASE OR RENT, PRIME COMMERCIAL SPACE AVAILABLE
 - FOR, SALE, OR, LEASE, 2000 Sq.Ft., On Ground FL, WILL, SUB-DIVIDE
 - Signs are mostly from E-Corp Real Estate Group
@@ -46,7 +48,7 @@ Observations
 - CV is hosted at jobs.runpula.net (runpula base64 becomes ECOULA)
 - Part of the css used comes from a site call thingsthatarebrown.com - needs to be checked
 - 718-555-0179 phone number on the bottom of one of the job adverts on the wall
-- Shodan.io used by Mr Robot
+- Shodan.io used by Mr. Robot
 - "org: "Evil corp" product: "Apache Tomcat"
 - **compute.evil-corp-usa.com**
 - Also information about AWS staging area and a session cookie
@@ -66,7 +68,7 @@ The Mosaic in Elliots apartment could be some sort of floor plan (credit: CD)
 Materialism and Greed are not my American Values.. This seems almost like a cryptic crossword clue. 
 Therefore if M&G != American Values - What does? 'Values' here sticks out like a sore thumb, but what are American Values.. HEX, RGB? Something else I bet
 
-Need to find someone (as Im lazy) to put the sound distortions noticed into an analyser to see if there's anything hidden there
+Need to find someone (as I'm lazy) to put the sound distortions noticed into an analyser to see if there's anything hidden there
 
 If we can get onto the MASTER (Tyrells) Machine at 10:29/10:30 perhaps we can get a connection from the slave machine (via rwwwshell). If so, the BIN file on their may be quite Easter Eggy
 
@@ -126,7 +128,7 @@ Is the 36268 port used a representation of the word ROBOT?
 ECOULA was quite close to ECORP, so for completeness, the base 64 RUNPRP -> ECORP
 
 r/inside_e_corp This is Insane.. IS this the hidden thing Sam E was talking about? It would make sense, considering so much of Reddit was focused on the previous ARGS and never noticed that there was an $
-This thing is crazy, all made two years ago, which shows us how deeply they've thought about this story and it's main events.
+This thing is crazy, all made two years ago, which shows us how deeply they've thought about this story and it's main events. Some users are theorizing that the Reddit mods retroactively helped Mr. Robot and falsified the timestamps, while others are theorizing that Sam had the foresight to make it 2 years ago.
 Two other crazy bits here 1) the subreddit also references another one called "Real Mystery Spot" which hints at parallel dimension stuff.. Which was one of the fan-theories.
 Also if We as fans found this two years ago, we would have been getting a glimpse of the future, also fueling the time travel theories. This is weird. I will say more about it in their own sections.
 
