@@ -5,7 +5,11 @@ A writeup for things found and theories regarding the Mr Robot Season 3 ARG
 Layout
 ------
 
-Each ARG 'puzzle' will have it's own subdirectory, along with a readme to include the conclusions, and theories, backup scripts and tools as necessary, and notes as just a personal account of some things that may be out of the ordinary.  
+**Episodes** folder contains what will mostly be the s0urce information. 
+Inside Each episode will be a list of findings, theories, links found, pictures, QR codes, etc, basically everything that COULD be ARG related. The readme for each one will list what has been found, investigated, results, and conclusions. 
+
+**Sites** folder contains sites and links found from Episode / Other investigation
+Each ARG Site will have it's own subdirectory, along with a readme to include the conclusions, and theories, backup scripts and tools as necessary, and notes as just a personal account of some things that may be out of the ordinary.  
 
 Timeline
 --------
