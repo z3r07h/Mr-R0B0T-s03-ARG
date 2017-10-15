@@ -108,6 +108,7 @@ apc_hw05_aos_640.bin
 CMD used
 --------
 ls
+
 shred -f -n 3 *
 
 
