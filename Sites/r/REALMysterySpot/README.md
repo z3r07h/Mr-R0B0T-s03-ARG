@@ -5,6 +5,7 @@
 * Map of locations mentioned in the posts, can the locations given can be found on a map and plotted.
 * Some of these references to plot lines in movies or shows?
 
+Subreddit Timeline map (Credit Discord guys) : https://cdn.discordapp.com/attachments/367880338636144641/369266941577265152/subreddit-map.png
 ---
 
 ##  It’s All A Simulation (self.REALMysterySpot) submitted 2 years ago by DenOfMellowMen
@@ -61,8 +62,9 @@ The fourth stage is pure simulacrum, in which the simulacrum has no relationship
 # Posts TODO:
 
 ## Shenandoah Caverns in VA (self.REALMysterySpot) submitted 2 years ago by LuckySpelunky
-
-..More to follow.
+Appears to be the odd one out of the polygon of states.
+The Yellow Barn is open daily from 9 AM to 5 PM 
+https://shenandoahcaverns.com/
 
 ## The GREATEST mystery spot OF ALL has finally been found!!! (self.REALMysterySpot) submitted 2 years ago by chillin_chinchilla
 
@@ -78,11 +80,25 @@ The fourth stage is pure simulacrum, in which the simulacrum has no relationship
 
 ## Gravitational Waves Leaking from Parallel Universes? (self.REALMysterySpot) submitted 2 years ago by KrullFan
 
-..More to follow.
+[–]LuckySpelunky 30 points 8 days ago  <-- **edited 8 days ago**
+
+You mean, you’ll put down your rock and I’ll put down my sword, and we’ll try and kill each other like civilized people? For the 264th time there's no need to argue, zeesh...where's the love? :x Going incognito now. :E
+
+*264th seems important
+
+
+[–]blazefire_44 1 point 2 years ago 
+
+uh... don’t see anything in NJ on this list. did you mean the one in NY? https://en.wikipedia.org/wiki/List_of_accelerators_in_particle_physics
+
+
+
+    permalinkembedsaveparentgive gold
 
 ## Boundary Waters Minnesota (self.REALMysterySpot) submitted 2 years ago by catcherandtheoye
 
-..More to follow.
+Boundary Waters --> Google maps Alice Lake and lake Carol
+https://www.fs.usda.gov/recmain/superior/recreation
 
 ## Help Make This A Thing! (self.REALMysterySpot) submitted 2 years ago by KrullFan
 
