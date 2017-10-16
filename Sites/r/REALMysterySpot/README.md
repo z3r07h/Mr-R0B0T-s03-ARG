@@ -19,9 +19,9 @@ Everything we see and know and touch and feel is an illusion.
 All facets of your life is nothing more than a digital construct in some future civilization’s computer simulation. 
 You are basically a more boring (albeit high-res) version of The Sims. 
 Or, if you want to get real trippy about it... As our future in this simulation continues along, 
-we will have developed the computing power to run our own simulations, thus creating a simulation in a simulation. 
+we will have developed the computing power to run our own simulations, thus creating a simulation in a simulation.
 And maybe that’s what we are in all along anyway 
--- a simulation of someone who has no idea that they themselves are in a simulation. 
+-- a simulation of someone who has no idea that they themselves are in a simulation.
 And your “mystery spots” can be explained away by a lack of processing power in the computer that is running our simulation 
 -- either in the top level sim or the sim within the sim 
 -- or perhaps even corrupt bits of code.
@@ -47,7 +47,9 @@ The first stage is a faithful image/copy, where we believe, and it may even be c
 
 The second stage is perversion of reality, this is where we come to believe the sign to be an unfaithful copy, which "masks and denatures" reality as an "evil appearance—it is of the order of maleficence". Here, signs and images do not faithfully reveal reality to us, but can hint at the existence of an obscure reality which the sign itself is incapable of encapsulating.
     
-The third stage masks the absence of a profound reality, where the sign pretends to be a faithful copy, but it is a copy with no original. Signs and images claim to represent something real, but no representation is taking place and arbitrary images are merely suggested as things which they have no relationship to. Baudrillard calls this the "order of sorcery", a regime of semantic algebra where all human meaning is conjured artificially to appear as a reference to the (increasingly) hermetic truth.
+**The third stage masks the absence of a profound reality, where the sign pretends to be a faithful copy, but it is a copy with no original. 
+Signs and images claim to represent something real, but no representation is taking place and arbitrary images are merely suggested as things which they have no relationship to. 
+Baudrillard calls this the "order of sorcery", a regime of semantic algebra where all human meaning is conjured artificially to appear as a reference to the (increasingly) hermetic truth.**
     
 The fourth stage is pure simulacrum, in which the simulacrum has no relationship to any reality whatsoever. Here, signs merely reflect other signs and any claim to reality on the part of images or signs is only of the order of other such claims. This is a regime of total equivalency, where cultural products need no longer even pretend to be real in a naïve sense, because the experiences of consumers' lives are so predominantly artificial that even claims to reality are expected to be phrased in artificial, "hyperreal" terms. Any naïve pretension to reality as such is perceived as bereft of critical self-awareness, and thus as oversentimental.
     
