@@ -106,7 +106,10 @@ https://www.fs.usda.gov/recmain/superior/recreation
 
 ## Oregon Vortex (self.REALMysterySpot) submitted 2 years ago by redstar_redeye
 
-..More to follow.
+The tourist destination is actually based off a REAL place in Oregon where the gravitational pull is at an angle. The government built the skewed buildings for what is now the so-called tourist trap because word was already out about the vortex, so the “tourist trap” became cover for the REAL site, which is now under US Gov control. It’s not just some wonky gravity. It’s a portal between other vortexes on earth, teleporting from here to where ever -- all under control of the Military of course!!! The REAL vortex is located where the Boardman Naval Bombing Range sits. Clearly “Perception Management” going on here -- a classic US Military disinformation tactic. One discredits the idea of the vortex with it’s cheesy slanted structures. The military facility dissuades looky-loos from investigating for fear of getting “blown to bits”. The US Gov has been doing tests at vortexes like these for years now but no one will acknowledge that they’re sending troops through the vortex to god knows where!!! And who knows what they’ll unleash.
+
+**Weird looking satalite imagery with square - nothing notable thus far.
+Used co ords to get more precise location **
 
 ## Magnetic Field on the 805 / Sorrento Valley Rd offramp in SD (self.REALMysterySpot) submitted 2 years ago by Mister-3
 
