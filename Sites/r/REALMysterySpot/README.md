@@ -1,4 +1,4 @@
-#Overview of IDEAS: 
+# H1Overview of IDEAS: 
 * Does this give strength to the alternate universe fan theory
 * Reddit short links do they have any significance, can they be used as anything else.e.g  https://redd.it/74zefi
    meaning 74zefi could be tried in https://www.nyspcjis.net/menu/services/nyspncic2000/ 
@@ -7,13 +7,13 @@
 
 ---
 
-#It’s All A Simulation (self.REALMysterySpot) submitted 2 years ago by DenOfMellowMen**
+# H1 It’s All A Simulation (self.REALMysterySpot) submitted 2 years ago by DenOfMellowMen**
 URL: https://www.reddit.com/r/REALMysterySpot/comments/74zefi/its_all_a_simulation/
 short Link: https://redd.it/74zefi
 
 ---
 
-**Post
+# H1 Post
 Our entire perception of reality is all but a simulation. 
 Everything we see and know and touch and feel is an illusion. 
 All facets of your life is nothing more than a digital construct in some future civilization’s computer simulation. 
@@ -37,7 +37,7 @@ uhhhh...https://media.giphy.com/media/jA8TT03Sj2pXO/giphy.gif
 
 ---
 
-#BRAIN DUMPS
+# H1 BRAIN DUMPS
 
 **https://en.wikipedia.org/wiki/Simulacra_and_Simulation**
 
@@ -55,6 +55,7 @@ The first stage is a faithful image/copy, where we believe, and it may even be c
 
 ---
 
+# H1 Posts TODO:
 
 Shenandoah Caverns in VA (self.REALMysterySpot) submitted 2 years ago by LuckySpelunky
 ..More to follow.
