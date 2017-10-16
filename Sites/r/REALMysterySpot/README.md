@@ -7,7 +7,7 @@
 
 ---
 
-#  It’s All A Simulation (self.REALMysterySpot) submitted 2 years ago by DenOfMellowMen**
+##  It’s All A Simulation (self.REALMysterySpot) submitted 2 years ago by DenOfMellowMen
 URL: https://www.reddit.com/r/REALMysterySpot/comments/74zefi/its_all_a_simulation/
 short Link: https://redd.it/74zefi
 
@@ -56,29 +56,50 @@ The fourth stage is pure simulacrum, in which the simulacrum has no relationship
 
 ---
 
-# H1 Posts TODO:
+# Posts TODO:
 
-Shenandoah Caverns in VA (self.REALMysterySpot) submitted 2 years ago by LuckySpelunky
+## Shenandoah Caverns in VA (self.REALMysterySpot) submitted 2 years ago by LuckySpelunky
+
 ..More to follow.
 
-The GREATEST mystery spot OF ALL has finally been found!!! (self.REALMysterySpot) submitted 2 years ago by chillin_chinchilla
+## The GREATEST mystery spot OF ALL has finally been found!!! (self.REALMysterySpot) submitted 2 years ago by chillin_chinchilla
+
 ..More to follow.
-C’mon Guys (self.REALMysterySpot) submitted 2 years ago by KrullFan
+
+## C’mon Guys (self.REALMysterySpot) submitted 2 years ago by KrullFan
+
 ..More to follow.
-Me reading this sub (self.REALMysterySpot) submitted 2 years ago by ksup2bow
+
+## Me reading this sub (self.REALMysterySpot) submitted 2 years ago by ksup2bow
+
 ..More to follow.
-Gravitational Waves Leaking from Parallel Universes? (self.REALMysterySpot) submitted 2 years ago by KrullFan
+
+## Gravitational Waves Leaking from Parallel Universes? (self.REALMysterySpot) submitted 2 years ago by KrullFan
+
 ..More to follow.
-Boundary Waters Minnesota (self.REALMysterySpot) submitted 2 years ago by catcherandtheoye
+
+## Boundary Waters Minnesota (self.REALMysterySpot) submitted 2 years ago by catcherandtheoye
+
 ..More to follow.
-Help Make This A Thing! (self.REALMysterySpot) submitted 2 years ago by KrullFan
+
+## Help Make This A Thing! (self.REALMysterySpot) submitted 2 years ago by KrullFan
+
 ..More to follow.
-Oregon Vortex (self.REALMysterySpot) submitted 2 years ago by redstar_redeye
+
+## Oregon Vortex (self.REALMysterySpot) submitted 2 years ago by redstar_redeye
+
 ..More to follow.
-Magnetic Field on the 805 / Sorrento Valley Rd offramp in SD (self.REALMysterySpot) submitted 2 years ago by Mister-3
+
+## Magnetic Field on the 805 / Sorrento Valley Rd offramp in SD (self.REALMysterySpot) submitted 2 years ago by Mister-3
+
 ..More to follow.
-Lithium Mine in Chile (self.REALMysterySpot) submitted 2 years ago by KrullFan
+
+## Lithium Mine in Chile (self.REALMysterySpot) submitted 2 years ago by KrullFan
+
 ..More to follow.
-Woods behind my Sub-division in Norcross GA in the 80s submitted 2 years ago by KrullFan
+
+## Woods behind my Sub-division in Norcross GA in the 80s submitted 2 years ago by KrullFan
+
 ..More to follow.
+
 
