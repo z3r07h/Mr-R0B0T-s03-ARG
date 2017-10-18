@@ -108,7 +108,8 @@ Used co ords to get more precise location **
 
 ## Magnetic Field on the 805 / Sorrento Valley Rd offramp in SD (self.REALMysterySpot) submitted 2 years ago by Mister-3
 
-[logo]
+![Sorrento Valley ](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/SD-Carroll.png "Another Caroll Reference")
+![Sorrento Valley General Atomics ](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/SD-GA.png"General Atomics")
 
 [logo]:https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/SD-Carroll.png?raw=true
 
