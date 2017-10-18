@@ -108,7 +108,9 @@ Used co ords to get more precise location **
 
 ## Magnetic Field on the 805 / Sorrento Valley Rd offramp in SD (self.REALMysterySpot) submitted 2 years ago by Mister-3
 
-..More to follow.
+[logo]
+
+[logo]:https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/SD-Carroll.png?raw=true
 
 ## Lithium Mine in Chile (self.REALMysterySpot) submitted 2 years ago by KrullFan
 
