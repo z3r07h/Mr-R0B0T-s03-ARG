@@ -4,17 +4,14 @@
    meaning 74zefi could be tried in https://www.nyspcjis.net/menu/services/nyspncic2000/ 
 * Map of locations mentioned in the posts, can the locations given can be found on a map and plotted.
 * Some of these references to plot lines in movies or shows?
-
-Subreddit Timeline map (Credit Discord guys) : https://cdn.discordapp.com/attachments/367880338636144641/369266941577265152/subreddit-map.png
+* Subreddit Timeline map (Credit Discord guys) : https://cdn.discordapp.com/attachments/367880338636144641/369266941577265152/subreddit-map.png
 ---
 
 ##  It’s All A Simulation (self.REALMysterySpot) submitted 2 years ago by DenOfMellowMen
 URL: https://www.reddit.com/r/REALMysterySpot/comments/74zefi/its_all_a_simulation/
 short Link: https://redd.it/74zefi
 
----
 
-# Post
 Our entire perception of reality is all but a simulation. 
 Everything we see and know and touch and feel is an illusion. 
 All facets of your life is nothing more than a digital construct in some future civilization’s computer simulation. 
@@ -27,7 +24,6 @@ And your “mystery spots” can be explained away by a lack of processing power
 -- either in the top level sim or the sim within the sim 
 -- or perhaps even corrupt bits of code.
 
-**Comments**
 [–]chillin_chinchilla 47 points 8 days ago 
 
 uhhhh...https://media.giphy.com/media/jA8TT03Sj2pXO/giphy.gif
@@ -37,8 +33,6 @@ uhhhh...https://media.giphy.com/media/jA8TT03Sj2pXO/giphy.gif
 “Order of Sorcery” according to Baudrillard.
 
 ---
-
-# BRAIN DUMPS
 
 **https://en.wikipedia.org/wiki/Simulacra_and_Simulation**
 
@@ -59,12 +53,39 @@ The fourth stage is pure simulacrum, in which the simulacrum has no relationship
 
 ---
 
-# Posts TODO:
-
 ## Shenandoah Caverns in VA (self.REALMysterySpot) submitted 2 years ago by LuckySpelunky
 Appears to be the odd one out of the polygon of states.
 The Yellow Barn is open daily from 9 AM to 5 PM 
 https://shenandoahcaverns.com/
+
+## Gravitational Waves Leaking from Parallel Universes? (self.REALMysterySpot) submitted 2 years ago by KrullFan
+
+[–]LuckySpelunky 30 points 8 days ago  <-- **edited 8 days ago**
+
+You mean, you’ll put down your rock and I’ll put down my sword, and we’ll try and kill each other like civilized people? For the ** 264th time ** there's no need to argue, zeesh...where's the love? :x Going incognito now. :E
+
+** 264th seems important **
+
+[–]blazefire_44 1 point 2 years ago 
+uh... don’t see anything in NJ on this list. did you mean the one in NY? https://en.wikipedia.org/wiki/List_of_accelerators_in_particle_physics
+
+---
+
+## Boundary Waters Minnesota (self.REALMysterySpot) submitted 2 years ago by catcherandtheoye
+
+Boundary Waters --> Google maps Alice Lake and lake Carol
+https://www.fs.usda.gov/recmain/superior/recreation
+
+---
+## Oregon Vortex (self.REALMysterySpot) submitted 2 years ago by redstar_redeye
+
+The tourist destination is actually based off a REAL place in Oregon where the gravitational pull is at an angle. The government built the skewed buildings for what is now the so-called tourist trap because word was already out about the vortex, so the “tourist trap” became cover for the REAL site, which is now under US Gov control. It’s not just some wonky gravity. It’s a portal between other vortexes on earth, teleporting from here to where ever -- all under control of the Military of course!!! The REAL vortex is located where the Boardman Naval Bombing Range sits. Clearly “Perception Management” going on here -- a classic US Military disinformation tactic. One discredits the idea of the vortex with it’s cheesy slanted structures. The military facility dissuades looky-loos from investigating for fear of getting “blown to bits”. The US Gov has been doing tests at vortexes like these for years now but no one will acknowledge that they’re sending troops through the vortex to god knows where!!! And who knows what they’ll unleash.
+
+** Weird looking satalite imagery with square - nothing notable thus far.
+Used co ords to get more precise location **
+
+
+---
 
 ## The GREATEST mystery spot OF ALL has finally been found!!! (self.REALMysterySpot) submitted 2 years ago by chillin_chinchilla
 
@@ -78,38 +99,12 @@ https://shenandoahcaverns.com/
 
 ..More to follow.
 
-## Gravitational Waves Leaking from Parallel Universes? (self.REALMysterySpot) submitted 2 years ago by KrullFan
 
-[–]LuckySpelunky 30 points 8 days ago  <-- **edited 8 days ago**
-
-You mean, you’ll put down your rock and I’ll put down my sword, and we’ll try and kill each other like civilized people? For the 264th time there's no need to argue, zeesh...where's the love? :x Going incognito now. :E
-
-*264th seems important
-
-
-[–]blazefire_44 1 point 2 years ago 
-
-uh... don’t see anything in NJ on this list. did you mean the one in NY? https://en.wikipedia.org/wiki/List_of_accelerators_in_particle_physics
-
-
-
-    permalinkembedsaveparentgive gold
-
-## Boundary Waters Minnesota (self.REALMysterySpot) submitted 2 years ago by catcherandtheoye
-
-Boundary Waters --> Google maps Alice Lake and lake Carol
-https://www.fs.usda.gov/recmain/superior/recreation
 
 ## Help Make This A Thing! (self.REALMysterySpot) submitted 2 years ago by KrullFan
 
 ..More to follow.
 
-## Oregon Vortex (self.REALMysterySpot) submitted 2 years ago by redstar_redeye
-
-The tourist destination is actually based off a REAL place in Oregon where the gravitational pull is at an angle. The government built the skewed buildings for what is now the so-called tourist trap because word was already out about the vortex, so the “tourist trap” became cover for the REAL site, which is now under US Gov control. It’s not just some wonky gravity. It’s a portal between other vortexes on earth, teleporting from here to where ever -- all under control of the Military of course!!! The REAL vortex is located where the Boardman Naval Bombing Range sits. Clearly “Perception Management” going on here -- a classic US Military disinformation tactic. One discredits the idea of the vortex with it’s cheesy slanted structures. The military facility dissuades looky-loos from investigating for fear of getting “blown to bits”. The US Gov has been doing tests at vortexes like these for years now but no one will acknowledge that they’re sending troops through the vortex to god knows where!!! And who knows what they’ll unleash.
-
-**Weird looking satalite imagery with square - nothing notable thus far.
-Used co ords to get more precise location **
 
 ## Magnetic Field on the 805 / Sorrento Valley Rd offramp in SD (self.REALMysterySpot) submitted 2 years ago by Mister-3
 
