@@ -107,11 +107,24 @@ Used co ords to get more precise location **
 
 
 ## Magnetic Field on the 805 / Sorrento Valley Rd offramp in SD (self.REALMysterySpot) submitted 2 years ago by Mister-3
+> swear to god there’s something weird going on here. 
+> used to live in SD and whenever I’d exit the highway here, 
+> at the bottom of the ramp if I put my car in neutral, 
+> I could feel it getting pulled BACK UP THE RAMP. just a few feet, but still. def freaky weird.
 
+>[–]KrullFan 1 point 2 years ago 
+>
+> If I’m ever down that way I’ll definitely check that out! Thanks for posting!!
+
+
+
+Another Caroll Reference
 ![Sorrento Valley ](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/SD-Carroll.png "Another Caroll Reference")
-![Sorrento Valley General Atomics ](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/SD-GA.png"General Atomics")
 
-[logo]:https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/SD-Carroll.png?raw=true
+
+Sorrento Valley General Atomics
+![Sorrento Valley General Atomics] (https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/SD-GA.png "General Atomics")
+
 
 ## Lithium Mine in Chile (self.REALMysterySpot) submitted 2 years ago by KrullFan
 
