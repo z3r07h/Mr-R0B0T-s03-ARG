@@ -32,8 +32,8 @@ uhhhh...https://media.giphy.com/media/jA8TT03Sj2pXO/giphy.gif
 
 “Order of Sorcery” according to Baudrillard.
 
----
-
+Ideas:
+>
 **https://en.wikipedia.org/wiki/Simulacra_and_Simulation**
 
 Simulacra and Simulation breaks the sign-order into four stages: **Third Stage-> is referenced with the "order of socery" Could this be a reference to Series 3?**
