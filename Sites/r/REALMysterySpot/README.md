@@ -12,28 +12,28 @@ URL: https://www.reddit.com/r/REALMysterySpot/comments/74zefi/its_all_a_simulati
 short Link: https://redd.it/74zefi
 
 
-Our entire perception of reality is all but a simulation. 
-Everything we see and know and touch and feel is an illusion. 
-All facets of your life is nothing more than a digital construct in some future civilization’s computer simulation. 
-You are basically a more boring (albeit high-res) version of The Sims. 
-Or, if you want to get real trippy about it... As our future in this simulation continues along, 
-we will have developed the computing power to run our own simulations, thus creating a simulation in a simulation.
-And maybe that’s what we are in all along anyway 
--- a simulation of someone who has no idea that they themselves are in a simulation.
-And your “mystery spots” can be explained away by a lack of processing power in the computer that is running our simulation 
--- either in the top level sim or the sim within the sim 
--- or perhaps even corrupt bits of code.
+> Our entire perception of reality is all but a simulation. 
+> Everything we see and know and touch and feel is an illusion. 
+> All facets of your life is nothing more than a digital construct in some future civilization’s computer simulation. 
+> You are basically a more boring (albeit high-res) version of The Sims. 
+> Or, if you want to get real trippy about it... As our future in this simulation continues along, 
+> we will have developed the computing power to run our own simulations, thus creating a simulation in a simulation.
+> And maybe that’s what we are in all along anyway 
+> -- a simulation of someone who has no idea that they themselves are in a simulation.
+> And your “mystery spots” can be explained away by a lack of processing power in the computer that is running our simulation 
+> -- either in the top level sim or the sim within the sim 
+> -- or perhaps even corrupt bits of code.
 
-[–]chillin_chinchilla 47 points 8 days ago 
-
-uhhhh...https://media.giphy.com/media/jA8TT03Sj2pXO/giphy.gif
-
-[–]catcherandtheoye 1 point 2 years ago 
-
+> [–]chillin_chinchilla 47 points 8 days ago 
+> 
+> uhhhh...https://media.giphy.com/media/jA8TT03Sj2pXO/giphy.gif
+> 
+> [–]catcherandtheoye 1 point 2 years ago 
+> 
 “Order of Sorcery” according to Baudrillard.
 
-Ideas:
->
+###Ideas:
+
 **https://en.wikipedia.org/wiki/Simulacra_and_Simulation**
 
 Simulacra and Simulation breaks the sign-order into four stages: **Third Stage-> is referenced with the "order of socery" Could this be a reference to Series 3?**
@@ -58,16 +58,20 @@ Appears to be the odd one out of the polygon of states.
 The Yellow Barn is open daily from 9 AM to 5 PM 
 https://shenandoahcaverns.com/
 
+
+
 ## Gravitational Waves Leaking from Parallel Universes? (self.REALMysterySpot) submitted 2 years ago by KrullFan
 
-[–]LuckySpelunky 30 points 8 days ago  <-- **edited 8 days ago**
+> [–]LuckySpelunky 30 points 8 days ago  <-- **edited 8 days ago**
+>
+> You mean, you’ll put down your rock and I’ll put down my sword, and we’ll try and kill each other like civilized people? 
 
-You mean, you’ll put down your rock and I’ll put down my sword, and we’ll try and kill each other like civilized people? For the ** 264th time ** there's no need to argue, zeesh...where's the love? :x Going incognito now. :E
+>For the ** 264th time ** there's no need to argue, zeesh...where's the love? :x Going incognito now. :E
 
-** 264th seems important **
+*264th seems important*
 
-[–]blazefire_44 1 point 2 years ago 
-uh... don’t see anything in NJ on this list. did you mean the one in NY? https://en.wikipedia.org/wiki/List_of_accelerators_in_particle_physics
+> [–]blazefire_44 1 point 2 years ago 
+> uh... don’t see anything in NJ on this list. did you mean the one in NY? https://en.wikipedia.org/wiki/List_of_accelerators_in_particle_physics
 
 ---
 
@@ -76,7 +80,30 @@ uh... don’t see anything in NJ on this list. did you mean the one in NY? https
 Boundary Waters --> Google maps Alice Lake and lake Carol
 https://www.fs.usda.gov/recmain/superior/recreation
 
+![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/boundary-waters.png "Boundary Waters")
+![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/lake-carol.png "Another Caroll Reference")
 ---
+
+## Magnetic Field on the 805 / Sorrento Valley Rd offramp in SD (self.REALMysterySpot) submitted 2 years ago by Mister-3
+> swear to god there’s something weird going on here. 
+> used to live in SD and whenever I’d exit the highway here, 
+> at the bottom of the ramp if I put my car in neutral, 
+> I could feel it getting pulled BACK UP THE RAMP. just a few feet, but still. def freaky weird.
+
+>[–]KrullFan 1 point 2 years ago 
+>
+> If I’m ever down that way I’ll definitely check that out! Thanks for posting!!
+
+
+Another Caroll Reference
+![Sorrento Valley ](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/SD-Carroll.png "Another Caroll Reference")
+
+Sorrento Valley General Atomics
+![Sorrento Valley ](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/SD-GA.png "General Atomics")
+
+
+---
+
 ## Oregon Vortex (self.REALMysterySpot) submitted 2 years ago by redstar_redeye
 
 The tourist destination is actually based off a REAL place in Oregon where the gravitational pull is at an angle. The government built the skewed buildings for what is now the so-called tourist trap because word was already out about the vortex, so the “tourist trap” became cover for the REAL site, which is now under US Gov control. It’s not just some wonky gravity. It’s a portal between other vortexes on earth, teleporting from here to where ever -- all under control of the Military of course!!! The REAL vortex is located where the Boardman Naval Bombing Range sits. Clearly “Perception Management” going on here -- a classic US Military disinformation tactic. One discredits the idea of the vortex with it’s cheesy slanted structures. The military facility dissuades looky-loos from investigating for fear of getting “blown to bits”. The US Gov has been doing tests at vortexes like these for years now but no one will acknowledge that they’re sending troops through the vortex to god knows where!!! And who knows what they’ll unleash.
@@ -106,24 +133,7 @@ Used co ords to get more precise location **
 ..More to follow.
 
 
-## Magnetic Field on the 805 / Sorrento Valley Rd offramp in SD (self.REALMysterySpot) submitted 2 years ago by Mister-3
-> swear to god there’s something weird going on here. 
-> used to live in SD and whenever I’d exit the highway here, 
-> at the bottom of the ramp if I put my car in neutral, 
-> I could feel it getting pulled BACK UP THE RAMP. just a few feet, but still. def freaky weird.
 
->[–]KrullFan 1 point 2 years ago 
->
-> If I’m ever down that way I’ll definitely check that out! Thanks for posting!!
-
-
-
-Another Caroll Reference
-![Sorrento Valley ](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/SD-Carroll.png "Another Caroll Reference")
-
-
-Sorrento Valley General Atomics
-![Sorrento Valley General Atomics] (https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/SD-GA.png "General Atomics")
 
 
 ## Lithium Mine in Chile (self.REALMysterySpot) submitted 2 years ago by KrullFan
