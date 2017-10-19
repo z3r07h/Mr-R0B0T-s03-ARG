@@ -85,6 +85,11 @@ Appears to be the odd one out of the polygon of states.
 The Yellow Barn is open daily from 9 AM to 5 PM 
 https://shenandoahcaverns.com/
 
+* Had a thought that maybe the yellow barn may mean something, with reference to the red wheel barrow. Food outlet with colour mentioned.
+I feel the colours Red Organge and YEllow to be very prominenet this season
+
+![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/screenshot-shenandoahcaverns.com-2017-10-19-09-58-52.png "yellow barn")
+
 
 
 ## Gravitational Waves Leaking from Parallel Universes? (self.REALMysterySpot) submitted 2 years ago by KrullFan
