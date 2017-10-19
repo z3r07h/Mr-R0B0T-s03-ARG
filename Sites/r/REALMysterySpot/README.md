@@ -3,8 +3,18 @@
 * Reddit short links do they have any significance, can they be used as anything else.e.g  https://redd.it/74zefi
    meaning 74zefi could be tried in https://www.nyspcjis.net/menu/services/nyspncic2000/ 
 * Map of locations mentioned in the posts, can the locations given can be found on a map and plotted.
+
+![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/screenshot-www.google.com-2017-10-19-09-33-34.png "polygon")
+![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/screenshot-www.google.com-2017-10-16-21-14-25.png "polygon")
+![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/screenshot-www.google.com-2017-10-19-09-34-27.png "polygon")
+
 * Some of these references to plot lines in movies or shows?
 * Subreddit Timeline map (Credit Discord guys) : https://cdn.discordapp.com/attachments/367880338636144641/369266941577265152/subreddit-map.png
+https://drive.google.com/open?id=1LJ5LhYn959zqXR_zi_JJFjduXps&usp=sharing
+* Map of posts ![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/lake-carol.png "Another Caroll Reference")
+
+
+
 ---
 
 ##  It’s All A Simulation (self.REALMysterySpot) submitted 2 years ago by DenOfMellowMen
@@ -32,7 +42,7 @@ short Link: https://redd.it/74zefi
 > 
 “Order of Sorcery” according to Baudrillard.
 
-###Ideas:
+### Ideas:
 
 **https://en.wikipedia.org/wiki/Simulacra_and_Simulation**
 
@@ -76,15 +86,24 @@ https://shenandoahcaverns.com/
 ---
 
 ## Boundary Waters Minnesota (self.REALMysterySpot) submitted 2 years ago by catcherandtheoye
+url: https://www.reddit.com/r/REALMysterySpot/comments/74zai2/boundary_waters_minnesota/ 
+shortlink:https://redd.it/74zai2
 
 Boundary Waters --> Google maps Alice Lake and lake Carol
 https://www.fs.usda.gov/recmain/superior/recreation
+
+> Went on a camping expedition in the Boundary Waters, departed from Ely, MN... after a few days of canoeing and portaging off the beaten path, found a spot where my compass wigged out. 
+> Dial was all over the place. Magnetic field had to have been off right in that spot. Even my GPS was off. 
+> Quickly moved along and everything went back to normal. It was in the open water so I couldn’t find it again even if I wanted to. But it was a bizarre experience.
+
 
 ![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/boundary-waters.png "Boundary Waters")
 ![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/lake-carol.png "Another Caroll Reference")
 ---
 
 ## Magnetic Field on the 805 / Sorrento Valley Rd offramp in SD (self.REALMysterySpot) submitted 2 years ago by Mister-3
+url : https://www.reddit.com/r/REALMysterySpot/comments/74z9fc/magnetic_field_on_the_805_sorrento_valley_rd/ Shortlink:https://redd.it/74z9fc
+
 > swear to god there’s something weird going on here. 
 > used to live in SD and whenever I’d exit the highway here, 
 > at the bottom of the ramp if I put my car in neutral, 
@@ -105,13 +124,16 @@ Sorrento Valley General Atomics
 ---
 
 ## Oregon Vortex (self.REALMysterySpot) submitted 2 years ago by redstar_redeye
+url:https://www.reddit.com/r/REALMysterySpot/comments/74z9n9/oregon_vortex/ shortlink:https://redd.it/74z9n9
 
-The tourist destination is actually based off a REAL place in Oregon where the gravitational pull is at an angle. The government built the skewed buildings for what is now the so-called tourist trap because word was already out about the vortex, so the “tourist trap” became cover for the REAL site, which is now under US Gov control. It’s not just some wonky gravity. It’s a portal between other vortexes on earth, teleporting from here to where ever -- all under control of the Military of course!!! The REAL vortex is located where the Boardman Naval Bombing Range sits. Clearly “Perception Management” going on here -- a classic US Military disinformation tactic. One discredits the idea of the vortex with it’s cheesy slanted structures. The military facility dissuades looky-loos from investigating for fear of getting “blown to bits”. The US Gov has been doing tests at vortexes like these for years now but no one will acknowledge that they’re sending troops through the vortex to god knows where!!! And who knows what they’ll unleash.
+>The tourist destination is actually based off a REAL place in Oregon where the gravitational pull is at an angle. The government built the skewed buildings for what is now the so-called tourist trap because word was already out about the vortex, so the “tourist trap” became cover for the REAL site, which is now under US Gov control. It’s not just some wonky gravity. 
+> It’s a portal between other vortexes on earth, teleporting from here to where ever -- all under control of the Military of course!!! The REAL vortex is located where the Boardman Naval Bombing Range sits. Clearly “Perception Management” going on here -- a classic US Military disinformation tactic. One discredits the idea of the vortex with it’s cheesy slanted structures. 
+> The military facility dissuades looky-loos from investigating for fear of getting “blown to bits”. The US Gov has been doing tests at vortexes like these for years now but no one will acknowledge that they’re sending troops through the vortex to god knows where!!! And who knows what they’ll unleash.
 
-** Weird looking satalite imagery with square - nothing notable thus far.
-Used co ords to get more precise location **
+*Weird looking satalite imagery with square - nothing notable thus far.
+Used co ords to get more precise location *
 
-
+![Oregan](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/range.png "Oregan")
 ---
 
 ## The GREATEST mystery spot OF ALL has finally been found!!! (self.REALMysterySpot) submitted 2 years ago by chillin_chinchilla
@@ -131,9 +153,6 @@ Used co ords to get more precise location **
 ## Help Make This A Thing! (self.REALMysterySpot) submitted 2 years ago by KrullFan
 
 ..More to follow.
-
-
-
 
 
 ## Lithium Mine in Chile (self.REALMysterySpot) submitted 2 years ago by KrullFan
