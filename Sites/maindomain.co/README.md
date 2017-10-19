@@ -58,7 +58,7 @@ Current Theories
 ----------------
 The links being different colours certainly brings colours into the light again. Seems to be a big thing this season (began with the colouring in pages, and the 404 on ruxmsu9u.net)
 
-PUG being on three pages (in different places) is no accident, but it's true meaning as yet is unclear. 
+PUG being on three pages (in different places) is no accident, but its true meaning as yet is unclear. 
 
 The site has poor grammar and spelling mistakes all over it. Is this another cryptic style clue, or just meant to be a bad translation from a crappy website?
 
