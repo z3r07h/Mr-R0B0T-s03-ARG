@@ -1,14 +1,54 @@
-# Overview of IDEAS: 
+URL to Puzzle : https://www.reddit.com/r/REALMysterySpot/
+
+# Overview of IDEAS:  
 * Does this give strength to the alternate universe fan theory?
+* Clue in the name real mystery *SPOT* - Do we need to spot something?
 * Reddit short links do they have any significance, can they be used as anything else.e.g  https://redd.it/74zefi
-   meaning 74zefi could be tried in https://www.nyspcjis.net/menu/services/nyspncic2000/ 
-* Some of these references to plot lines in movies or shows?
-* Subreddit Timeline map (Credit Discord guys) : https://cdn.discordapp.com/attachments/367880338636144641/369266941577265152/subreddit-map.png
+   meaning 74zefi could be tried in https://www.nyspcjis.net/menu/services/nyspncic2000/   
+   - List of posts:
+   
+      - It’s All A Simulation submitted 2 years ago by DenOfMellowMen :   https://redd.it/74zefi .
+      - Shenandoah Caverns in VA submitted 2 years ago by LuckySpelunky : https://redd.it/74ze0d
+      - The GREATEST mystery spot OF ALL has finally been found!!! submitted 2 years ago by chillin_chinchilla https://redd.it/74zdgw
+      - C’mon Guys submitted 2 years ago by KrullFan : https://redd.it/74zcx5
+      - Me reading this sub submitted 2 years ago by ksup2bow : https://redd.it/74zcu5
+      - Gravitational Waves Leaking from Parallel Universes? submitted 2 years ago by KrullFan :https://redd.it/74zb42
+      - Boundary Waters Minnesota submitted 2 years ago by catcherandtheoye https://redd.it/74zai2
+      - Help Make This A Thing! submitted 2 years ago by KrullFan https://redd.it/74z9tc
+      - Oregon Vortex submitted 2 years ago by redstar_redeye https://redd.it/74z9n9
+      - Magnetic Field on the 805 / Sorrento Valley Rd offramp in SD submitted 2 years ago by Mister-3 https://redd.it/74z9fc
+      - Lithium Mine in Chile (self.REALMysterySpot) submitted 2 years ago by KrullFan https://redd.it/74z997
+      - Woods behind my Sub-division in Norcross GA in the 80s submitted 2 years ago by KrullFan https://redd.it/74z94m
 
-* Map of posts : https://drive.google.com/open?id=1LJ5LhYn959zqXR_zi_JJFjduXps&usp=sharing
-* Map of locations mentioned in the posts, can the locations given can be found on a map and plotted.
+   - List of shortlinks
+      - 74zefi 
+      - 74ze0d
+      - 74zdgw
+      - 74zcx5
+      - 74zcu5
+      - 74zb42
+      - 74zai2
+      - 74z9tc
+      - 74z9n9
+      - 74z9fc
+      - 74z997
+      - 74z94m
+      
 
-* On the map I have plotted the general state areas (blue) - Generally where google maps takes you when searching.
+* Some of these references to plot lines in movies or shows? 
+   * the leaping into revine and going sideways seems familar in the Norcross GA Thread: https://redd.it/74z94m
+
+* Does timeline suggest anything:
+   * Post which mentions 264 was only added recently, all others much older
+   * Subreddit Timeline map (Credit Discord guys) : https://cdn.discordapp.com/attachments/367880338636144641/369266941577265152/subreddit-map.png
+
+* MAPS / Locations:
+   * Can the plot reveal any patterns?
+   * Are there locations of interest ?
+   
+   * Map of locations mentioned in the posts, can the locations given can be found on a map and plotted.
+      * Map of posts : https://drive.google.com/open?id=1LJ5LhYn959zqXR_zi_JJFjduXps&usp=sharing
+      
 
 
 If more locations come up I can add them to the map, so far this is locations featured in the real mystery thread.
@@ -18,8 +58,10 @@ Close up pictures of interesting areas are detailed below.
 Mapped locations show a polygon/square area, where Shenandoah Caverns in VA seems to be the odd one out.
 ![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/screenshot-www.google.com-2017-10-16-21-14-25.png "polygon")
 
-The yellow placemarkers are areas of interest that are more specific to the areas in the post.
-The purple markers are possible areas of interest, being a Hydrogen Collider in NY (havent found one in NJ yet) and also 264th Street. 
+## Map Key 
+   * On the map I have plotted the general state areas (blue) - Generally where google maps takes you when searching.
+   * The yellow placemarkers are areas of interest that are more specific to the areas in the post.
+   * The purple markers are possible areas of interest, being a Hydrogen Collider in NY (havent found one in NJ yet) and also 264th Street. 
 
 # Interesting Sites Layer
 
@@ -59,11 +101,10 @@ short Link: https://redd.it/74zefi
 > 
 “Order of Sorcery” according to Baudrillard.
 
-### Ideas:
-
-**https://en.wikipedia.org/wiki/Simulacra_and_Simulation**
-
-Simulacra and Simulation breaks the sign-order into four stages: **Third Stage-> is referenced with the "order of socery" Could this be a reference to Series 3?**
+* Ideas:
+   * Link to referenced quotes **https://en.wikipedia.org/wiki/Simulacra_and_Simulation**
+   * Simulacra and Simulation breaks the sign-order into four stages: 
+        * **Third Stage-> is referenced with the "order of socery" Could this be a reference to Series 3?**
 
 The first stage is a faithful image/copy, where we believe, and it may even be correct, that a sign is a "reflection of a profound reality" (pg 6), this is a good appearance, in what Baudrillard called "the sacramental order".
 
@@ -81,12 +122,11 @@ The fourth stage is pure simulacrum, in which the simulacrum has no relationship
 ---
 
 ## Shenandoah Caverns in VA (self.REALMysterySpot) submitted 2 years ago by LuckySpelunky
-Appears to be the odd one out of the polygon of states.
-The Yellow Barn is open daily from 9 AM to 5 PM 
-https://shenandoahcaverns.com/
-
-* Had a thought that maybe the yellow barn may mean something, with reference to the red wheel barrow. Food outlet with colour mentioned.
-I feel the colours Red Organge and YEllow to be very prominenet this season
+* Ideas:
+   * Appears to be the odd one out of the polygon of states.
+   * The Yellow Barn is : https://shenandoahcaverns.com/
+   * Had a thought that maybe the yellow barn may mean something, with reference to the red wheel barrow. Food outlet with colour mentioned.
+   * I feel the colours Red Organge and YEllow to be very prominenet this season
 
 ![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/screenshot-shenandoahcaverns.com-2017-10-19-09-58-52.png "yellow barn")
 
