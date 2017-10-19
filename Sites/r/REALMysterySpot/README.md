@@ -4,8 +4,19 @@
    meaning 74zefi could be tried in https://www.nyspcjis.net/menu/services/nyspncic2000/ 
 * Map of locations mentioned in the posts, can the locations given can be found on a map and plotted.
 
-![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/screenshot-www.google.com-2017-10-19-09-33-34.png "polygon")
+On the map I have plotted the general state areas (blue) - Generally where google maps takes you when searching.
+The yellow placemarkers are areas of interest that are more specific to the areas in the post 
+The purple markers are possible areas of interest, being a Hydrogen Collider in NY (havent found one in NJ yet) and also 264th Street. 
+
+If more locations come up I can add them to the map, so far this is locations featured in the real mystery thread.
+Close up pictures of interesting areas are detailed below. 
+
+Mapped locations show a polygon/square area, where Shenandoah Caverns in VA seems to be the odd one out.
 ![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/screenshot-www.google.com-2017-10-16-21-14-25.png "polygon")
+
+The map with Chilie mine included.
+![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/screenshot-www.google.com-2017-10-19-09-33-34.png "polygon")
+
 ![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/screenshot-www.google.com-2017-10-19-09-34-27.png "polygon")
 
 * Some of these references to plot lines in movies or shows?
