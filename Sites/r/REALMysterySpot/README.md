@@ -2,28 +2,32 @@
 * Does this give strength to the alternate universe fan theory
 * Reddit short links do they have any significance, can they be used as anything else.e.g  https://redd.it/74zefi
    meaning 74zefi could be tried in https://www.nyspcjis.net/menu/services/nyspncic2000/ 
+* Some of these references to plot lines in movies or shows?
+* Subreddit Timeline map (Credit Discord guys) : https://cdn.discordapp.com/attachments/367880338636144641/369266941577265152/subreddit-map.png
+
+* Map of posts : https://drive.google.com/open?id=1LJ5LhYn959zqXR_zi_JJFjduXps&usp=sharing
 * Map of locations mentioned in the posts, can the locations given can be found on a map and plotted.
 
-On the map I have plotted the general state areas (blue) - Generally where google maps takes you when searching.
-The yellow placemarkers are areas of interest that are more specific to the areas in the post 
-The purple markers are possible areas of interest, being a Hydrogen Collider in NY (havent found one in NJ yet) and also 264th Street. 
+* On the map I have plotted the general state areas (blue) - Generally where google maps takes you when searching.
+
 
 If more locations come up I can add them to the map, so far this is locations featured in the real mystery thread.
 Close up pictures of interesting areas are detailed below. 
 
+# General Area Map
 Mapped locations show a polygon/square area, where Shenandoah Caverns in VA seems to be the odd one out.
 ![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/screenshot-www.google.com-2017-10-16-21-14-25.png "polygon")
 
-The map with Chilie mine included.
+The yellow placemarkers are areas of interest that are more specific to the areas in the post.
+The purple markers are possible areas of interest, being a Hydrogen Collider in NY (havent found one in NJ yet) and also 264th Street. 
+
+# The map with Chilie mine included.
+
 ![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/screenshot-www.google.com-2017-10-19-09-33-34.png "polygon")
 
+# Interesting Sites Layer
+
 ![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/screenshot-www.google.com-2017-10-19-09-34-27.png "polygon")
-
-* Some of these references to plot lines in movies or shows?
-* Subreddit Timeline map (Credit Discord guys) : https://cdn.discordapp.com/attachments/367880338636144641/369266941577265152/subreddit-map.png
-https://drive.google.com/open?id=1LJ5LhYn959zqXR_zi_JJFjduXps&usp=sharing
-* Map of posts ![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/lake-carol.png "Another Caroll Reference")
-
 
 
 ---
@@ -110,6 +114,7 @@ https://www.fs.usda.gov/recmain/superior/recreation
 
 ![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/boundary-waters.png "Boundary Waters")
 ![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/lake-carol.png "Another Caroll Reference")
+
 ---
 
 ## Magnetic Field on the 805 / Sorrento Valley Rd offramp in SD (self.REALMysterySpot) submitted 2 years ago by Mister-3
