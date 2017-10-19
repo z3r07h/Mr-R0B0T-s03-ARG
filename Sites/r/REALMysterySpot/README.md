@@ -20,7 +20,7 @@ URL to Puzzle : https://www.reddit.com/r/REALMysterySpot/
       - Lithium Mine in Chile (self.REALMysterySpot) submitted 2 years ago by KrullFan https://redd.it/74z997
       - Woods behind my Sub-division in Norcross GA in the 80s submitted 2 years ago by KrullFan https://redd.it/74z94m
 
-   - List of shortlinks
+   - List of shortlinks : HAVE RAN THROUGH PLATE RUNNER ( NO MATCHES :-( ) 
       - 74zefi 
       - 74ze0d
       - 74zdgw
