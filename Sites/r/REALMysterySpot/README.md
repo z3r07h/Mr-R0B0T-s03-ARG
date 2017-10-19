@@ -1,5 +1,5 @@
 # Overview of IDEAS: 
-* Does this give strength to the alternate universe fan theory
+* Does this give strength to the alternate universe fan theory?
 * Reddit short links do they have any significance, can they be used as anything else.e.g  https://redd.it/74zefi
    meaning 74zefi could be tried in https://www.nyspcjis.net/menu/services/nyspncic2000/ 
 * Some of these references to plot lines in movies or shows?
@@ -21,13 +21,15 @@ Mapped locations show a polygon/square area, where Shenandoah Caverns in VA seem
 The yellow placemarkers are areas of interest that are more specific to the areas in the post.
 The purple markers are possible areas of interest, being a Hydrogen Collider in NY (havent found one in NJ yet) and also 264th Street. 
 
+# Interesting Sites Layer
+
+![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/screenshot-www.google.com-2017-10-19-09-34-27.png "polygon")
+
+
 # The map with Chilie mine included.
 
 ![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/screenshot-www.google.com-2017-10-19-09-33-34.png "polygon")
 
-# Interesting Sites Layer
-
-![Boundary Waters](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/screenshot-www.google.com-2017-10-19-09-34-27.png "polygon")
 
 
 ---
@@ -152,6 +154,17 @@ Used co ords to get more precise location *
 ![Oregan](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/r/REALMysterySpot/range.png "Oregan")
 ---
 
+
+## Lithium Mine in Chile (self.REALMysterySpot) submitted 2 years ago by KrullFan
+Not found much yet 
+
+http://www.dark-tourism.com/index.php/15-countries/individual-chapters/152-chacabuco
+> Here’s another one I heard about: the locals in this one Chilean village tell “ghost stories” about the nearby Lithium mine.
+> Weird shit like people getting trapped in rock formations, melting into the ground. Said they dug the mine too deep.....
+
+> One day I hope to save up enough for a trip to check it out for myself. But maybe someone else heard about this / can confirm?
+
+
 ## The GREATEST mystery spot OF ALL has finally been found!!! (self.REALMysterySpot) submitted 2 years ago by chillin_chinchilla
 
 ..More to follow.
@@ -171,9 +184,6 @@ Used co ords to get more precise location *
 ..More to follow.
 
 
-## Lithium Mine in Chile (self.REALMysterySpot) submitted 2 years ago by KrullFan
-
-..More to follow.
 
 ## Woods behind my Sub-division in Norcross GA in the 80s submitted 2 years ago by KrullFan
 
