@@ -1,7 +1,7 @@
 Maindomain.co
 =============
 
-This was found shortly before episode one (although it first appears in episode on)
+This was found shortly before episode one (although it first appears in episode one)
 
 maindomain.co is a DNS server configuration page from what we can tell
 
