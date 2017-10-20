@@ -18,7 +18,7 @@ Observations
 - "Materialism and GrEEd are not my American values" posters everywhere
 - People with VR headsets everywhere (perhaps foreboding some VR stuff or panderinng to the fan-theories about Elliot living in VR/Being a real life VM)
 - 1984 (split in the middle by colouring)
-- Picture of dog on wall (Spaniel?) "never forget"
+- Picture of dog on wall (Spaniel?) "never forget" 
 - The Exit is above the Eye.. (?)
 - "Poison the data" - perhaps links back to Alice in wonderland
 - Nameservers on the ruxmsu9u dns page are different than on the maindomain.co website
@@ -27,7 +27,7 @@ Observations
 - Eliiot gets a connection from the slave at 10:29/10:30 pm approx - NY time
 - file apc_hw05_aos_640.bin is also on the slave machine
 - @26.34 - there is a sign that says "NOTICE, Building under 24 hour surveillance"
-- Taxi number 7X23
+- Taxi number 7X23  - CD Solution txt : https://docs.google.com/document/d/1rmD6teKAhVRCgMX8mQ41BVOv_ydA90CXBfyHSNnImjc/edit?usp=sharing
 - Following car number plate - UVM7482 (NY)(2015)
 - **www.nyspcjis.net/menu/services/nyspncic2000/**
 - Car registered to Brooklyn 11222
@@ -47,8 +47,10 @@ Observations
 - Nods to Gideon Goddard 1963-2015
 - **QR code on wall - leads to CV of Dylan C Roberts, which leads to "inside_e_corp" Subreddit**
 - Dylan C Roberts reddit user name is BCC4LIFE
+- Cd Edit: Subreddit has lead to further subreddits : (Full list to be updated) 
+  see https://github.com/z3r07h/Mr-R0B0T-s03-ARG/tree/master/Sites/r
 - CV is hosted at jobs.runpula.net (runpula base64 becomes ECOULA)
-- Part of the css used comes from a site call thingsthatarebrown.com - needs to be checked
+- Part of the css used comes from a site call thingsthatarebrown.com - needs to be checked -CD Edit : Checked creator is not involved
 - 718-555-0179 phone number on the bottom of one of the job adverts on the wall
 - Shodan.io used by Mr. Robot
 - "org: "Evil corp" product: "Apache Tomcat"
@@ -98,6 +100,9 @@ IP Address/Sites
 
 Nameservers now start with - ns1.ndns, ns215.ni (rest is obscured)
 also other name servers can be seen with 2ns. and ns2. 
+
+CD Edit : 404 page : https://www.ruxmsu9u.net/
+Work In progress, RGB colours to colour by numbers document: https://docs.google.com/document/d/1iSz-aRVUZKhdAQHJUnnyFTaLP8NftE0H84j2B0yvJ8M/edit?usp=sharing
 
 192.251.68.242:36268 | http://www.conficturaindustries.com/ 
 
