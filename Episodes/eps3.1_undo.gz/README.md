@@ -26,17 +26,17 @@ Episode 2 Observations
 - (01:22) E-corp are setting up/have various other companies such as in the previous episode we saw e-corp estates, in this episode we see e-corp insurance
 - (01:30) "Your Trash For 2 E-coin" 
 - (01:40) E-corp building number is 901
-- (01:45) We first see Elliots ID card and the QR code on it - we will see this card 4 times in the next sequence however one of those times the card is face up (3rd time) and all the others it is upside down
+- (01:45) We first see Elliots ID card and the **QR code** on it - we will see this card 4 times in the next sequence however one of those times the card is face up (3rd time) and all the others it is upside down
 - (02:36) **https://www.trunkclub.com** - looks like a legit website, need to double check if it's part of the ARG or not
-- (xx:xx) Poster advert for "FALLERE" on the tube
+- (xx:xx) Poster advert for **"FALLERE"** on the tube
 - (03:04) We see Elliot entering his e-corp password, it looks like it at least has the letters N and Y in it. It may be possible to do some statistical analysis on what looks like are the keys entered. However we see Elliots asterixed password several times this episode, and by the final time it looks like his password is 23 characters long, statistical analysis may not help unless we can observe a very large majority of it. In addition, it could be a common phrase, or something related to the show (e.g. fiveNinehacksoleet1337ynot?. Jury is currently out on this one. 
 - (xx:xx) **l223u** -Elliot's desktop reveals a list of files, on the left hand side there is a network drive mapped with a username l223u
-- (xx:xx) **BKNAPPLE** **ARGSociety** Shout out - his name is listed on the bottom file inside Elliot's "Recovery Effort" folder
-- (03:14) **Full Ecorp address** revealed as "901 E 57th Street, New York New York, 10022, Phone number (212)-555-0171 
-- (03:17) "Primo poon" is on the 31st Floor - this can be linked to the Reddit posts found on 'inside_e_corp' subreddit, and we should be able to directly attribute the on-screen character to the username that posted a similar comment. 
-- (03:23) Map of E-corp Active US Storage Facilities - links to map theory/Geological stuff being a big impact in this seasons ARG.
-- (03:56) E-corp Employee Heirarchy (at least for Elliots Department) 
-- (04:18) **William Braddock details**: **william.braddock@e-corp-usa.com | aboynamedg00 | https://webmail.e-corp-usa.com/OWA ** 
+- (xx:xx) **BKNAPPLE** **ARGSociety Shout out** - his name is listed on the bottom file inside Elliot's "Recovery Effort" folder
+- (03:14) **Full Ecorp address** revealed as **"901 E 57th Street, New York New York, 10022, Phone number (212)-555-0171** 
+- (03:17) "Primo poon" is on the **31st Floor** - this can be linked to the Reddit posts found on 'inside_e_corp' subreddit, and we should be able to directly attribute the on-screen character to the username that posted a similar comment. 
+- (03:23) **Map** of E-corp Active US Storage Facilities - links to map theory/Geological stuff being a big impact in this seasons ARG.
+- (03:56) **E-corp Employee Heirarchy** (at least for Elliots Department) 
+- (04:18) **William Braddock details**: **william.braddock@e-corp-usa.com | aboynamedg00 | https://webmail.e-corp-usa.com/OWA** 
 - (04:18) Tool "credential harvester" used to collect Braddock's details. I believe this is from SET (social engineers toolkit) which has been used previousl by Darlene and her munchkins in season 2. In case you're wondering where it is, run SET then choose options 1 (Social engineering attacks), 2 (Webiste attack Vectors), 3 (Credential Harvester Attack Method) - DISCLAIMER, I am not advocating the use of this software for anything other than legal ethical hacking, red-teaming, or personal education. 
 - (04:21) List of William Braddocks inbox - For full names and email address please refer to subfolder
 - (04:21) **HI COLIN** Ticketmaster email to William Braddock about his 'Goo Goo Dolls' tickets - so looks like either a) he uses a different login for ticketmaster OR b) someone else forwarded him on the tickets. 
@@ -65,7 +65,7 @@ Let's see what else is in there!
 
 - (18:29) **Vimeo Account** Lonely FBI lady states that the NEW FSociety video has been posted to the same Vimeo account as the previous ones. 
 - (19:57) Blurry shot of the FBI laptop screen
-- (20:02) A Couple of interesting files on the FBI laptop
+- (20:02) A Couple of interesting **files on the FBI laptop** (add filenames)
 - (21:12) **H4G-B5FG** (could be O instead of G) Joanna Wellick's lover's car registration looks like
 - (xx:xx) **NUQ-1724** Joanna Wellick's car registration plate, it's a New York number plate, and her car is a 'surburban' model
 - (23:58) Blood on the babies head, I have certainly not screencapped this as I definitely do not think there is any secret code, or symbol being put there. 1) I don't think the producers would want us using that as a reference point or having to stare at it for hours on end to work it out, 2) I think it would be extremely difficult and time consuming to get a baby to stay still long enough to put a symbol in blood on it's head and make it look like a legitimate blood splatter at the same time.
