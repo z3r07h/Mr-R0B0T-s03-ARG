@@ -1,6 +1,7 @@
 # Mr-R0B0T-s03-ARG
 A writeup for things found and theories regarding the Mr Robot Season 3 ARG
 
+This is a living document and will seek to layout observations and investigations made into the Season 3 ARG. This is not a description of the story, nor how the story and ARG may interact. 
 
 Layout
 ------
@@ -18,6 +19,8 @@ Before Sunday 15th October 2017 - Joined ARGSOCIETY Discord channel - investigat
 
 Sun 15 Oct 14:55:02 BST 2017 - Began this Github, have begun to make notes on s03e01 - 'Eps3.0power-saver-mode.h'
 Thu 19 Oct 20:33:20 BST 2017 - MainDomain.co notes added 
+Thu 19 Oct 20:35:34 BST 2017 - Pulled in merge from ColonelDox -work on Map and Faciity locations
+
 
 
 
