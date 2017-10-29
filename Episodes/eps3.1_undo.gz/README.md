@@ -103,11 +103,12 @@ Currently we can place Elliots birthday at least between August 4th - 18th Septe
 Evidence 
 --------
 
-!(/screenshots/femtocell_access.png)
-Elliot Accessing the Femtocell
+**Elliot Accessing the Femtocell**
+![femtocell access](/screenshots/femtocell_access.png)
 
-!(/screenshots/e-corp_insurance.png)
-E-Corp Insurance
+**E-Corp Insurance**
+![e_corp_insurance](/screenshots/e-corp_insurance.png)
+
 
 
 
