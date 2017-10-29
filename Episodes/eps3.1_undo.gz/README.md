@@ -31,6 +31,7 @@ Episode 2 Observations
 -(xx:xx) Poster advert for "FALLERE" on the tube
 -(03:04) We see Elliot entering his e-corp password, it looks like it at least has the letters N and Y in it. It may be possible to do some statistical analysis on what looks like are the keys entered. However we see Elliots asterixed password several times this episode, and by the final time it looks like his password is 23 characters long, statistical analysis may not help unless we can observe a very large majority of it. In addition, it could be a common phrase, or something related to the show (e.g. fiveNinehacksoleet1337ynot?. Jury is currently out on this one. 
 -(xx:xx) **l223u** -Elliot's desktop reveals a list of files, on the left hand side there is a network drive mapped with a username l223u
+-(xx:xx) **BKNAPPLE** **ARGSociety** Shout out - his name is listed on the bottom file inside Elliot's "Recovery Effort" folder
 -(03:14) **Full Ecorp address** revealed as "901 E 57th Street, New York New York, 10022, Phone number (212)-555-0171 
 -(03:17) "Primo poon" is on the 31st Floor - this can be linked to the Reddit posts found on 'inside_e_corp' subreddit, and we should be able to directly attribute the on-screen character to the username that posted a similar comment. 
 -(03:23) Map of E-corp Active US Storage Facilities - links to map theory/Geological stuff being a big impact in this seasons ARG.
@@ -58,7 +59,60 @@ Episode 2 Observations
 -(xx:xx) **207 Broadway** Elliot's address, for completeness his apartment number is 4E. 
 -(09:48) Continuity easter egg? Is Elliot Crying in the exact same place that he was in season 1 episode 1 ?
 -(10:04) Elliot gets his prescription from "Essex Street Pharmacy"
- 
+
+Phew that's the start of th episode complete. 
+Let's see what else is in there!
+
+-(18:29) **Vimeo Account** Lonely FBI lady states that the NEW FSociety video has been posted to the same Vimeo account as the previous ones. 
+-(19:57) Blurry shot of the FBI laptop screen
+-(20:02) A Couple of interesting files on the FBI laptop
+-(21:12) **H4G-B5FG** (could be O instead of G) Joanna Wellick's lover's car registration looks like
+-(xx:xx) **NUQ-1724** Joanna Wellick's car registration plate, it's a New York number plate, and her car is a 'surburban' model
+-(23:58) Blood on the babies head, I have certainly not screencapped this as I definitely do not think there is any secret code, or symbol being put there. 1) I don't think the producers would want us using that as a reference point or having to stare at it for hours on end to work it out, 2) I think it would be extremely difficult and time consuming to get a baby to stay still long enough to put a symbol in blood on it's head and make it look like a legitimate blood splatter at the same time.
+-(38:13) "A Civilisation that leaves so many of it's citizens unsatisfied and drives them into revolt... " Einsten quote read by MR ROBOT 
+-(xx:xx) **TERS THIS FALL** These are the only letters visible from the "Separation Anxiety" film poster that Elliot is sitting in front of on the metro.
+-(xx:xx) **20:46** The time on Elliot's computer
+-(42:55) tool **cnc_receiver.py** being utilised by the FBI to take screenshots of Elliots desktop 
+-(44:01) White Rose Aide talks about the Congo "Lua al" Mine
+-(44:44) **HRC-1362**  Car registration plate parked outside the FBI stakeout house
+-(45:13) **DOJ_9431** Doj number of FBI laptop
+-(xx:xx) "Imported Kamora Coffee Liquer" on the lonely fbi lady's mug
+-(xx:xx) **08:01** Time on Elliots computer
+-(45:24) **ThePlague@ukev0hfruxcqvjst1c.net**
+-(45:24) **eugenebelford@q09orkldvfvsqq.net**
+-(xx:xx) Although the previous two emails are .net addresses they look kinda like.onion addresses
+-(45:30)**sandbox.vflsruxm.net/plans.rar** rar file Elliot uses to lure FBI into opening 
+-(46:16) The PGP'd version of Elliots email - This definitely doesn't come from the files listed and as it is in it's orginal format is not a valid PGP Message. Why? Because...
+-(46:16) **CRAMBO** , **BESKONE**, **CARNAGEINCARNATE** from **ARGSocity** reddit names in the PGP message
+
+Well that was a lot. Lets go have some fun with it all!
+
+
+Extra Interesting Stuff
+-----------------------
+
+Reddit names from people that contributed greatly to solving the ARG from season 2 were seen in this episode. Check notes above, or pictures below for confirmation. 
+
+Namely -  BKNAPPLE, CRAMBO, BESKONE, & CARNAGEINCARNATE (in that order)
+
+Elliots Birthday is mentioned in this episode,  we can try and pinpoint what date it is from various emails that have timestamps e.g. Peter MCcleerey's email dated August 4th 2015, and from the timestamps the FBI pictures are using while they monitor him.
+
+Currently we can place Elliots birthday at least between August 4th - 18th September. (needs more work)
+
+
+CMDs Used
+---------
+
+ssh -l root l4713116.e-corp-usa.com
+
+mount --rbind /sys /mnt/sys
+
+mount --rbind /dev /mnt/dev
+
+chroot /mnt /bin/bash
+
+rkhunter --check
+
 
 TODO
 ====
@@ -72,3 +126,10 @@ TODO
 - Confirm FULLTERN's first name, and find out if QR code can be enhanced
 - Get proper name of where the warehouse is that EARL has delivered stuff to. (Su Falls) ???
 - Find Screenshot for K6F7241 evidence
+- Find the FSociety Vimeo Account and check for evidence in the NEW Fsociety Video. 
+- Confirm Joanna Wellick's lover's car registration plate
+- Find the book the Freud quote is from
+- Find correct name for the Congo mine White Rose's aide speaks about
+- Email theplague and eugenebelford
+- Investigate plans.rar file (Colonel Dox has already cracked part of this so catch up with them and see if anything more can be done)
+- Do some more researching into When Elliot's birthday is. 
