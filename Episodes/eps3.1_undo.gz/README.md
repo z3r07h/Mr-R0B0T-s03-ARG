@@ -44,8 +44,21 @@ Episode 2 Observations
 -(04:33) The woman with the FBI from e-corp looks to be **Robyn/Bobby Fulltern** Not sure if her QR code can enhanced like Elliots. 
 -(04:55) **e-corp-ua.com/cpl directory/shipping/108898** website for the e-corp logistics
 -(xx:xx) EARL the driver states that he has come to "SU FALLS" (??) South Dakota
-
-
+-(05:58) **PETER MCCLEEREY password **tapitback!** 
+-(06:38) **ts1.e-corp-usa.com** looks like a production server for uploading new software to e-corp hardware
+-(06:56) Assembly code for unit **apc_hw05** - personally I don't believe there's enough of this code to compile - there's a chance the hex on the right hand side has something hidden in it. I'll keep my ear to the ground but at the moment there's so many other things to investigate that I won't be trying to decode a bunch of stuff that looks legitimate. 
+-(xx:xx) **K6F7241 - FTPplugin**
+-(xx:xx) **$73 million** the amount of money E-corp looks to save if they followed Elliot's recovery plan. Is that 73 million in this new age of the dollar becoming worthless? cos that probably wouldn't even buy 5 apples in 6 months time. ;)
+-(07:15) Elliots QR code/Id Badge upright
+-(xx:xx) "Apples 3 for $25 or 5 e-coin"
+-(07:57) Elliots Password looks to be 21 characters long
+-(08:01) Elliots Password looks to be 23 characters long
+-(xx:xx) **r/Inside_Evil_Corp** subreddit, howwever it's apparent that it's only through Elliot's eyes does the 'e' in 'e-corp' turn to 'evil' 
+-(xx:xx) **217 Broadway, tel - 212-673-7260** Chinese restaurant address next to Elliot's apartment - This has probably been noticed several times before, the phone number doesn't have the classic "555" in the middle, so this could be a legit phone number/actual building. 
+-(xx:xx) **207 Broadway** Elliot's address, for completeness his apartment number is 4E. 
+-(09:48) Continuity easter egg? Is Elliot Crying in the exact same place that he was in season 1 episode 1 ?
+-(10:04) Elliot gets his prescription from "Essex Street Pharmacy"
+ 
 
 TODO
 ====
@@ -58,3 +71,4 @@ TODO
 - Try to find out why William Braddock is called COLIN by ticketmaster
 - Confirm FULLTERN's first name, and find out if QR code can be enhanced
 - Get proper name of where the warehouse is that EARL has delivered stuff to. (Su Falls) ???
+- Find Screenshot for K6F7241 evidence
