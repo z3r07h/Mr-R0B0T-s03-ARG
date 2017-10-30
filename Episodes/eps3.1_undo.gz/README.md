@@ -241,21 +241,15 @@ rkhunter --check
 TODO
 ====
 - Fix some timestamps
-- Investigate 'trunkclub.com'
-- link "primo poon" guy to reddit post
 - I have heard of someone successfully sharpening Elliots QR code to get another ARG site out of it, I would like to try this myself but I dont think I have the necessary image skills - so need to track down the sharpened image, and give credit to the originator. 
 - EMAIL ALL THE THINGS, all of the e-corp heirarchy and all the people seen in William Braddocks and co's emails. 
-- Create emails folder for list of all employees and email addresses
 - Try to find out why William Braddock is called COLIN by ticketmaster
 - Confirm FULLTERN's first name, and find out if QR code can be enhanced
 - Get proper name of where the warehouse is that EARL has delivered stuff to. (Su Falls) ???
 - Find Screenshot for K6F7241 evidence
-- Find the FSociety Vimeo Account and check for evidence in the NEW Fsociety Video. 
 - Confirm Joanna Wellick's lover's (Derek) car registration plate
 - Find the book the Freud quote is from
 - Find correct name for the Congo mine White Rose's aide speaks about
-- Email theplague and eugenebelford
 - Investigate plans.rar file (Colonel Dox has already cracked part of this so catch up with them and see if anything more can be done)
 - Do some more researching into When Elliot's birthday is. 
 - Hyperlink (same page) timeline to screenshots. 
-- get screenshot of TrunkClub
