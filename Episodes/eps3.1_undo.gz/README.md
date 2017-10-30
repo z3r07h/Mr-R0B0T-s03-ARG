@@ -49,7 +49,7 @@ Episode 2 Observations
 - (04:31) The picture behind Braddocks desk looks pretty odd, could possibly be some sort of <> cipher? 
 - (04:33) The woman with the FBI from e-corp looks to be **Robyn/Bobby Fulltern** Not sure if her QR code can enhanced like Elliots. 
 - (04:55) **e-corp-ua.com/cpl directory/shipping/108898** website for the e-corp logistics
-- (xx:xx) EARL the driver states that he has come to "SU FALLS" (??) South Dakota
+- (xx:xx) EARL the driver states that he has come to "SIOUX FALLS"  South Dakota - https://en.wikipedia.org/wiki/Sioux_Falls,_South_Dakota
 - (05:58) **PETER MCCLEEREY password **tapitback!** 
 - (06:38) **ts1.e-corp-usa.com** looks like a production server for uploading new software to e-corp hardware
 - (06:56) Assembly code for unit **apc_hw05** - personally I don't believe there's enough of this code to compile - there's a chance the hex on the right hand side has something hidden in it. I'll keep my ear to the ground but at the moment there's so many other things to investigate that I won't be trying to decode a bunch of stuff that looks legitimate. 
@@ -68,7 +68,7 @@ Episode 2 Observations
 Phew that's the start of th episode complete. 
 Let's see what else is in there!
 
-- (18:29) **Vimeo Account** Lonely FBI lady states that the NEW FSociety video has been posted to the same Vimeo account as the previous ones. 
+- (18:29) **Vimeo Account** FBI Dom states that the NEW FSociety video has been posted to the same Vimeo account as the previous ones. 
 - (19:57) Blurry shot of the FBI laptop screen
 - (20:02) A Couple of interesting **files on the FBI laptop** (add filenames)
 - (21:12) **H4G-B5FG** (could be O instead of G) Joanna Wellick's lover's (Derek) car registration looks like
@@ -104,6 +104,19 @@ Elliots Birthday is mentioned in this episode,  we can try and pinpoint what dat
 
 Currently we can place Elliots birthday at least between August 4th - 18th September. (needs more work)
 
+Investigations
+--------------
+**CLOSED** Checked out https://www/trunkclub.com it IS a legit website - not ARG related
+**CLOSED** Google Mapped E-corp address - just shows a dead end (ironic?) information updated above
+**TENTATIVE** Tried to log into the mail server with William Braddock & Peter Mccleery login details. Error codes came out. Please see SITES folder ![webmail.e-corp-usa.com](../../Sites/webmail.e-corp-usa.com) for further information
+**CLOSED** Cross referenced reddit post to character and his behaviour - looks likely to be "thefabledslayer" - information above updated
+**CLOSED** "Su falls" should be Sioux Falls, South Dakota - information above updated
+**OPEN** Began investigating r/Inside_e_corp - created a user and need to create separate site page
+**OPEN** call the Chinese takeaway number
+**OPEN** Find Vimeo Account
+**OPEN** put number plates into car registration checker (needs link) and document results
+**CLOSED** Emailed The Plague and Eugenebelford - neither of the domains exist, thus no reply. 
+**OPEN** ColonelDox has done some work with the plans.rar file, need to catch up and see what the situation is
 
 Evidence 
 --------
