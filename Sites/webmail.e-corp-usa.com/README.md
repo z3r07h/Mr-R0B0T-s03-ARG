@@ -11,10 +11,10 @@ RESULTS
 =======
 
 William Braddock Error Code:
-
+**#13489-RARECHPOT**
 
 Peter Mccleery Error Code:
-
+**#123578-PARMLETOR**
 
 
 Investigations
@@ -44,3 +44,5 @@ TODO
 ====
 
 Maybe try and use Burp suite to see if error codes can be emnumerated. 
+Change error codes to H2 / Bigger Font
+Base64 Error Codes/ Investigate more
