@@ -1,11 +1,6 @@
 eps3.1_undo.gz
 ==============
 
-Episode Synopsis (SPOILERS)
-
-Five weeks on, Elliot works his way up E Corp, turning in lower executives and convincing a middle manager to start digitizing the paper records, while secretly moving the rest away from the Stage 2 building to an E Corp warehouse. Scott Knowles is arrested for Sharon's murder, Joanna goes on television saying she will always love Tyrell; Derek kills her and Mr. Sutherland kills Derek. An unknown source releases another fsociety video. Dom and the FBI put pressure on Darlene, revealing the prison phone call Elliott made to Tyrell. Darlene stays over at Elliot's, Mr. Robot emerges and scares her. Phillip Price has all necessary nations except China on board for Ecoin. When Price tries to threaten Zhang with the UN vote to let China annex Congo, Zhang reveals his hold on Angela. Zhang wants Stage 2 to commence on the day of the vote whether they win or lose, to punish Price. Elliot lets Mr. Robot out during a therapy session where he tells Krista that he and Elliot were compromised. Lenny returns the sick dog. Elliot realizes Darlene bugged his computer and goes to Darlene's FBI safe house knowing they are watching.
-
-
 
 Preface
 -------
