@@ -99,7 +99,7 @@ Elliots Birthday is mentioned in this episode,  we can try and pinpoint what dat
 
 Currently we can place Elliots birthday at least between August 4th - 18th September. (needs more work)
 
-**ThePlague** responds to email - I won't spoil it here just yet in case you want to do it, but it is a huge easter suggesting that ThePlague is the same guy from the film Hackers And his 'real name' (as a movie character was) **Eugene Belford** hahaha. This is an awesome easter egg, well done Mr Robot Team!
+**ThePlague** responds to email - I won't spoil it here just yet in case you want to do it, but it is a huge easter suggesting that ThePlague is the same guy from the film Hackers And his 'real name' (as a movie character was) **Eugene Belford** hahaha. This is an awesome easter egg, well done Mr Robot Team! But wait there's more - in line with this seasons **"Spot The Difference"** theme, the response from the plague talks about the 4 most commonly used passwords, a very similar line said in the movie by the same character. However in the movie he only mentions 3 of the most commonly used passwords, the anomaly is the addition of "secret" as one. This rabbit hole goes deeper, we may be seeing "secret" used as a password somewhere down/across/up the line.
 
 Investigations
 --------------
