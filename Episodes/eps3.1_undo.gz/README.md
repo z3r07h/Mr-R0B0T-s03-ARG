@@ -78,7 +78,7 @@ Let's see what else is in there!
 - (45:13) **DOJ_9431** Doj number of FBI laptop
 - (xx:xx) "Imported Kamora Coffee Liquer" on Dom's mug
 - (xx:xx) **08:01** Time on Elliots computer
-- (45:24) **ThePlague@ukev0hfruxcqvjst1c.net**
+- (45:24) **ThePlague@ukvev0hfruxcqvjst1c.net**
 - (45:24) **eugenebelford@q09orkldvfvsqq.net**
 - (xx:xx) Although the previous two emails are .net addresses they look kinda like.onion addresses
 - (45:30)**sandbox.vflsruxm.net/plans.rar** rar file Elliot uses to lure FBI into opening 
