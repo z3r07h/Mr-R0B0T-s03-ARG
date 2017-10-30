@@ -23,9 +23,7 @@ Thu 19 Oct 20:35:34 BST 2017 - Pulled in merge from ColonelDox -work on Map and 
 
 Sun 29 Oct 23:26:53 GMT 2017 - Added information for s03e02 - 'eps3.1_undo.gz'
 
-Mon 30 Oct 21:36:33 GMT 2017 - Fully updated Episode 2 (eps3.1_undo.gz) writeup -all images included for evidence- investigations pending
-			       Added webmail.e-corp.usa.com to sites
-			       Updated webmail site with error codes and evidence
+Mon 30 Oct 21:36:33 GMT 2017 - Fully updated Episode 2 (eps3.1_undo.gz) writeup -all images included for evidence- investigations pending. Added webmail.e-corp.usa.com to sites. Updated webmail site with error codes and evidence
 
 
 TODO
