@@ -104,10 +104,10 @@ Evidence
 --------
 
 **Elliot Accessing the Femtocell**
-![femtocell access](/screenshots/femtocell_access.png)
+![femtocell access](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/femtocell_access.jpg)
 
 **E-Corp Insurance**
-![e_corp_insurance](/screenshots/e-corp_insurance.png)
+![e_corp_insurance](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/e-corp_insurance.jpg)
 
 
 
