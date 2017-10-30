@@ -99,6 +99,8 @@ Elliots Birthday is mentioned in this episode,  we can try and pinpoint what dat
 
 Currently we can place Elliots birthday at least between August 4th - 18th September. (needs more work)
 
+**ThePlague** responds to email - I won't spoil it here just yet in case you want to do it, but it is a huge easter suggesting that ThePlague is the same guy from the film Hackers And his 'real name' (as a movie character was) **Eugene Belford** hahaha. This is an awesome easter egg, well done Mr Robot Team!
+
 Investigations
 --------------
 
@@ -114,7 +116,7 @@ Investigations
 - **CLOSED** Google Mapped E-corp address - just shows a dead end (ironic?) information updated above.
 - **CLOSED** Cross referenced reddit post to character and his behaviour - looks likely to be "thefabledslayer" - information above updated.
 - **CLOSED** "Su falls" should be Sioux Falls, South Dakota - information above updated.
-- **CLOSED** Emailed The Plague and Eugenebelford - neither of the domains exist, thus no reply. 
+- **CLOSED** Emailed The Plague and Eugenebelford - The plague domain exists, gets a response - have updated above in Extra Interesting Stuff 
 
 Evidence 
 --------
