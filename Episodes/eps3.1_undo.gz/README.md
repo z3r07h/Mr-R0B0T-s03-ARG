@@ -33,7 +33,7 @@ Episode 2 Observations
 - (xx:xx) **l223u** -Elliot's desktop reveals a list of files, on the left hand side there is a network drive mapped with a username l223u
 - (xx:xx) **BKNAPPLE** **ARGSociety Shout out** - his name is listed on the bottom file inside Elliot's "Recovery Effort" folder
 - (03:14) **Full Ecorp address** revealed as **"901 E 57th Street, New York New York, 10022, Phone number (212)-555-0171** (This is a dead end street on google maps - https://goo.gl/maps/z2iB98xCwY92)
-- (03:17) "Primo poon" is on the **31st Floor** - this can be linked to the Reddit posts found on 'inside_e_corp' subreddit, and we should be able to directly attribute the on-screen character to the username that posted a similar comment. 
+- (03:17) "Primo poon" is on the **31st Floor** - this can be linked to the Reddit posts found on 'inside_e_corp' subreddit, and we should be able to directly attribute the on-screen character to the username that posted a similar comment. (Primo Poon guy is most likely ![thefabledladyslayer](https://www.reddit.com/user/thefabledladyslayer) on the subreddit, due to his later comment in the episode about an instance with a lady)
 - (03:23) **Map** of E-corp Active US Storage Facilities - links to map theory/Geological stuff being a big impact in this seasons ARG.
 - (03:56) **E-corp Employee Heirarchy** (at least for Elliots Department) 
 - (04:18) **William Braddock details**: **william.braddock@e-corp-usa.com | aboynamedg00 | https://webmail.e-corp-usa.com/OWA** 
