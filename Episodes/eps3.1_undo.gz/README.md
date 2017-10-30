@@ -17,7 +17,7 @@ Preliminary Stuff from previous episodes
 - Blueprints of the 'Evil' corp facility
 - Facility 511 (Ground Floor)
 - The manual being read is **ups_sumx640-service-manual**
-- Elliot connects to (the femtocell) via **l4713116.e-corp.usa**
+- Elliot connects to (the femtocell) via **l4713116.e-corp.usa.com** (NB This link no longer seems to exist and simply redirects to www.usa.com)
 
 
 Episode 2 Observations
