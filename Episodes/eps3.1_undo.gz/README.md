@@ -32,7 +32,7 @@ Episode 2 Observations
 - (03:04) We see Elliot entering his e-corp password, it looks like it at least has the letters N and Y in it. It may be possible to do some statistical analysis on what looks like are the keys entered. However we see Elliots asterixed password several times this episode, and by the final time it looks like his password is 23 characters long, statistical analysis may not help unless we can observe a very large majority of it. In addition, it could be a common phrase, or something related to the show (e.g. fiveNinehacksoleet1337ynot?. Jury is currently out on this one. 
 - (xx:xx) **l223u** -Elliot's desktop reveals a list of files, on the left hand side there is a network drive mapped with a username l223u
 - (xx:xx) **BKNAPPLE** **ARGSociety Shout out** - his name is listed on the bottom file inside Elliot's "Recovery Effort" folder
-- (03:14) **Full Ecorp address** revealed as **"901 E 57th Street, New York New York, 10022, Phone number (212)-555-0171** 
+- (03:14) **Full Ecorp address** revealed as **"901 E 57th Street, New York New York, 10022, Phone number (212)-555-0171** (This is a dead end street on google maps - https://goo.gl/maps/z2iB98xCwY92)
 - (03:17) "Primo poon" is on the **31st Floor** - this can be linked to the Reddit posts found on 'inside_e_corp' subreddit, and we should be able to directly attribute the on-screen character to the username that posted a similar comment. 
 - (03:23) **Map** of E-corp Active US Storage Facilities - links to map theory/Geological stuff being a big impact in this seasons ARG.
 - (03:56) **E-corp Employee Heirarchy** (at least for Elliots Department) 
