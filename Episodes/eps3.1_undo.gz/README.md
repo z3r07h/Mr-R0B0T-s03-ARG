@@ -45,7 +45,7 @@ Episode 2 Observations
 - (04:33) The woman with the FBI from e-corp looks to be **Robyn/Bobby Fulltern** Not sure if her QR code can enhanced like Elliots. 
 - (04:55) **e-corp-ua.com/cpl directory/shipping/108898** website for the e-corp logistics
 - (xx:xx) EARL the driver states that he has come to "SU FALLS" (??) South Dakota
-- (05:58) **PETER MCCLEEREY password **tapitback!** 
+- (05:58) **PETER MCCLEERY password **tapitback!** 
 - (06:38) **ts1.e-corp-usa.com** looks like a production server for uploading new software to e-corp hardware
 - (06:56) Assembly code for unit **apc_hw05** - personally I don't believe there's enough of this code to compile - there's a chance the hex on the right hand side has something hidden in it. I'll keep my ear to the ground but at the moment there's so many other things to investigate that I won't be trying to decode a bunch of stuff that looks legitimate. 
 - (xx:xx) **K6F7241 - FTPplugin**
@@ -148,10 +148,10 @@ Evidence
 **EARL**
 ![earl](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/EARL_talking_about_su_falls.jpg)
 
-**Peter McCleerey Password**
+**Peter McCleery Password**
 ![peter_mccleerey_password](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Peter_MccLeerey_password.jpg)
 
-**Peter McCleerey Emails**
+**Peter McCleery Emails**
 ![peter_mccleerey_emails](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Peter_MccLeerey_internal_email.jpg)
 
 **Tanium software/ts1 Website**
