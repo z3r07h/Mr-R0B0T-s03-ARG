@@ -10,10 +10,10 @@ First seen in ep3.1_undo.gz when William Braddock gets hacked
 RESULTS
 =======
 
-William Braddock Error Code:
+William Braddock Error Code:\
 **#13489-RARECHPOT**
 
-Peter Mccleery Error Code:
+Peter Mccleery Error Code:\
 **#123578-PARMLETOR**
 
 
