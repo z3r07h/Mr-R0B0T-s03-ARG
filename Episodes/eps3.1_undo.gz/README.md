@@ -175,7 +175,7 @@ Evidence
 **FBI Laptop Screen (blurry)**
 ![fbi_laptop_](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/blurry_fbi_laptop.jpg)
 
-**FBI Files on Laptop/ **  (update with interesting file name)
+**FBI Files on Laptop/**  (update with interesting file name)
 ![fbi_laptop_files](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/FBI_laptop_files.jpg)
 
 **Joanna's Lover's Car Plate**
@@ -187,7 +187,7 @@ Evidence
 **FBI Spying On Elliot's Computer**
 ![fbi_spying_on_elliot](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/FBI_watching_elliot_computer_1.jpg)
 
-**Car Outside FBI Stakehouse**
+**Car Outside FBI Stakehouse (Bottom right)**
 ![car_outside_stakehouse](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/FBI_car_reg_outside_stakehouse.jpg)
 
 **FBI DOJ Number**
