@@ -11,7 +11,8 @@ RESULTS
 -------
 
 **E-corp Error Page**
-![shipping_404](https://github/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Sites/e-corp-usa.com_shipping_site/screenshots/ecorp_shipping_404.jpg)
+
+![shipping_404](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Sites/e-corp-usa.com_shipping_site/screenshots/ecorp_shipping_404.jpg)
 
 
 Investigations
