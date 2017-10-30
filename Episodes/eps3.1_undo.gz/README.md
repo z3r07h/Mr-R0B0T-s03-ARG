@@ -101,17 +101,22 @@ Currently we can place Elliots birthday at least between August 4th - 18th Septe
 
 Investigations
 --------------
-**CLOSED** Checked out https://www/trunkclub.com it IS a legit website - not ARG related
-**CLOSED** Google Mapped E-corp address - just shows a dead end (ironic?) information updated above
-**TENTATIVE** Tried to log into the mail server with William Braddock & Peter Mccleery login details. Error codes came out. Please see SITES folder ![webmail.e-corp-usa.com](../../Sites/webmail.e-corp-usa.com) for further information
-**CLOSED** Cross referenced reddit post to character and his behaviour - looks likely to be "thefabledslayer" - information above updated
-**CLOSED** "Su falls" should be Sioux Falls, South Dakota - information above updated
-**OPEN** Began investigating r/Inside_e_corp - created a user and need to create separate site page
-**OPEN** call the Chinese takeaway number
-**OPEN** Find Vimeo Account
-**OPEN** put number plates into car registration checker (needs link) and document results
+
+**OPEN** Began investigating r/Inside_e_corp - created a user and need to create separate site page.
+**OPEN** call the Chinese takeaway number.
+**OPEN** Find Vimeo Account.
+**OPEN** put number plates into car registration checker (needs link) and document results.
+**OPEN** ColonelDox has done some work with the plans.rar file, need to catch up and see what the situation is.
+
+
+**TENTATIVE** Tried to log into the mail server with William Braddock & Peter Mccleery login details. Error codes came out. Please see SITES folder ![webmail.e-corp-usa.com](../../Sites/webmail.e-corp-usa.com) for further information.
+
+
+**CLOSED** Checked out https://www/trunkclub.com it IS a legit website - not ARG related.
+**CLOSED** Google Mapped E-corp address - just shows a dead end (ironic?) information updated above.
+**CLOSED** Cross referenced reddit post to character and his behaviour - looks likely to be "thefabledslayer" - information above updated.
+**CLOSED** "Su falls" should be Sioux Falls, South Dakota - information above updated.
 **CLOSED** Emailed The Plague and Eugenebelford - neither of the domains exist, thus no reply. 
-**OPEN** ColonelDox has done some work with the plans.rar file, need to catch up and see what the situation is
 
 Evidence 
 --------
