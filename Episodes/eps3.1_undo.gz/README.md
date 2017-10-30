@@ -109,6 +109,101 @@ Evidence
 **E-Corp Insurance**
 ![e_corp_insurance](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/e-corp_insurance.jpg)
 
+**Elliots ID Badge**
+![Elliot_id_badge](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Elliots_ID_badge.jpg)
+
+**Elliot's Desktop**
+![Elliots_desktop](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Elliots_desktop.jpg)
+
+**Elliot's Recovery Files/l223u/BKNAPPLE**
+![Elliots_recovery_files](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Elliots_recovery_files.jpg)
+
+**Full E-corp Address**
+![Ecorp_address](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Ecorp_address.jpg)
+
+**Mr "Primo Poon"** (need to update with reddit name)
+![Primo_poon](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Primo_poon_commentor.jpg)
+
+**E-corp Active Storage Facilities Map**
+![Ecorp_active_facilities_map](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Ecorp_active_US_Storage_facilities.jpg)
+
+**E-corp Employee Hierarchy (Elliot's Department)**
+![Ecorp_heirarchy](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Ecorp_heirarchy.jpg)
+
+**William Braddock Details**
+![William_Braddock](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/William_Braddock_Harvested_Credentials.jpg)
+
+**William Braddock Inbox**
+![William_Braddock_Inbox](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/William_Braddock_emails.jpg)
+
+**William Braddock Office Picture**
+![William_Braddock_office_picture](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/William_Braddock_office_picture.jpg)
+
+**Robyn/Bobby Fulltern** (update with correct name needed)
+![Fulltern](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/X_Fulltern_with_fbi.jpg)
+
+**E-corp Logistics/Shipping Website**
+![ecorp_shipping_website](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/E-corp_shipping_website.jpg)
+
+**EARL**
+![earl](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/EARL_talking_about_su_falls.jpg)
+
+**Peter McCleerey Password**
+![peter_mccleerey_password](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Peter_MccLeerey_password.jpg)
+
+**Peter McCleerey Emails**
+![peter_mccleerey_emails](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Peter_MccLeerey_internal_email.jpg)
+
+**Tanium software/ts1 Website**
+![tanium_firmware_page](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/ecorp_website_Tanium_firmware_deployment.jpg)
+
+**apc_hw05_aos640_sumx640_bootmon assembly code**
+![assembly_code](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/apc_hw05_aos640_sumx640_bootmon_firmware.jpg)
+
+**Elliots Obfuscated Password**
+![elliot_pw](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/elliots_password_obfuscated.jpg)
+
+**r/Inside_Evil_Corp subreddit**
+![inside_e_corp](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Inside_evil_corp_subreddit.jpg)
+
+**Bo Hai Dumpling Address and Phone number**
+![bo_hai_address](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Bo_hai_dumpling_address.jpg)
+
+**Elliot's Prescription Bottle**
+![elliot_prescription](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Elliots_prescription_essex_street_pharmacy.jpg)
+
+**FBI Laptop Screen (blurry)**
+![fbi_laptop_](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/blurry_fbi_laptop.jpg)
+
+**FBI Files on Laptop/ **  (update with interesting file name)
+![fbi_laptop_files](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/FBI_laptop_files.jpg)
+
+**Joanna's Lover's Car Plate**
+![joanna_lover_car_plate](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Joannas_lovers_car_reg.jpg)
+
+**Joanna Wellick Car Plate**
+![joanna_wellick_car_reg](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Joanna_Wellick_car_reg.jpg)
+
+**FBI Spying On Elliot's Computer**
+![fbi_spying_on_elliot](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/FBI_watching_elliot_computer_1.jpg)
+
+**Car Outside FBI Stakehouse**
+![car_outside_stakehouse](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/FBI_car_reg_outside_stakehouse.jpg)
+
+**FBI DOJ Number**
+![fbi_doj](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/FBI_laptop_DOJ_number.jpg)
+
+**Time On Elliot's Computer 2** (update time on computer 1 needed)
+![elliot_computer_time_2](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Time_on_elliot's_computer_1.jpg)
+
+**The Plage and Eugenebelford Email Addresses**
+![plague_eugene_emails](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/theplague_email_address.jpg)
+
+**Sandbox File**
+![sandbox_file](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Email_file.jpg)
+
+**PGP'd File | CRAMBO - BESKONE - CARNAGEINCARNATE | ARGSociety Shout Out**
+![reddit_users_shoutout](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/PGP_with_reddit_usernames.jpg)
 
 
 
