@@ -1,4 +1,4 @@
-Wiki synopsis :
+Wiki synopsis (SPOILERS):
 > Five weeks on, Elliot works his way up E Corp, turning in lower executives and convincing a middle manager to start digitizing 
 > the paper records, while secretly moving the rest away from the Stage 2 building to an E Corp warehouse. 
 > Scott Knowles is arrested for Sharon's murder, Joanna goes on television saying she will always love Tyrell; 
