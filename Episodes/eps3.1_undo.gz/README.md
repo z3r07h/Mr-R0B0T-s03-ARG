@@ -1,5 +1,10 @@
-ep2
-===
+eps3.1_undo.gz
+==============
+
+Episode Synopsis (SPOILERS)
+
+Five weeks on, Elliot works his way up E Corp, turning in lower executives and convincing a middle manager to start digitizing the paper records, while secretly moving the rest away from the Stage 2 building to an E Corp warehouse. Scott Knowles is arrested for Sharon's murder, Joanna goes on television saying she will always love Tyrell; Derek kills her and Mr. Sutherland kills Derek. An unknown source releases another fsociety video. Dom and the FBI put pressure on Darlene, revealing the prison phone call Elliott made to Tyrell. Darlene stays over at Elliot's, Mr. Robot emerges and scares her. Phillip Price has all necessary nations except China on board for Ecoin. When Price tries to threaten Zhang with the UN vote to let China annex Congo, Zhang reveals his hold on Angela. Zhang wants Stage 2 to commence on the day of the vote whether they win or lose, to punish Price. Elliot lets Mr. Robot out during a therapy session where he tells Krista that he and Elliot were compromised. Lenny returns the sick dog. Elliot realizes Darlene bugged his computer and goes to Darlene's FBI safe house knowing they are watching.
+
 
 
 Preface
@@ -66,7 +71,7 @@ Let's see what else is in there!
 - (18:29) **Vimeo Account** Lonely FBI lady states that the NEW FSociety video has been posted to the same Vimeo account as the previous ones. 
 - (19:57) Blurry shot of the FBI laptop screen
 - (20:02) A Couple of interesting **files on the FBI laptop** (add filenames)
-- (21:12) **H4G-B5FG** (could be O instead of G) Joanna Wellick's lover's car registration looks like
+- (21:12) **H4G-B5FG** (could be O instead of G) Joanna Wellick's lover's (Derek) car registration looks like
 - (xx:xx) **NUQ-1724** Joanna Wellick's car registration plate, it's a New York number plate, and her car is a 'surburban' model
 - (23:58) Blood on the babies head, I have certainly not screencapped this as I definitely do not think there is any secret code, or symbol being put there. 1) I don't think the producers would want us using that as a reference point or having to stare at it for hours on end to work it out, 2) I think it would be extremely difficult and time consuming to get a baby to stay still long enough to put a symbol in blood on it's head and make it look like a legitimate blood splatter at the same time.
 - (38:13) "A Civilisation that leaves so many of it's citizens unsatisfied and drives them into revolt... " Einsten quote read by MR ROBOT 
@@ -76,7 +81,7 @@ Let's see what else is in there!
 - (44:01) White Rose Aide talks about the Congo "Lua al" Mine
 - (44:44) **HRC-1362**  Car registration plate parked outside the FBI stakeout house
 - (45:13) **DOJ_9431** Doj number of FBI laptop
-- (xx:xx) "Imported Kamora Coffee Liquer" on the lonely fbi lady's mug
+- (xx:xx) "Imported Kamora Coffee Liquer" on Dom's mug
 - (xx:xx) **08:01** Time on Elliots computer
 - (45:24) **ThePlague@ukev0hfruxcqvjst1c.net**
 - (45:24) **eugenebelford@q09orkldvfvsqq.net**
@@ -178,7 +183,7 @@ Evidence
 **FBI Files on Laptop/**  (update with interesting file name)
 ![fbi_laptop_files](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/FBI_laptop_files.jpg)
 
-**Joanna's Lover's Car Plate**
+**Derek's Car Plate**
 ![joanna_lover_car_plate](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.1_undo.gz/screenshots/Joannas_lovers_car_reg.jpg)
 
 **Joanna Wellick Car Plate**
@@ -235,7 +240,7 @@ TODO
 - Get proper name of where the warehouse is that EARL has delivered stuff to. (Su Falls) ???
 - Find Screenshot for K6F7241 evidence
 - Find the FSociety Vimeo Account and check for evidence in the NEW Fsociety Video. 
-- Confirm Joanna Wellick's lover's car registration plate
+- Confirm Joanna Wellick's lover's (Derek) car registration plate
 - Find the book the Freud quote is from
 - Find correct name for the Congo mine White Rose's aide speaks about
 - Email theplague and eugenebelford
