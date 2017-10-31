@@ -43,7 +43,7 @@ Episode 2 Observations
 - (04:21) One of the emails states that there will be 'Server Maintenance' next week
 - (04:31) The picture behind Braddocks desk looks pretty odd, could possibly be some sort of <> cipher? 
 - (04:33) The woman with the FBI from e-corp looks to be **Robyn/Bobby Fulltern** Not sure if her QR code can enhanced like Elliots. 
-- (04:55) **e-corp-ua.com/cpl directory/shipping/108898** website for the e-corp logistics
+- (04:55) **www.e-corp-usa.com/cp/directory/shipping/108898** website for the e-corp logistics (Site now just shows and error page for Ecorp - more info in Sites folder)
 - (xx:xx) EARL the driver states that he has come to "SIOUX FALLS"  South Dakota - https://en.wikipedia.org/wiki/Sioux_Falls,_South_Dakota
 - (05:58) **PETER MCCLEERY password **tapitback!** 
 - (06:38) **ts1.e-corp-usa.com** looks like a production server for uploading new software to e-corp hardware
@@ -68,7 +68,7 @@ Let's see what else is in there!
 - (20:02) A Couple of interesting **files on the FBI laptop** - **288A-NY-84511326-ELSUR.txt** 
 - (21:12) **H4G-B5FG** (could be O instead of G) Joanna Wellick's lover's (Derek) car registration looks like
 - (xx:xx) **NUQ-1724** Joanna Wellick's car registration plate, it's a New York number plate, and her car is a 'surburban' model
-- (23:58) Blood on the babies head, I have certainly not screencapped this as I definitely do not think there is any secret code, or symbol being put there. 1) I don't think the producers would want us using that as a reference point or having to stare at it for hours on end to work it out, 2) I think it would be extremely difficult and time consuming to get a baby to stay still long enough to put a symbol in blood on it's head and make it look like a legitimate blood splatter at the same time.
+- (23:58) Blood on the baby's head, I have certainly not screencapped this as I definitely do not think there is any secret code, or symbol being put there. 1) I don't think the producers would want us using that as a reference point or having to stare at it for hours on end to work it out, 2) I think it would be extremely difficult and time consuming to get a baby to stay still long enough to put a symbol in blood on it's head and make it look like a legitimate blood splatter at the same time.
 - (38:13) "A Civilisation that leaves so many of it's citizens unsatisfied and drives them into revolt... " Einsten quote read by MR ROBOT 
 - (xx:xx) **TERS THIS FALL** These are the only letters visible from the "Separation Anxiety" film poster that Elliot is sitting in front of on the metro.
 - (xx:xx) **20:46** The time on Elliot's computer
@@ -254,4 +254,4 @@ TODO
 - Find correct name for the Congo mine White Rose's aide speaks about
 - Investigate plans.rar file (Colonel Dox has already cracked part of this so catch up with them and see if anything more can be done)
 - Do some more researching into When Elliot's birthday is. 
-- Hyperlink (same page) timeline to screenshots. 
+- Hyperlink (same page) timeline to screenshots.
