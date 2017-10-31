@@ -54,7 +54,6 @@ Tue 31 Oct 00:17:13 GMT 2017 - Added e-corp-shipping website to SITES, plus info
 TODO
 ----
 Investigations 
-Convert all pictures for episode 2 evidence to jpg to reduce load on people viewing/cloning
 
 
 
