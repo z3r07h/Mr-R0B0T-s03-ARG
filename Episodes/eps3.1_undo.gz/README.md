@@ -106,7 +106,7 @@ Investigations
 
 - **OPEN** Began investigating r/Inside_e_corp - created a user and need to create separate site page.
 - **OPEN** call the Chinese takeaway number.
-- **OPEN** Find Vimeo Account.
+-
 - **OPEN** put number plates into car registration checker (needs link) and document results.
 - **OPEN** ColonelDox has done some work with the plans.rar file, need to catch up and see what the situation is.
 
@@ -117,6 +117,8 @@ Investigations
 - **CLOSED** Cross referenced reddit post to character and his behaviour - looks likely to be "thefabledslayer" - information above updated.
 - **CLOSED** "Su falls" should be Sioux Falls, South Dakota - information above updated.
 - **CLOSED** Emailed The Plague and Eugenebelford - The plague domain exists, gets a response - have updated above in Extra Interesting Stuff 
+- **CLOSED** Find Vimeo Account - https://vimeo.com/wearefsociety 
+
 
 Evidence 
 --------
