@@ -23,16 +23,16 @@ Theories regarding the fence posts being binary, also "spot the difference" bein
 Color By Numbers (Credits to ARG Society)
 ----------------
 
--Binary theory again for the fence posts
--The Butterfly tail is morse code (NEED THE MORSE TRANSLATION)
--The numbers by the colors represent alphabet letters
--The Sun ends up spelling "SHES NOT SANE" when converted from colors to alphabet
+- Binary theory again for the fence posts
+- The Butterfly tail is morse code (NEED THE MORSE TRANSLATION)
+- The numbers by the colors represent alphabet letters
+- The Sun ends up spelling "SHES NOT SANE" when converted from colors to alphabet
 
 
 TODO
 ----
--Get Images of the PDFs for this page
--Find out what the morse code is
--Find out if the Sun word was an anagram
--Credit first solvers properly
+- Get Images of the PDFs for this page
+- Find out what the morse code is
+- Find out if the Sun word was an anagram
+- Credit first solvers properly
 
