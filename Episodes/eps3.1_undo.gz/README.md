@@ -245,7 +245,8 @@ rkhunter --check
 TODO
 ====
 - Fix some timestamps
-- I have heard of someone successfully sharpening Elliots QR code to get another ARG site out of it, I would like to try this myself but I dont think I have the necessary image skills - so need to track down the sharpened image, and give credit to the originator. 
+- ~~I have heard of someone successfully sharpening Elliots QR code to get another ARG site out of it, I would like to try this myself but I dont think I have the necessary image skills - so need to track down the sharpened image, and give credit to the originator~~
+   ColonelDox has done this and added result (www.e-corp-usa.com/company_directory/elliot_alderson)  - Write up is in SITES ![www.e-corp-usa.com](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Sites/www.e-corp-usa.com)
 - EMAIL ALL THE THINGS, all of the e-corp heirarchy and all the people seen in William Braddocks and co's emails. 
 - Try to find out why William Braddock is called COLIN by ticketmaster
 - Confirm FULLTERN's first name, and find out if QR code can be enhanced
