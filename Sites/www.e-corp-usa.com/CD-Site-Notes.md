@@ -1,4 +1,7 @@
 
+Below is the write up of the company directory page. 
+To see write up and screen shots of the main domain go to https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/www.e-corp-usa.com/Main_site_ARG_2_%3F.md
+
 Site has been gathered from the screen shot taken from Elliots Badge:
 ![Image of Elliots Badge](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/www.e-corp-usa.com/Elliots_ID_badge.jpg)
 
