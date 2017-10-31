@@ -1,10 +1,4 @@
 
-# Main site: http://www.e-corp-usa.com/
-Main site:
-* Watch video 
-* check source
-* Document links and details 
-
 Site has been gathered from the screen shot taken from Elliots Badge:
 ![Image of Elliots Badge](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/www.e-corp-usa.com/Elliots_ID_badge.jpg)
 
@@ -21,6 +15,7 @@ Site has been gathered from the screen shot taken from Elliots Badge:
 resolves to : http://www.e-corp-usa.com/company_directory/elliot_alderson/
 
 ## Ellliot user page:
+TODO:
 * Check source code
 * Check imagery hex
 * Check address 135 E 57th Street, New York, NY 10022 and add to the map
@@ -28,3 +23,4 @@ resolves to : http://www.e-corp-usa.com/company_directory/elliot_alderson/
 * Company names - get a list of company employees together
 * Leads to: http://www.e-corp-usa.com/company_directory/elliot_alderson/ - Test names (same format)
 ![E-Corp Website ](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/www.e-corp-usa.com/screenshot-www.e-corp-usa.com-2017-10-31-10-36-05.png)
+
