@@ -23,7 +23,7 @@ TODO:
 * Check imagery hex
 * Check address 135 E 57th Street, New York, NY 10022 and add to the map
 * User ID - Make a list of numericals already seen
-* Company names - get a list of company employees together
+* Company names - get a list of company employees together (This is on main page of repo - JO) 
 * Leads to: http://www.e-corp-usa.com/company_directory/elliot_alderson/ - Test names (same format)
 ![E-Corp Website ](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/www.e-corp-usa.com/screenshot-www.e-corp-usa.com-2017-10-31-10-36-05.png)
 
