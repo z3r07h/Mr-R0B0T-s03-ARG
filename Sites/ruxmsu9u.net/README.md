@@ -11,7 +11,7 @@ Information
 
 The site is a bit pf a puzzle. It shows a custom "404" page (more info below)
 
-![rux_404](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/tree/master/Sites/ruxmsu9u.net/ruxmsu9u.net.jpg)
+![rux_404](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Sites/ruxmsu9u.net/ruxmsu9u.net.jpg)
 
 When inspecting the source code there is a function that lets users speed up the color pattern by holding down the space bar. 
 
