@@ -1,4 +1,7 @@
 # Mr-R0B0T-s03-ARG
+
+Last Updated: Tue 31 Oct 00:17:13 GMT 2017
+
 A writeup for things found and theories regarding the Mr Robot Season 3 ARG
 
 This is a living document and will seek to layout observations and investigations made into the Season 3 ARG. This is not a description of the story, nor how the story and ARG may interact. 
@@ -23,8 +26,10 @@ Thu 19 Oct 20:35:34 BST 2017 - Pulled in merge from ColonelDox -work on Map and 
 
 Sun 29 Oct 23:26:53 GMT 2017 - Added information for s03e02 - 'eps3.1_undo.gz'
 
-Mon 30 Oct 21:36:33 GMT 2017 - Fully updated Episode 2 (eps3.1_undo.gz) writeup -all images included for evidence- investigations pending. Added webmail.e-corp.usa.com to sites. Updated webmail site with error codes and evidence
+Mon 30 Oct 21:36:33 GMT 2017 - Fully updated Episode 2 (eps3.1_undo.gz) writeup, images, links, evidence, investigations and added notes. Added webmail.e-corp.usa.com to sites. Updated webmail site with error codes and evidence, screenshots
 Mon 30 Oct 23:11:18 GMT 2017 - Merged ColonelDox's notes into Episode 2 
+Tue 31 Oct 00:17:13 GMT 2017 - Added e-corp-shipping website to SITES, plus information about the page and screenshots
+
 
 
 
