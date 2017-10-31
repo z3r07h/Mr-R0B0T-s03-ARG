@@ -40,8 +40,8 @@ When attempting another ecorp address with unknown password (e.g. elliot Alderso
 
 
 -----
-Base64'd the error Letters, but only jibberish came out 
-RARECHPOT is an anagram of Carthorpe (a town in England https://en.wikipedia.org/wiki/Carthorpe) & phartcore (means nothing)
+Base64'd the error Letters, but only jibberish came out \
+RARECHPOT is an anagram of Carthorpe (a town in England https://en.wikipedia.org/wiki/Carthorpe) & phartcore (means nothing)\
 PARMLETOR is an anagram of Palmer Ort ( a place in the Baltic sea https://en.wikipedia.org/wiki/Palmer_Ort) & premortal (means nothing) 
 
 These anagrams of places could tie in with the more global Geo theory that is happening. 
