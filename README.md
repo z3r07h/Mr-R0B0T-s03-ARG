@@ -36,18 +36,18 @@ Other Geological sites such as Sioux Falls, and the Mine in the congo White Rose
 Timeline
 --------
 
-Before Sunday 15th October 2017 - Joined ARGSOCIETY Discord channel - investigated some preliminary ARG components, notably the spot the different and colour by numbers kids puzzles released from RedWheelBarrow
+**Before Sunday 15th October 2017** - Joined ARGSOCIETY Discord channel - investigated some preliminary ARG components, notably the spot the different and colour by numbers kids puzzles released from RedWheelBarrow
 
-Sun 15 Oct 14:55:02 BST 2017 - Began this Github, have begun to make notes on s03e01 - 'Eps3.0power-saver-mode.h'
-Thu 19 Oct 20:33:20 BST 2017 - MainDomain.co notes added 
-Thu 19 Oct 20:35:34 BST 2017 - Pulled in merge from ColonelDox -work on Map and Faciity locations and map theory /sites/r/REALMysterySpot
+**Sun 15 Oct 14:55:02 BST 2017** - Began this Github, have begun to make notes on s03e01 - 'Eps3.0power-saver-mode.h'
+**Thu 19 Oct 20:33:20 BST 2017** - MainDomain.co notes added 
+**Thu 19 Oct 20:35:34 BST 2017** - Pulled in merge from ColonelDox -work on Map and Faciity locations and map theory /sites/r/REALMysterySpot
 
-Sun 29 Oct 23:26:53 GMT 2017 - Added information for s03e02 - 'eps3.1_undo.gz'
+**Sun 29 Oct 23:26:53 GMT 2017** - Added information for s03e02 - 'eps3.1_undo.gz'
 
-Mon 30 Oct 21:36:33 GMT 2017 - Fully updated Episode 2 (eps3.1_undo.gz) writeup, images, links, evidence, investigations and added notes. Added webmail.e-corp.usa.com to sites. Updated webmail site with error codes and evidence, screenshots
-Mon 30 Oct 23:11:18 GMT 2017 - Merged ColonelDox's notes into Episode 2 
-Tue 31 Oct 00:17:13 GMT 2017 - Added e-corp-shipping website to SITES, plus information about the page and screenshots
-Tue 31 Oct 20:21:00 GMT 2017 - Updated sites (almost all there now, for now). Updated Ep2 with investigations conducted. Added all Email responses from e-corp employees. Pulled in ColonelDox work on Elliot Alderson ID Badge and subsequent Site 
+**Mon 30 Oct 21:36:33 GMT 2017** - Fully updated Episode 2 (eps3.1_undo.gz) writeup, images, links, evidence, investigations and added notes. Added webmail.e-corp.usa.com to sites. Updated webmail site with error codes and evidence, screenshots
+**Mon 30 Oct 23:11:18 GMT 2017** - Merged ColonelDox's notes into Episode 2 
+**Tue 31 Oct 00:17:13 GMT 2017** - Added e-corp-shipping website to SITES, plus information about the page and screenshots
+**Tue 31 Oct 20:21:00 GMT 2017** - Updated sites (almost all there now, for now). Updated Ep2 with investigations conducted. Added all Email responses from e-corp employees. Pulled in ColonelDox work on Elliot Alderson ID Badge and subsequent Site. Added Car registration site. Fixed Shipping site information.
 
 
 
