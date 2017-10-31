@@ -12,7 +12,7 @@ This is a car registration lookup website that Dt Abernathy instructs Darlene to
 
 Well if she can use it - We can use it too!
 
-Since this gives out other ARG clues, there is a dedicated folder to searches and results ![License_Plates]()
+Since this gives out other ARG clues, there is a dedicated folder to searches and results ![License_Plates](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/tree/master/License_Plates)
 
 To use the website you put the license plate/car number in the LIC field, select the state (only NY and NJ are avaialable) and the year (Years go back to 2000)
 
