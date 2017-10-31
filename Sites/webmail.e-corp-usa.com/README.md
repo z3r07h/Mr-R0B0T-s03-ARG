@@ -43,7 +43,7 @@ When attempting another ecorp address with unknown password (e.g. elliot Alderso
 
 
 
-When trying with the Joseph Green account form ARG season 2 the error code states "OUTDATED INPUT" and gives no uniqe error code
+When trying with the Joseph Green account form ARG season 2 the error code states "OUTDATED INPUT" and gives no uniqe error code\
 ![joseph_green_error_code](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Sites/webmail.e-corp-usa.com/screenshots/joseph_green_error_code.jpg)
 
 
