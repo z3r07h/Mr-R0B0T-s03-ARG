@@ -33,7 +33,7 @@ password: tapitback!\
 ![peter_mccleery_error_code](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Sites/webmail.e-corp-usa.com/screenshots/peter_mccleery_login_error.jpg)
 
 
-When attempting another ecorp address with unknown password (e.g. elliot Alderson) error code with no information is presented\
+When attempting another ecorp address with unknown password (e.g. elliot Alderson) error code with no information is presented
 **Regular Error Code**
 ![regular_error_code](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Sites/webmail.e-corp-usa.com/screenshots/regular_error_code.jpg)
 
