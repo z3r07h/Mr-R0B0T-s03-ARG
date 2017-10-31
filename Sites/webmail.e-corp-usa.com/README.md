@@ -13,12 +13,12 @@ RESULTS
 William Braddock Error Code:\
 **#13489-RARECHPOT** 
 
-RARECHPOT is an anagram of Carthorpe (a town in England https://en.wikipedia.org/wiki/Carthorpe) & phartcore (means nothing)\
+RARECHPOT is an anagram of **Carthorpe** (a town in England https://en.wikipedia.org/wiki/Carthorpe) & phartcore (means nothing)\
 
 Peter Mccleery Error Code:\
 **#123578-PARMLETOR**
 
-PARMLETOR is an anagram of Palmer Ort ( a place in the Baltic sea https://en.wikipedia.org/wiki/Palmer_Ort) & premortal (means nothing) 
+PARMLETOR is an anagram of **Palmer Ort** ( a place in the Baltic sea https://en.wikipedia.org/wiki/Palmer_Ort) & premortal (means nothing) 
 
 The numbers also seem important somehow, but can't link them to anything yet. 
 perhaps it's pinning a location to a certain number base. Also what if the color by numbers and geographical locations combine? maybe we should colours in certain parts of maps with the colors.. hmmm tenuous. 
