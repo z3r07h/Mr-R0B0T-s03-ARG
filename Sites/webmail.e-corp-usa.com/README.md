@@ -20,6 +20,9 @@ Peter Mccleery Error Code:\
 
 PARMLETOR is an anagram of Palmer Ort ( a place in the Baltic sea https://en.wikipedia.org/wiki/Palmer_Ort) & premortal (means nothing) 
 
+The numbers also seem important somehow, but can't link them to anything yet. 
+perhaps it's pinning a location to a certain number base. Also what if the color by numbers and geographical locations combine? maybe we should colours in certain parts of maps with the colors.. hmmm tenuous. 
+
 Investigations
 ==============
 When attempting to use William Braddock'ss login details access is denied and a very unique error code is presented\
