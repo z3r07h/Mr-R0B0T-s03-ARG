@@ -15,6 +15,24 @@ Inside Each episode will be a list of findings, theories, links found, pictures,
 **Sites** folder contains sites and links found from Episode / Other investigation
 Each ARG Site will have it's own subdirectory, along with a readme to include the conclusions, and theories, backup scripts and tools as necessary, and notes as just a personal account of some things that may be out of the ordinary.  
 
+Overarching Theory
+------------------
+
+This season's ARG started with two new PDFs from redwheelbarrow.com\
+These were two childrens activities, 'Spot The Difference', and 'Color By Numbers' (please see the redwheelbarrow folder under SITES for more info on these)\
+Including these there are 3 very prominent themes so far in this season's ARG\
+**Spotting the difference** 
+This could be spotting the difference on a website, or between a site seen on the show and seen IRL. Even spotting the difference in responses from ARG characters. 
+
+**Color By Numbers**
+In the first instance the colors referenced certain alphabet letters, and so certain parts of the color By Numbers activity spelt out hints (such as SHES NOT SANE)\
+This could be a large clue that certain colors this season, or the use of colors may need to be translated to numbers/letters/clues/codes/etc
+
+**Geological and Geographical Locations**
+The reddit threads on REALMysterSpot indicate a number of locations in the United States\
+Other Geological sites such as Sioux Falls, and the Mine in the congo White Rose want's to get his/her hands on seem to be key pieces of the story. Thus they could also be key pieces of the ARG
+
+
 Timeline
 --------
 
