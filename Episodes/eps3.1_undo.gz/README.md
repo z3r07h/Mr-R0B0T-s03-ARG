@@ -247,11 +247,13 @@ TODO
 - EMAIL ALL THE THINGS, all of the e-corp heirarchy and all the people seen in William Braddocks and co's emails. 
 - Try to find out why William Braddock is called COLIN by ticketmaster
 - Confirm FULLTERN's first name, and find out if QR code can be enhanced
-- Get proper name of where the warehouse is that EARL has delivered stuff to. (Su Falls) ???
+- Get proper name of where the warehouse is that EARL has delivered stuff to. (Su Falls) ??? - Souix Falls - Location updated on Mr robot map
 - Find Screenshot for K6F7241 evidence
 - Confirm Joanna Wellick's lover's (Derek) car registration plate
 - Find the book the Freud quote is from
 - Find correct name for the Congo mine White Rose's aide speaks about
 - Investigate plans.rar file (Colonel Dox has already cracked part of this so catch up with them and see if anything more can be done)
+  - Base64 -> QR code -> https://github.com/RedBalloonShenanigans/MonitorDarkly (CD notes.md - will update progress there until addition of new site folder)
 - Do some more researching into When Elliot's birthday is. 
-- Hyperlink (same page) timeline to screenshots.
+- Hyperlink (same page) timeline to screenshots. 
+
