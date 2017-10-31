@@ -53,6 +53,8 @@ Tue 31 Oct 00:17:13 GMT 2017 - Added e-corp-shipping website to SITES, plus info
 
 TODO
 ----
+
+Add whois/etc information for sites
 Investigations 
 
 
