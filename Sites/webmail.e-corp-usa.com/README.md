@@ -47,3 +47,4 @@ TODO
 Maybe try and use Burp suite to see if error codes can be emnumerated. 
 Change error codes to H2 / Bigger Font
 Base64 Error Codes/ Investigate more
+Find previous e-corp account from season 2 and try it on to see if there's any more error codes
