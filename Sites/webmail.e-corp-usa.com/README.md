@@ -42,11 +42,14 @@ When attempting another ecorp address with unknown password (e.g. elliot Alderso
 ![regular_error_code](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Sites/webmail.e-corp-usa.com/screenshots/regular_error_code.jpg)
 
 
+
+When trying with the Joseph Green account form ARG season 2 the error code states "OUTDATED INPUT" and gives no uniqe error code
+![joseph_green_error_code](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Sites/webmail.e-corp-usa.com/screenshots/joseph_green_error_code.jpg)
+
+
+
 -----
 Base64'd the error Letters, but only jibberish came out 
-
-
-These anagrams of places could tie in with the more global Geo theory that is happening. 
 
 TODO
 ====
@@ -54,5 +57,5 @@ TODO
 Maybe try and use Burp suite to see if error codes can be emnumerated. 
 Change error codes to H2 / Bigger Font
 Investigate more
-Find previous e-corp account from season 2 and try it on to see if there's any more error codes
+
 
