@@ -46,7 +46,7 @@ Timeline
 **Mon 30 Oct 23:11:18 GMT 2017** - Merged ColonelDox's notes into Episode 2\
 **Tue 31 Oct 00:17:13 GMT 2017** - Added e-corp-shipping website to SITES, plus information about the page and screenshots\
 **Tue 31 Oct 20:21:00 GMT 2017** - Updated sites (almost all there now, for now). Updated Ep2 with investigations conducted. Added all Email responses from e-corp employees. Pulled in ColonelDox work on Elliot Alderson ID Badge and subsequent Site. Added Car registration site. Fixed Shipping site information. Added car and information to license_plates\
-
+**Wed  1 Nov 00:36:50 GMT 2017** - Pulled in update notes from CD on shipping site. Ran investigation using employee names on e-corp company directory
 
 
 
@@ -54,9 +54,13 @@ Timeline
 
 TODO
 ----
-
+Create Readme for Sites folder to explain a bit about each one (and how much information they hold)
+Update about plans.rar and how to solve, also spot the difference issue with python
+Chase up/ Document shodan stuff /etc from ep1
+Ep3
+Get Ready for ep4
 Add whois/etc information for sites
-Investigations 
+Investigations - In Progress
 
 
 
