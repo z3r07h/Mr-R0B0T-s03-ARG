@@ -1,6 +1,6 @@
 # Mr-R0B0T-s03-ARG
 
-Last Updated: Tue 31 Oct 00:17:13 GMT 2017
+Last Updated: Wed 1 Nov 00:36:50 GMT 2017
 
 A writeup for things found and theories regarding the Mr Robot Season 3 ARG
 
