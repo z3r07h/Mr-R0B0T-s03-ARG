@@ -11,6 +11,8 @@ In the script the last section of the page is all redacted with black./
 The reason this is probably more important than it seems is that the perk almost directly hints that the script of this episode will be important/
 Therefore on further inspection there are a couple of extra interesting pieces of the episode that stand out./
 
+There's some extra screenshots taken, purely from curiosity. I'll keep them around on the tiny chance they mean something later on. 
+
 P.s. THere is a LOT of MUSIC in this episode
 
 ok lets get cracking. 
@@ -54,6 +56,8 @@ Episode 3 Observations
 Evidence
 --------
 
+**Login used for 5-9 hack**
+![5-9_Login](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/1-elliot_logging_into_tyrell_ecorp_computer.jpg)
 
 
 Interesting Stuff
