@@ -15,7 +15,7 @@ There's some extra screenshots taken, purely from curiosity. I'll keep them arou
 
 P.s. THere is a **LOT of MUSIC** in this episode (I haven't even documented it all yet)
 
-ok lets get cracking. 
+ok lets get cracking.
 
 Preliminary stuff from previous episodes
 ----------------------------------------
@@ -56,8 +56,75 @@ Episode 3 Observations
 Evidence
 --------
 
-**Login used for 5-9 hack**
-![5-9_Login](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/1-elliot_logging_into_tyrell_ecorp_computer.jpg)
+**Wellicks' Address**  
+![wellick_address](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/0-wellick_Address.jpg)
+
+**Login used for 5-9 hack**  
+![5-9_login](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/1-elliot_logging_into_tyrell_ecorp_computer.jpg)
+
+**The Gun**  
+![gun](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/2-Gun.jpg)
+
+**Xs on FSociety shutters**  
+![fsociety_shutters](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/3-Xs_on_fsociety_doors.jpg)
+
+**Weird Book behind Tyrell**  
+![weird_book](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/5-weird_book_behind_tyrell.jpg)
+
+**Weird Symbols by interviewer**  
+![weird_symbols](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/6-weird_symbols_by_interviewer.jpg)
+
+**Babycam IP**  
+![babycam_ip](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/7-babycam_address.jpg)
+
+**Ecorp building photos**  
+![ecorp_buildings](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/8-ecorp_building_pictures.jpg)
+
+**Pen colours**  
+![pen_colours](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/10-pen-colours.jpg)
+
+**Car behind Cisco**  
+![car_behind_cisco](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/11-car_number_plate.jpg)
+
+**5-9 Topology**  
+![topology](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/13-topology_diagram.jpg)
+
+**Sue Dragel Article**  
+![sue_dragel_article](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/14-Sue_dragel_article.jpg)
+
+**Haley Macteal Article**  
+![haley_macteal_article](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/15-Haley_MacTeal_article.jpg)
+
+**Tyrell Quoting Deuteronomy**  
+![tyrell_deuteronomy](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/16-Tyrell_quoting_bible.jpg)
+
+**MAP**  
+![map](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/17-Map_again.jpg)
+
+**Tom Wingfields Country Store**  
+![store_and_police_car](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/18-Store_and_police_car.jpg)
+
+**Police precint number**  
+![police_hat](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/20-police_number.jpg)
+
+**FBI guy yelling about puzzles, and math**  
+![puzzles_and_math](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/21-FBI_guy_talking_about_puzzles.jpg)
+
+**Irving's Novel - Chapter 4**  
+![Irving_novel](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/22-irvings-novel.jpg)
+
+**MEATY DAMN HANDS**  
+![mdh](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/23-meaty-damn-hands.jpg)
+
+**Hotel number**  
+![hotel_number](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/24-tyrell_hotel_261.jpg)
+
+**Fukan hotel**  
+![fukan_hotel](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/25-Fukan_hotel.jpg)
+
+**Taxi 7X24**
+![taxi](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/26-Taxi.jpg)
+
 
 
 Interesting Stuff
