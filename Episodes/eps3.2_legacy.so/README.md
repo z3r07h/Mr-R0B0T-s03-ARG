@@ -6,8 +6,8 @@ Preface
 
 So on the surface, this episode didn't seem to hold a ton of information (with regard to easter eggs)
 
-However, before this episode launched there was an E-coin perk that was the first page of the script to the episode. /
-In the script the last section of the page is all redacted with black. /
+However, before this episode launched there was an E-coin perk that was the first page of the script to the episode.  
+In the script the last section of the page is all redacted with black.  
 The reason this is probably more important than it seems is that the perk almost directly hints that the script of this episode will be important.
 Therefore on further inspection there are a couple of extra interesting pieces of the episode that stand out.
 
