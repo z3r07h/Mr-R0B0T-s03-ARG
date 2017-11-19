@@ -58,6 +58,7 @@ TODO
 - Create Readme for Sites folder to explain a bit about each one (and how much information they hold)
 - Update about plans.rar and how to solve, also spot the difference issue with python
 - Chase up/ Document shodan stuff /etc from ep1
+- subreddit write up
 - Ep3
 - Get Ready for ep4
 - Add whois/etc information for sites
