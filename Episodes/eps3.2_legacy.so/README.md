@@ -66,7 +66,7 @@ Evidence
 ![gun](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/2-Gun.jpg)
 
 **Xs on FSociety shutters**  
-![fsociety_shutters](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/3-Xs_on_fsociety_doors.jpg)
+![fsociety_shutters](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep3/Episodes/eps3.2_legacy.so/screenshots/3-Xs_on_fsociety_doors.jpg)
 
 **Weird Book behind Tyrell**  
 ![weird_book](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.2_legacy.so/screenshots/5-weird_book_behind_tyrell.jpg)
