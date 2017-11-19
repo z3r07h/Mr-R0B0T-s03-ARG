@@ -51,6 +51,11 @@ Episode 3 Observations
 - **2X74** the taxi number that Elliot and Tyrell meet in
 
 
+Evidence
+--------
+
+
+
 Interesting Stuff
 -----------------
 
@@ -79,4 +84,5 @@ TODO
 - Find the large X in episode 2
 - Find out what the book behind Tyrell is
 - Investigate the domain rvzjtenpula.net
+- Lookup the Taxi number
 
