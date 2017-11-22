@@ -94,7 +94,7 @@ Evidence
 **samsepiol and kibana URL**
 ![kibana_login](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/07-sepi0l_and_kibana.jpg)
 
-**Strange symbols**
+**Strange symbols (On the right of the picture)**
 ![symbols](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/08-strange_symbols.jpg)
 
 **Floor 44**
