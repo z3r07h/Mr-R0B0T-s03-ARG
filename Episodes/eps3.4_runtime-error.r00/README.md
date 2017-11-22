@@ -18,7 +18,7 @@ Observations
 ------------
 
 - 01m48s Strange static noises
-- 01m49s **Aller Anfang ist schwer. Anfangen ist leicht, beharren eine Kunst.** which means the beginning is difficult, to begin is easy, perrsistence is art. The second art is a german proverb attributed to Friedrich Heinrich Wilhelm Körte (1861).  
+- 01m49s **Aller Anfang ist schwer. Anfangen ist leicht, beharren eine Kunst.** which means the beginning is difficult, to begin is easy, perrsistence is art. The second part is a german proverb attributed to Friedrich Heinrich Wilhelm Körte (1861).  
 - 03m52  **43rd floor** Elliot works on the 
 - 05m25s **Samar Swailem** The name of the guy next to Elliot is revealed 
 - 06m52s More employee names but shot is moving too fast to focus in properly
@@ -43,7 +43,7 @@ Observations
 - 15m24s **Frank Bowman** a user seen in the kibana dashboard
 - 15m24s **\\csat-fs01** a fileserver on the ecorp-network (FQDN csat.e-corp.usa.com) - D$ is the share (D:\)
 - 15m24s **mimi.exe** seen in kibana dashboard - looks like someone was using mimikatz to grab kerberos tickets from c:\temp\tickets
--15m38s **Floor 23** the floor Frank Bowman works on
+- 15m38s **Floor 23** the floor Frank Bowman works on
 - 17m11s **Shaun** - Head of Sales
 - 17m14s **Dave Kennedy** Elliot introduces himself as this guy. (He *worked with Craig on the Q4 push*)
 - 17m31s **4412C** the room the meeting is in (Elliot also mentions room 4312C)
