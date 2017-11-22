@@ -8,6 +8,12 @@ A very interesting episode in retrospect. What makes it particular amazing IMO i
 
 
 
+Preliminary stuff from previous episodes
+----------------------------------------
+
+- some commands being used on the UPS server
+- Another MAP - behind Philip Price, although this is a map of the world (most of it)
+
 Observations
 ------------
 
@@ -61,6 +67,98 @@ Observations
 Evidence
 --------
 
+**Prelim UPS commands**
+![ups_commands](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/00-commands.jpg)
+
+**World map**
+![map](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/00-map.jpg)
+
+**Elliot's working floor**
+![elliot_floor](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/01-Elliot_floor.jpg)
+
+**Samar Swailem**
+![samar](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/02-samar_swailem.jpg)
+
+**Blurry Ecorp names**
+![ecorp_names](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/03-more_ecorp-names.jpg)
+
+**Password reset site**
+![password_reset](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/04-password_reset.jpg)
+
+**Kibana dashboard 1**
+![kibana_1](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/05-update_failure.jpg)
+
+**192.251.68.232**
+![telnet](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/06=telnet_site.jpg)
+
+**samsepiol and kibana URL**
+![kibana_login](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/07-sepi0l_and_kibana.jpg)
+
+**Strange symbols**
+![symbols]((https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/08-strange_symbols.jpg)
+
+**Floor 44**
+![floor_44](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/09-floor44.jpg)
+
+**Fred Watson**
+![fred](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/10_fred_watson.jpg)
+
+**Patrick Head**
+![patrick](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/11_patrick_head.jpg)
+
+**Barry Caswith**
+![barry](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/12-barry_caswith.jpg)
+
+**Edie Hughes**
+![edie](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/13-edie_hughes.jpg)
+
+**Main Ecorp website**
+![ecorp_website](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/14-ecorp_website.jpg)
+
+**kibana login***
+![kibana_login](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/15-kibana_login.jpg)
+
+**Frank Bowman**
+![frank](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/16-frank_bowman.jpg)
+
+**MORE Frank Bowman**
+![mo_frank](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/17-more_frank_bowman.jpg)
+
+**Shaun (Head of Sales)**
+![shaun](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/18-shaun_sales.jpg)
+
+**Mr Robot talks about Vera**
+![vera](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/19-vera.jpg)
+
+**X**
+![X](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/20-X.jpg)
+
+**Another X**
+![mo_X](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/21-another_X.jpg)
+
+**THE INSTRUCTIONS**
+![instructions](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/22-instructions.jpg)
+
+**Floor 32**
+![floor_32](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/23-floor_32.jpg)
+
+**Bowman QR code**
+![bowman_qr](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/24-bowman-QR.jpg)
+
+**Notice Board**
+![notice_board](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/25-notice_board.jpg)
+
+**Lydia Riley Badge/QR**
+![lydia_badge](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/26-lydia_badge.jpg)
+
+**CSAT Server screen**
+![CSAT_server](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/27-CSAT_server.jpg)
+
+**Moxie Marlinspike**
+![moxie](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/28-marlin_moxie.jpg)
+
+**Lydia Riley**
+![lydia](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/29-lydia_riley.jpg)
 
 
 Interesting
@@ -70,10 +168,12 @@ Interesting
 - Lots of floor numbers
 - some other interesting numbers from Elliot's instructions **23-148**, **022350**
 - par login - **zlon0101**
-- Frank Bowman's password - **hidd3nlynx**
+- Frank Bowman's password - **hidd3nlynx** is a reference to a hacker group (a serious hacker group) more info: https://www.symantec.com/connect/blogs/hidden-lynx-professional-hackers-hire
 - There is a taxi in this episode (2 actually) before the coin riot starts, but the number is far to unfocused to read. 
 - Ecorp extension numbers - Safety Hotline **3401**, ID help desk hotline **2219**, E corp security **791**
 - The internal audit team is from DETROIT
+- The codenames used by Irvings and Angela directly correspond to security researcher **Moxie Marlinspike** whom mainly deals with security of communications - pretty cool since they're using a phone at the time. More info on MM can be found here: https://en.wikipedia.org/wiki/Moxie_Marlinspike, https://moxie.org/, https://github.com/moxie0
+- a Marlinspike is also a type of knot, since MM has a mariners license his psuedonym is probably derived from this. 
 
 IPs & Sites Seen
 ----------------
@@ -82,6 +182,7 @@ IPs & Sites Seen
 - **www.e-corp-usa.com**
 - **192.251.68.233**
 - **192.251.68.234**
+- **192.251.68.232**
 
 
 
@@ -99,12 +200,15 @@ Ecorp Employees
 
 6 Digit Numbers
 ---------------
+- 072391
 - 022350
-
 
 
 CMDS
 ----
+
+cfgpower -all
+upsfwupdate -last
 
 cd /usr/local/logstatsh-ups
 ls 
@@ -113,8 +217,8 @@ ls
 Todo
 ----
 
-- look up Frank Bowman's password (hidd3nlynx) for any extra info
-- base64/try to decode the hashes seen in kibana dashboard **b9a4dac2192fd78cda097bfa79f6e7b2**, **28656e674bfa56253bc73ec81071363e**, **b8a9569a8a227f7e98eb297433d405da**, **1f038b87e8a1f84d89a74168e27a44a0**,
+- QR Codes
+- base64/md5/try to decode the hashes seen in kibana dashboard **b9a4dac2192fd78cda097bfa79f6e7b2**, **28656e674bfa56253bc73ec81071363e**, **b8a9569a8a227f7e98eb297433d405da**, **1f038b87e8a1f84d89a74168e27a44a0**,
 - Add relative link for Elliot's badge
 - Update ecorp employee's list
 - Update Bobby/bobbi Fulltern
