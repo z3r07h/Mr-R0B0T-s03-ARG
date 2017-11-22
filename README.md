@@ -81,6 +81,7 @@ TODO
 - Add Sites from ep5
 - Add Site Ts1 from ep 2
 - Add Site ecoin-services from ep 4
+- Add Vimeo to sites
 - Create Readme for Sites folder to explain a bit about each one (and how much information they hold)
 - Update about plans.rar and how to solve, also spot the difference issue with python
 - Chase up/ Document shodan stuff /etc from ep1
