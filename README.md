@@ -1,6 +1,6 @@
 # Mr-R0B0T-s03-ARG
 
-Last Updated: Wed 1 Nov 00:36:50 GMT 2017
+Last Updated: Wed 22 Nov 00:53:58 GMT 2017
 
 A writeup for things found and theories regarding the Mr Robot Season 3 ARG
 
@@ -14,6 +14,13 @@ Inside Each episode will be a list of findings, theories, links found, pictures,
 
 **Sites** folder contains sites and links found from Episode / Other investigation
 Each ARG Site will have it's own subdirectory, along with a readme to include the conclusions, and theories, backup scripts and tools as necessary, and notes as just a personal account of some things that may be out of the ordinary.  
+
+**Emails** folder contains replies from all characters/email addresses seen in the show
+
+**License_Plates** folder contains results from car searches using the nyspcjis.net site and car number plates/taxi numbers seen in the show
+
+The list of Ecorp employees will be updated as more and more employees are identified in each episod
+
 
 Overarching Theory
 ------------------
@@ -32,6 +39,12 @@ This could be a large clue that certain colors this season, or the use of colors
 The reddit threads on REALMysterSpot indicate a number of locations in the United States\
 Other Geological sites such as Sioux Falls, and the Mine in the congo White Rose want's to get his/her hands on seem to be key pieces of the story. Thus they could also be key pieces of the ARG
 
+**Numbers**
+There's alot of 6 digit numbers coming up this season (and some 5 digit ones).  
+
+
+To facilitate better ARG organisation I will begin to collate major incidents of locations, numbers, usernames/passwords into easy accessible files. 
+
 
 Timeline
 --------
@@ -48,7 +61,9 @@ Timeline
 **Tue 31 Oct 20:21:00 GMT 2017** - Updated sites (almost all there now, for now). Updated Ep2 with investigations conducted. Added all Email responses from e-corp employees. Pulled in ColonelDox work on Elliot Alderson ID Badge and subsequent Site. Added Car registration site. Fixed Shipping site information. Added car and information to license_plates\
 **Wed  1 Nov 00:36:50 GMT 2017** - Pulled in update notes from CD on shipping site. Ran investigation using employee names on e-corp company directory  
 **Sun 19 Nov 17:50:50 GMT 2017** - Added Episode 3.2_legacy.so to Episodes  
-**Sun 19 Nov 23:45:04 GMT 2017** - Added Episde 3.3_metadata.par2 to Episodes
+**Sun 19 Nov 23:45:04 GMT 2017** - Added Episode 3.3_metadata.par2 to Episodes
+**Wed 22 Nov 00:53:58 GMT 2017** - Added Episode 3.4_runtime-error.r00 to Episodes
+
 
 
 
@@ -59,6 +74,8 @@ Timeline
 TODO
 ----
 
+- Grab the series track listings for each episode
+- Add Sites from ep5
 - Add Site Ts1 from ep 2
 - Add Site ecoin-services from ep 4
 - Create Readme for Sites folder to explain a bit about each one (and how much information they hold)
