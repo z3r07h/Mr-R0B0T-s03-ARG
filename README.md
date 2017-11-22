@@ -13,7 +13,7 @@ Layout
 Inside Each episode will be a list of findings, theories, links found, pictures, QR codes, etc, basically everything that COULD be ARG related. The readme for each one will list what has been found, investigated, results, and conclusions. 
 
 **Sites** folder contains sites and links found from Episode / Other investigation
-Each ARG Site will have it's own subdirectory, along with a readme to include the conclusions, and theories, backup scripts and tools as necessary, and notes as just a personal account of some things that may be out of the ordinary.  
+Each ARG Site will have its own subdirectory, along with a readme to include the conclusions, and theories, backup scripts and tools as necessary, and notes as just a personal account of some things that may be out of the ordinary.  
 
 **Emails** folder contains replies from all characters/email addresses seen in the show
 
@@ -26,8 +26,11 @@ Overarching Theory
 ------------------
 
 This season's ARG started with two new PDFs from redwheelbarrow.com\
+
 These were two childrens activities, 'Spot The Difference', and 'Color By Numbers' (please see the redwheelbarrow folder under SITES for more info on these)\
+
 Including these there are 3 very prominent themes so far in this season's ARG\
+
 **Spotting the difference** 
 This could be spotting the difference on a website, or between a site seen on the show and seen IRL. Even spotting the difference in responses from ARG characters. 
 
@@ -61,8 +64,8 @@ Timeline
 **Tue 31 Oct 20:21:00 GMT 2017** - Updated sites (almost all there now, for now). Updated Ep2 with investigations conducted. Added all Email responses from e-corp employees. Pulled in ColonelDox work on Elliot Alderson ID Badge and subsequent Site. Added Car registration site. Fixed Shipping site information. Added car and information to license_plates\
 **Wed  1 Nov 00:36:50 GMT 2017** - Pulled in update notes from CD on shipping site. Ran investigation using employee names on e-corp company directory  
 **Sun 19 Nov 17:50:50 GMT 2017** - Added Episode 3.2_legacy.so to Episodes  
-**Sun 19 Nov 23:45:04 GMT 2017** - Added Episode 3.3_metadata.par2 to Episodes
-**Wed 22 Nov 00:53:58 GMT 2017** - Added Episode 3.4_runtime-error.r00 to Episodes
+**Sun 19 Nov 23:45:04 GMT 2017** - Added Episode 3.3_metadata.par2 to Episodes  
+**Wed 22 Nov 00:53:58 GMT 2017** - Added Episode 3.4_runtime-error.r00 to Episodes  
 
 
 
