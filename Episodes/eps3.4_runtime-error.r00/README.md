@@ -80,7 +80,7 @@ Evidence
 ![samar](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/02-samar_swailem.jpg)
 
 **Blurry Ecorp names**
-![ecorp_names](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/03-more_ecorp-names.jpg)
+![ecorp_names](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/03-more_ecorp_names.jpg)
 
 **Password reset site**
 ![password_reset](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/04-password_reset.jpg)
@@ -89,13 +89,13 @@ Evidence
 ![kibana_1](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/05-update_failure.jpg)
 
 **192.251.68.232**
-![telnet](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/06=telnet_site.jpg)
+![telnet](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/06-telnet_site.jpg)
 
 **samsepiol and kibana URL**
 ![kibana_login](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/07-sepi0l_and_kibana.jpg)
 
 **Strange symbols**
-![symbols]((https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/08-strange_symbols.jpg)
+![symbols](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/08-strange_symbols.jpg)
 
 **Floor 44**
 ![floor_44](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/09-floor44.jpg)
@@ -115,7 +115,7 @@ Evidence
 **Main Ecorp website**
 ![ecorp_website](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/14-ecorp_website.jpg)
 
-**kibana login***
+**kibana login**
 ![kibana_login](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep5/Episodes/eps3.4_runtime-error.r00/screenshots/15-kibana_login.jpg)
 
 **Frank Bowman**
