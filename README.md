@@ -66,6 +66,8 @@ Timeline
 **Sun 19 Nov 17:50:50 GMT 2017** - Added Episode 3.2_legacy.so to Episodes  
 **Sun 19 Nov 23:45:04 GMT 2017** - Added Episode 3.3_metadata.par2 to Episodes  
 **Wed 22 Nov 00:53:58 GMT 2017** - Added Episode 3.4_runtime-error.r00 to Episodes  
+**Sun  3 Dec 20:09:23 GMT 2017** - Added Episode 3.5_kill_process.inc to Episodes
+
 
 
 
