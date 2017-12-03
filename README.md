@@ -1,6 +1,6 @@
 # Mr-R0B0T-s03-ARG
 
-Last Updated: Wed 22 Nov 00:53:58 GMT 2017
+Last Updated: Sun  3 Dec 22:38:21 GMT 2017
 
 A writeup for things found and theories regarding the Mr Robot Season 3 ARG
 
@@ -17,7 +17,7 @@ Each ARG Site will have its own subdirectory, along with a readme to include the
 
 **Emails** folder contains replies from all characters/email addresses seen in the show
 
-**License_Plates** folder contains results from car searches using the nyspcjis.net site and car number plates/taxi numbers seen in the show
+**License_Plates** folder contains results from car searches using the nyspcjis.net site and car number plates/taxi numbers seen in the show - Lots of Taxis appear all over the place. One leads to an easter egg about song entitled "Taxi" so this seems like quite a good thing to keep an eye on.
 
 The list of Ecorp employees will be updated as more and more employees are identified in each episod
 
@@ -43,7 +43,7 @@ The reddit threads on REALMysterSpot indicate a number of locations in the Unite
 Other Geological sites such as Sioux Falls, and the Mine in the congo White Rose want's to get his/her hands on seem to be key pieces of the story. Thus they could also be key pieces of the ARG
 
 **Numbers**
-There's alot of 6 digit numbers coming up this season (and some 5 digit ones).  
+There's alot of 6 digit numbers coming up this season (and some 5 digit ones). We start seeing 8 digit numbers of important in episode 7 
 
 
 To facilitate better ARG organisation I will begin to collate major incidents of locations, numbers, usernames/passwords into easy accessible files.
@@ -67,6 +67,8 @@ Timeline
 **Sun 19 Nov 23:45:04 GMT 2017** - Added Episode 3.3_metadata.par2 to Episodes  
 **Wed 22 Nov 00:53:58 GMT 2017** - Added Episode 3.4_runtime-error.r00 to Episodes  
 **Sun  3 Dec 20:09:23 GMT 2017** - Added Episode 3.5_kill_process.inc to Episodes
+**Sun  3 Dec 22:38:21 GMT 2017** - Added Episode 3.6_fredrick&tanya.chk to Episodes
+
 
 
 
