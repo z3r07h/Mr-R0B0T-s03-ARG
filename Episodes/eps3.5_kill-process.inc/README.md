@@ -34,7 +34,7 @@ Observations
 - 26m44s **192.251.68.242** - on the PuTTY screen we also see 192.251.68.229 later, need to double check if this has been seen before
 - 26m58s **9C2FA3D1** Elliots RSA key (different this time)
 - 30m29s **Kaitlin Doubleday** in a play called Repulsion - interesting because Portia Doubleday is part of the cast for the show.
-- 31m43s Barcodes on Red-wheelbarrow stock PGP_with_reddit_usernames (Probably just equate to the number 62 36 000 which is on the boxes)
+- 31m43s Barcodes on Red-wheelbarrow stock (Probably just equate to the number 62 36 000 which is on the boxes)
 - 32m02s **Cred 22958** number DOM quotes to emergency services
 - 38m59s Ecorp Barcodes on folders
 - 44m15s **GXG5775** number plate
