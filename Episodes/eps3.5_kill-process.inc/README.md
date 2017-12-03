@@ -3,7 +3,7 @@ eps3.5_kill-process.inc
 
 Preface
 --
-
+Again quite a quiet episode for ARG stuff - some bits of interesting things to investigate, looks like a few sites we've seen before and maybe a new file to delve into. As always.. Here we go..
 
 Observations
 --
@@ -40,6 +40,64 @@ Observations
 - 44m15s **GXG5775** number plate
 - 44m24s **JAZZKEYS** number plate
 
+
+Evidence
+--
+**Television**
+![tv](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/01-television.jpg)
+
+**104912 Roadsign**
+![roadsign_1](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/02-roadsign.jpg)
+
+**FBI Noticeboard**
+![fbi_noticeboard](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/03-FBI_noticeboard.jpg)
+
+**The Mar-A-Lago Club**
+![mar-a-lago](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/04-themaralago_club.jpg)
+
+**B823710 NYPD Vehicle ID**
+![nypd_vehicle](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/05-nypd_id.jpg)
+
+**Erik Ralbern**
+![erik](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/06-erik_ralbern.jpg)
+
+**UPS connection screen and commands**
+![ups_update](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/07-elliot_ups_update.jpg)
+
+**4X98 - Taxi**
+![4x98_taxi](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/08-4x98_taxi.jpg)
+
+**FBI Evidence file - 288A-NY-ROUIX-22381_evi_log_22.pdf**
+![fbi_evi_file](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/09-FBI_evidence.jpg)
+
+**HRA9510 car plate and 105537 roadsign**
+![car_plate_and_roadsign](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/10_car_and_sign.jpg)
+
+**Matt Mitchell**
+![matt_mitchell](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/12-matt_mitchell.jpg)
+
+**192.251.68.242 - PuTTY login**
+![putty_ip](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/13-putty_ip.jpg)
+
+**Different RSA Key ID**
+![new_rsa](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/14-rsa_key_3.jpg)
+
+**Kaitlin Doubleday**
+![kaitlin](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/kaitlin_doubleday.jpg)
+
+**RWB - Barcodes**
+![RWB_bardcodes](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/16-barcodes.jpg)
+
+**Ecorp - Barcodes**
+![ecorp_barcodes](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/17-ecorp_barcodes.jpg)
+
+**GXG5775 Car number plate**
+![GXG_plate](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/18-GXG_car.jpg)
+
+**JAZZKEYS Car number plate**
+![jazzkeys](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/19-jazzkeys.jpg)
+
+
 Interesting stuff
 ---
 Dom speaks a bunch of numbers out loud while she's inside Red Wheelbarrow they are:
@@ -50,3 +108,9 @@ Dom speaks a bunch of numbers out loud while she's inside Red Wheelbarrow they a
 - **15** Customers
 
 14-4-2-1-15
+
+
+TODO
+--
+
+- Add Erik, and Matt to Ecorp employees list
