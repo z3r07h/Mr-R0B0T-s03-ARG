@@ -4,13 +4,13 @@ Last Updated: Wed 22 Nov 00:53:58 GMT 2017
 
 A writeup for things found and theories regarding the Mr Robot Season 3 ARG
 
-This is a living document and will seek to layout observations and investigations made into the Season 3 ARG. This is not a description of the story, nor how the story and ARG may interact. 
+This is a living document and will seek to layout observations and investigations made into the Season 3 ARG. This is not a description of the story, nor how the story and ARG may interact.
 
 Layout
 ------
 
-**Episodes** folder contains what will mostly be the s0urce information. 
-Inside Each episode will be a list of findings, theories, links found, pictures, QR codes, etc, basically everything that COULD be ARG related. The readme for each one will list what has been found, investigated, results, and conclusions. 
+**Episodes** folder contains what will mostly be the s0urce information.
+Inside Each episode will be a list of findings, theories, links found, pictures, QR codes, etc, basically everything that COULD be ARG related. The readme for each one will list what has been found, investigated, results, and conclusions.
 
 **Sites** folder contains sites and links found from Episode / Other investigation
 Each ARG Site will have its own subdirectory, along with a readme to include the conclusions, and theories, backup scripts and tools as necessary, and notes as just a personal account of some things that may be out of the ordinary.  
@@ -31,8 +31,8 @@ These were two childrens activities, 'Spot The Difference', and 'Color By Number
 
 Including these there are 3 very prominent themes so far in this season's ARG\
 
-**Spotting the difference** 
-This could be spotting the difference on a website, or between a site seen on the show and seen IRL. Even spotting the difference in responses from ARG characters. 
+**Spotting the difference**
+This could be spotting the difference on a website, or between a site seen on the show and seen IRL. Even spotting the difference in responses from ARG characters.
 
 **Color By Numbers**
 In the first instance the colors referenced certain alphabet letters, and so certain parts of the color By Numbers activity spelt out hints (such as SHES NOT SANE)\
@@ -46,7 +46,7 @@ Other Geological sites such as Sioux Falls, and the Mine in the congo White Rose
 There's alot of 6 digit numbers coming up this season (and some 5 digit ones).  
 
 
-To facilitate better ARG organisation I will begin to collate major incidents of locations, numbers, usernames/passwords into easy accessible files. 
+To facilitate better ARG organisation I will begin to collate major incidents of locations, numbers, usernames/passwords into easy accessible files.
 
 
 Timeline
@@ -77,6 +77,10 @@ Timeline
 TODO
 ----
 
+- Grab the script image file from perks
+- Make perks sections
+- Make daily 5/9 section
+- Consolidate important info into lists
 - Grab the series track listings for each episode
 - Add Sites from ep5
 - Add Site Ts1 from ep 2
@@ -88,7 +92,3 @@ TODO
 - subreddit write up
 - Add whois/etc information for sites
 - Investigations - In Progress
-
-
-
-
