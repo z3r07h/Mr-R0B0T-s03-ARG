@@ -10,10 +10,10 @@ Observations
 
 - 01m35s "Back the future" cartoon on television - theme tune with lyrics "Going back in time"
 - 01m35s **3 U.S.A map puzzles** Jigsaw puzzle box on the top of the telelvision.
-- 01m35s Videos on the table top - FYI they are - **Pump up the Volume (1990)**, **Lost boys (1987)**, **A Princess Bride** - Which should be **The** princess bride **(1987)**, **Mystic Pizza (1988)**, **She's out of control (1989)**, **Pretty Woman (1990)**. Some other classics from the era are in the shefl underneath including: The mighty Ducks, Sister Act, Uncle Buck, Mrs Doubtfire, Dirty Dancing, and My Cousin Vinny.
+- 01m35s Videos on the table top - FYI they are - **Pump up the Volume (1990)**, **Lost boys (1987)**, **A Princess Bride** - Which should be **The** princess bride **(1987)**, **Mystic Pizza (1988)**, **She's out of control (1989)**, **Pretty Woman (1990)**. Some other classics from the era are in the shelf underneath including: The mighty Ducks, Sister Act, Uncle Buck, Mrs Doubtfire, Dirty Dancing, and My Cousin Vinny.
 - 11m52s **104912** Road sign
-- 13m11s **FBI Notice Board** comes into focus after Dom and her partnet leave
-- 13m43s **The Mar-A-Lago Club** (need to double check this is real)
+- 13m11s **FBI Notice Board** comes into focus after Dom and her partner leave
+- 13m43s **The Mar-A-Lago Club** 
 - 16m39s **B823710** NYPD vehicle ID
 - 16m52s - 222, and 17, helmet numbers of fireman (the previous number is weird/unreadable)
 - 17m39s **Eric Ralbern** Security guard who elliot steals an ID from (no QR code on this one- more info from badge in Extra Shots)
