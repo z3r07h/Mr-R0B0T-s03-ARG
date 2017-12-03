@@ -83,7 +83,7 @@ Evidence
 ![new_rsa](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/14-rsa_key_3.jpg)
 
 **Kaitlin Doubleday**
-![kaitlin](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/kaitlin_doubleday.jpg)
+![kaitlin](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep6/Episodes/eps3.5_kill-process.inc/screenshots/15-kaitlin_doubleday.jpg)
 
 **RWB - Barcodes**
 ![RWB_bardcodes](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.5_kill-process.inc/screenshots/16-barcodes.jpg)
