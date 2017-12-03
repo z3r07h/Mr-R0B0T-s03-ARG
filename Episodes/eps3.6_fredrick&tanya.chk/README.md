@@ -37,7 +37,41 @@ Observations
 
 Evidence
 --
+**support@osTicket.com**
+![prev_email](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.6_fredrick%26tanya.chk/screenshots/00-previous-email.jpg)
 
+**rising sun postcard**
+![postcard](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.6_fredrick%26tanya.chk/screenshots/01-postcard.jpg)
+
+**LOST - 1057**
+![lost](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.6_fredrick%26tanya.chk/screenshots/02-1057.jpg)
+
+**Caddilac**
+![caddy](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.6_fredrick%26tanya.chk/screenshots/03-caddy.jpg)
+
+**Ordzoo's**
+![ordz](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.6_fredrick%26tanya.chk/screenshots/04-ordzoo.jpg)
+
+**flight maps**
+![maps](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.6_fredrick%26tanya.chk/screenshots/05-ordinance_maps.jpg)
+
+**High level abstractions**
+![high_level](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.6_fredrick%26tanya.chk/screenshots/06-high_level_ab.jpg)
+
+**MAP**
+![map](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.6_fredrick%26tanya.chk/screenshots/07-MAP.jpg)
+
+**FBI-Wall**
+![wall](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.6_fredrick%26tanya.chk/screenshots/08-FBI-wall.jpg)
+
+**Trenton Info**
+![trenton](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.6_fredrick%26tanya.chk/screenshots/09-trenton_ip.jpg)
+
+**Mobley & Darlene information**
+![mob_darl](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.6_fredrick%26tanya.chk/screenshots/10-mob_darl_ips.jpg)
+
+**Elliot & Tyrell information**
+![ell_ty](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Episodes/eps3.6_fredrick%26tanya.chk/screenshots/11-ell_and_ty_id.jpg)
 
 
 Interesting
