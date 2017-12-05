@@ -10,7 +10,8 @@ https://www.red-wheelbarrow.com/
 
 **Main Page with Card**
 
-![main_card]()
+![main_card](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/red-wheelbarrow.com/screenshots/01-redwheelbarrow_with_card.jpg)
+
 
 Information
 -----------
@@ -19,6 +20,13 @@ This site practically started the ARG for season 3. I was not on it as fast as t
 
 Two new PDFs were discovered before the start of Mr Robot Season 3 episode one airing. Namely **spotthedifference.pdf** and **colorbynumbers.pdf**
 
+There is also a new card on the main page with writing around the outside that reads  
+
+<h1>The time has come-join with us in spirit. Together we will bathe the white rose in red.Her time is no more. Prepare to declare.Look how easily we infest this site. She cannot stop us. Level 32 is upon us.</h1
+
+![card](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/red-wheelbarrow.com/files/CARD.PNG)
+
+Interesting, lets try and find out what level 32 is all about. 
 
 Spot The Difference (Credits to ARG Society)
 -------------------
@@ -37,7 +45,6 @@ Color By Numbers (Credits to ARG Society)
 
 TODO
 ----
-- Get Images of the PDFs for this page
 - Find out what the morse code is
 - Find out if the Sun word was an anagram
 - Credit first solvers properly
