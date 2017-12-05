@@ -3,7 +3,8 @@ e-corp-usa.com_shipping_site
 
 Full link
 
-www.e-corp-usa.com/cp/directory/shipping/1088989 (**CREDITS willdroid8** - figured out if you added additional 9 to the end brings up login in page for shipping site - Thank you, and Thanks ColonelDox for the update!)
+www.e-corp-usa.com/cp/directory/shipping/1088989  
+ (**CREDITS willdroid8** - figured out if you added additional 9 to the end brings up login in page for shipping site - Thank you, and Thanks ColonelDox for the update!)
 
 First seen in ep3.1_undo.gz when Elliot is hatching his recovery plan
 
