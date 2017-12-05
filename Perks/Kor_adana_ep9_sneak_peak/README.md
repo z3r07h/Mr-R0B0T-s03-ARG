@@ -17,6 +17,12 @@ Before Kor speaks there's a similar sound but doesn't look like there's an image
 
 Evidence
 --
+**Before Kor speaks**
+![before](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Perks/Kor_adana_ep9_sneak_peak/screenshots/before_kor_speaks.jpg)
+
+**After, including Cat, look closely**
+![after](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Perks/Kor_adana_ep9_sneak_peak/screenshots/kor_cat.jpg)
+
 
 Added info
 --
