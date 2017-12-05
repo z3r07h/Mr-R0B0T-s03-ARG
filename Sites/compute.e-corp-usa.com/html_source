@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>E2B Cloud Solutions | E Corp</title>
+    <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro|Share+Tech+Mono|Open+Sans:400,400italic,600italic,700' rel='stylesheet' type='text/css'>
+    <link href='https://www.e-corp-usa.com/css/main.css' rel='stylesheet' type='text/css'>
+    <link href='css/styles.css' rel='stylesheet' type='text/css'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <style>
+      body, html {
+        width: 100%;
+        height: 100%;
+        background: #fff;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+
+    <!-- Omniture / DTM -->
+    <script src="//assets.adobedtm.com/5ed6cf59538a2045d9fe4799a3f70da302c83d5a/satelliteLib-24e397569ca85a58d3963043838c6696e85c5e9a.js"></script>
+  </head>
+  <body class="about">
+
+<div class="ecorp">
+  <div class="ecorp__header">
+    <div class="wrapper">
+      <a href="https://www.e-corp-usa.com" class="ecorp__header__logo"></a>
+    </div>
+  </div>
+  <div class="ecorp__hero ecorp__compute__hero">
+    <div class="wrapper">
+      <h2>E2B Cloud Solutions</h2>
+    </div>
+  </div>
+  <div class="wrapper">
+    <div class="ecorp__content full__width">
+      <p>Introducing E2B Cloud Solutions from E Corp. Utilizing, upgrading and maintaining your technology infrastructure has never been easier. Our highly skilled team of experts hosts all of your technology, software and apps in one place. This means you can reduce or even eliminate the ever-increasing cost of investing in your own infrastructure, software licenses and employee training. You can stop wasting your money and start focusing on your business.</p>
+
+      <div class="cloud__focus">
+        <div class="cloud__focus__left"><img src="images/cloud_icon.png" alt="cloud"></div>
+        <div class="cloud__focus__right"><p>Cloud Solutions from E2B connects with your existing office intranet and Internet resources to increase efficiency, improve communication and collaboration, and take your teamwork to the next level.</p></div>
+      </div>
+
+      <h4>E2B Cloud Solutions are:</h4>
+      <ul>
+        <li><strong>Bespoke</strong> - built to your custom, specific business requirements.</li>
+        <li><strong>Mobile-ready</strong> - get access to critical data from anywhere, any time!</li>
+        <li><strong>Infinitely Scalable</strong> - as you expand your business, the technology scales accordingly.</li>
+        <li><strong>Cost-effective</strong> - the technology pays for itself usually within the first 12 months.</li>
+      </ul>
+
+      <h4>We provide state-of-the-art tools to power all your business processes, including:</h4>
+      <ul>
+        <li><strong>Web Site Hosting</strong> - We offer a full suite of Web design services including back-end/front-end development, maintenance and hosting.</li>
+        <li><strong>Alfresco</strong> - Full suite of enterprise content management tools.</li>
+        <li><strong>Microsoft Exchange</strong> - The only choice for business email including calendars, contacts, tasks, and public folders. Add on BlackBerry or Windows Mobile devices so your workforce is always connected.</li>
+      </ul>
+    
+      <p>We are confident that Cloud Solutions can address your mission-critical business needs.</p>
+      <p>With Cloud Solutions from E2B, the skies the limit!</p>
+
+
+    </div>
+
+    <div class="ecorp__footer">
+      <div class="wrapper">
+        All rights reserved. ©2015 E Corp
+        <div class="footer-links">
+          <a href="http://www.usanetwork.com/terms" target="_blank">TERMS OF SERVICE</a>
+          <a href="http://www.nbcuniversal.com/privacy" target="_blank">PRIVACY POLICY</a>
+          <a href="http://www.usanetwork.com/feedback" target="_blank">HELP</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+var AdobeTracking = new Object();
+AdobeTracking.contentType = 'Compute';
+AdobeTracking.pageName = 'E-Corp USA : Compute';
+AdobeTracking.showSite = 'runpsu4';
+AdobeTracking.showSiteFeatureII = 'E-Corp USA';
+_satellite.pageBottom();
+</script>
+
+</body>
+</html>
