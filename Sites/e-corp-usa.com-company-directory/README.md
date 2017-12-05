@@ -1,3 +1,5 @@
+**UPDATE: 5th December 2017 22:04** Not sure when it has happened but Elliots Personnel number has been removed from the page. It no longer displays 072391 under his name - Suspicious
+
 
 Below is the write up of the company directory page. 
 To see write up and screen shots of the main domain go to https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/www.e-corp-usa.com/Main_site_ARG_2_%3F.md
