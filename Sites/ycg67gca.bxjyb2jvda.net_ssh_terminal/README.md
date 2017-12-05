@@ -24,4 +24,4 @@ A terminal screen that is Elliot loggin into the elkbox (automatically) to check
 
 
 **Logstash Logs**
-![logstash](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/ycg67gca.bxjyb2jvda.net_ssh_terminal/screenshots/02-logstash-ups.jpg)
+![logstash](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/ycg67gca.bxjyb2jvda.net_ssh_terminal/screenshots/02-logstash_ups.jpg)
