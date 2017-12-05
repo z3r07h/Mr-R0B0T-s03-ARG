@@ -1,6 +1,6 @@
 # Mr-R0B0T-s03-ARG
 
-Last Updated: Tue 5 Dec 19:03:16 GMT 2017
+Last Updated: Tue  5 Dec 21:44:44 GMT 2017
 
 A writeup for things found and theories regarding the Mr Robot Season 3 ARG
 
@@ -19,8 +19,9 @@ Each ARG Site will have its own subdirectory, along with a readme to include the
 
 **License_Plates** folder contains results from car searches using the nyspcjis.net site and car number plates/taxi numbers seen in the show - Lots of Taxis appear all over the place. One leads to an easter egg about song entitled "Taxi" so this seems like quite a good thing to keep an eye on.
 
-The list of Ecorp employees will be updated as more and more employees are identified in each episod
+**Lists** Various lists such as ecorp employees, emails, car registration plates, and others in accessible format for ease of use in enumeration or testing
 
+**Perks** Various information about ecoin perks claimed during the ARG 
 
 Overarching Theory
 ------------------
@@ -68,6 +69,8 @@ Timeline
 **Wed 22 Nov 00:53:58 GMT 2017** - Added Episode 3.4_runtime-error.r00 to Episodes  
 **Sun  3 Dec 20:09:23 GMT 2017** - Added Episode 3.5_kill_process.inc to Episodes
 **Sun  3 Dec 22:38:21 GMT 2017** - Added Episode 3.6_fredrick&tanya.chk to Episodes
+**Tue  5 Dec 21:44:44 GMT 2017** - Added Lists and Perks folders, fully tested all car number plates  
+
 
 
 
