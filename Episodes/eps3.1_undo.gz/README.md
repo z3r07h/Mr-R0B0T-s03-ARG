@@ -255,7 +255,7 @@ TODO
 - Confirm Joanna Wellick's lover's (Derek) car registration plate
 - Find the book the Freud quote is from
 - Find correct name for the Congo mine White Rose's aide speaks about
-- Investigate plans.rar file (Colonel Dox has already cracked part of this so catch up with them and see if anything more can be done)
+- Investigate plans.rar file (Colonel Dox has already cracked part of this so catch up with them and see if anything more can be done) - Dug all the way down and turned base64 into a file which in turn held another QR code - will do write up later. 
   - Base64 -> QR code -> https://github.com/RedBalloonShenanigans/MonitorDarkly (CD notes.md - will update progress there until addition of new site folder) --
   - Zeroth - This Tool looks to be what the FBI are using to monitor Elliots monitor, at first glance there is a command cnc_display.py which is very similar to cnc_receiver.py seen in the episode. Need to move this to Sites/something for the rar file/investigations when the folder is created
 - Do some more researching into When Elliot's birthday is. 
