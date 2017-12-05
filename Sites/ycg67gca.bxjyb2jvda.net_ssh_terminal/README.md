@@ -19,6 +19,9 @@ A terminal screen that is Elliot loggin into the elkbox (automatically) to check
 - We can follow /usr/local/logstash-ups to see an entire list of logstash log results
 - There is a /home path but it does not contain anything AFAIK
 
-**Main Shell**
+**Main Directories**
+![main_shell](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/ycg67gca.bxjyb2jvda.net_ssh_terminal/screenshots/01-directories.jpg)
 
-**Logstash logs**
+
+**Logstash Logs**
+![logstash](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/ycg67gca.bxjyb2jvda.net_ssh_terminal/screenshots/02-logstash-ups.jpg)
