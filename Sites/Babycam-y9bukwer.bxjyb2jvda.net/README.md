@@ -7,6 +7,9 @@ https://y9bukwer.bxjyb2jvda.net
 
 Original IP 192.251.68.238 
 
+**Main page**
+![main_page](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/Babycam-y9bukwer.bxjyb2jvda.net/screeenshots/01-stream_php.jpg)
+
 Description
 --
 
@@ -30,8 +33,6 @@ Interestingly enough if you run the file through a hex viewer the string Netscap
 
 Pretty obviously this is ascii hex table letters, which turns out to say: **h e r e**
 
-**Main page**
-![main_page](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/Babycam-y9bukwer.bxjyb2jvda.net/screeenshots/01-stream_php.jpg)
 
 **URL exposure**
 ![url](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/Babycam-y9bukwer.bxjyb2jvda.net/screeenshots/02-stream_php_info.jpg)
