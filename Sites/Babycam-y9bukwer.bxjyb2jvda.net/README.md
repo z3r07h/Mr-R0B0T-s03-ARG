@@ -31,6 +31,12 @@ Interestingly enough if you run the file through a hex viewer the string Netscap
 Pretty obviously this is ascii hex table letters, which turns out to say: **h e r e**
 
 **Main page**
-![main_page]
+![main_page](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/Babycam-y9bukwer.bxjyb2jvda.net/screeenshots/01-stream_php.jpg)
+
+**URL exposure**
+![url](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/Babycam-y9bukwer.bxjyb2jvda.net/screeenshots/02-stream_php_info.jpg)
+
+**h e r e**
+![here](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/Babycam-y9bukwer.bxjyb2jvda.net/screeenshots/03-here.jpg)
 
 
