@@ -1,4 +1,4 @@
-yakkqwhz.bxjyb2jvda.net
+CSAT-server-yakkqwhz
 ==
 
 Full site link

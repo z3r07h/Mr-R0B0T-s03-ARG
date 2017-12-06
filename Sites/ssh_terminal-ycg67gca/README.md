@@ -1,4 +1,4 @@
-ycg67gca.bxjyb2jvda.net_ssh_terminal
+ssh_terminal-ycg67gca
 ==
 
 Full site link:
