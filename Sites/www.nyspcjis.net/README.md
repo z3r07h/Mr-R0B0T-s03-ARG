@@ -5,7 +5,6 @@ Full site https://www.nyspcjis.net/menu/services/nyspncic2000/
 
 First seen: Season 3 episode 1 (eps3.0_power-saver-mode.h)
 
-**https://www.nyspcjis.net/menu/services/nyspncic2000/**
 
 ![car_search_site](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Sites/www.nyspcjis.net/car_reg_search.jpg)
 
