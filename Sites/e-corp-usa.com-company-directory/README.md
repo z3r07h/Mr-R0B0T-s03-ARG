@@ -1,5 +1,9 @@
 **UPDATE: 5th December 2017 22:04** Not sure when it has happened but Elliots Personnel number has been removed from the page. It no longer displays 072391 under his name - Suspicious - So now I've gotta wonder if there were other numbers for other profiles that have also gone missing - might need to check on internetarchive
 
+**Elliot Alderson**
+
+![elliot](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/www.e-corp-usa.com/screenshot-www.e-corp-usa.com-2017-10-31-10-36-05.png)
+
 **There are results for:**
 - elliot_alderson
 - angel_moss
@@ -40,10 +44,6 @@ The main page also contains a search bar, this can be used to find other employe
 
 
 <h2>Profiles</h2>
-
-**Elliot Alderson**
-
-![elliot](https://github.com/ColonelDox/Mr-R0B0T-s03-ARG/blob/master/Sites/www.e-corp-usa.com/screenshot-www.e-corp-usa.com-2017-10-31-10-36-05.png)
 
 **Angela Moss**
 ![angela](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Sites/e-corp-usa.com-company-directory/screenshots/01-angela_moss.jpg)
