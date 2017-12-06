@@ -1,6 +1,6 @@
 # Mr-R0B0T-s03-ARG
 
-Last Updated: Tue  5 Dec 21:44:44 GMT 2017
+Last Updated: Wed  6 Dec 03:01:14 GMT 2017
 
 A writeup for things found and theories regarding the Mr Robot Season 3 ARG
 
@@ -70,6 +70,8 @@ Timeline
 **Sun  3 Dec 20:09:23 GMT 2017** - Added Episode 3.5_kill_process.inc to Episodes
 **Sun  3 Dec 22:38:21 GMT 2017** - Added Episode 3.6_fredrick&tanya.chk to Episodes
 **Tue  5 Dec 21:44:44 GMT 2017** - Added Lists and Perks folders, fully tested all car number plates  
+**Wed  6 Dec 03:01:14 GMT 2017** - HUGE update - Almost entirely filled out Sites with decriptions, findings, screenshots. ALmost all up to date upto ep7.  
+
 
 
 
@@ -84,16 +86,11 @@ Timeline
 TODO
 ----
 
+- finish up sites by adding, rvzjtenpula.net, vimeo videos, ecoin-services, sandbox.vflsruxm, and e-corp usa main page
 - Grab the script image file from perks
-- Make perks sections
 - Make daily 5/9 section
-- Consolidate important info into lists
 - Grab the series track listings for each episode
-- Add Sites from ep5
-- Add Site Ts1 from ep 2
-- Add Site ecoin-services from ep 4
 - Add Vimeo to sites
-- Create Readme for Sites folder to explain a bit about each one (and how much information they hold)
 - Update about plans.rar and how to solve, also spot the difference issue with python
 - Chase up/ Document shodan stuff /etc from ep1
 - subreddit write up
