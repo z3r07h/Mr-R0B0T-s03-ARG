@@ -20,4 +20,5 @@ If you want to get a little fancier, you can use Burp proxy to catch the request
 - username: Admin
 - password: tXUzKSoPS5
 
-
+**Admin Password** (look at bottom of the request)
+![admin_pw](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/kibana-ycg67gca/screenshots/02-kibana-admin-password.jpg)
