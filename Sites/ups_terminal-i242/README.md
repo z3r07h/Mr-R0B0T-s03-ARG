@@ -7,6 +7,11 @@ http://i242.bxjyb2jvda.net/
 
 Original IP 192.251.68.242
 
+
+**Main page**
+![main](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/ups_terminal-i242/screenshots/01-terminal_access.jpg)
+
+
 Description
 --
 
@@ -22,10 +27,7 @@ We can run a couple of commands that we see from episode eps3.5_kill-process
 
 and we get the same result as we saw in the episode. 
 
-**Main page**
-![main](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/ups_terminal-i242/screenshots/01-terminal_access.jpg)
 
-**Commands and results**
-![cmd_results](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/ups_terminal-i242/screenshots/02-terminal_commands.jpg)
-
+**Commands and results** 
+ ![cmd_results](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/ups_terminal-i242/screenshots/02-terminal_commands.jpg)
 
