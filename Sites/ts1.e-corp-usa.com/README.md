@@ -5,7 +5,7 @@ Full site link:
 
 https://ts1.e-corp-usa.com/
 
-![main_page]()
+![main_page](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/ts1.e-corp-usa.com/screenshots/01-ts1_main.jpg)
 
 Description 
 --
