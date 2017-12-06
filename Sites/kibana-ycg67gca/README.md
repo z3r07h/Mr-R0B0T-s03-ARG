@@ -1,8 +1,11 @@
 kibana-ycg67gca
 ==
 
-Full site link
+Full site link: 
 
+https://ycg67gca.bxjyb2jvda.net/app/kibana/#/dashboard/Priority-Host_Monitoring
+
+![main_portal](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/kibana-ycg67gca/screenshots/01-kibana_main.jpg)
 
 
 Description
