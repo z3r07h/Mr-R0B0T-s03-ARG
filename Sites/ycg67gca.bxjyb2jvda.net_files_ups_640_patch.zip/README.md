@@ -19,5 +19,10 @@ The base64 file is in files
 
 Investigation
 --
+ 
+I thought this would as simple as changing the extension and opening the file. 
+I know that Winzip can usually open any zip that's in base64 format, so I installed winzip to a VM but that didn't work
+I tried to decode the result of decoding the first set of base64 and unzipping that, but to no avail. 
 
+Possibly could be part of a bigger zip file? since you can patch base64 zips together - I'll have to come back to this one
 

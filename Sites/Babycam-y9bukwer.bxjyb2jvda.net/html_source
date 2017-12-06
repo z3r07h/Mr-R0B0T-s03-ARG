@@ -1,0 +1,238 @@
+
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Baby Cam - Home &amp; Family Services</title>
+<meta name="viewport" content="width=870">
+<style>
+body {
+	position: relative;
+	top: 0;
+	left: 0;
+	width: 100%;
+	min-width: 870px;
+	height: 98vh;
+	padding: 0;
+	margin: 0;
+	font-family: Verdana, sans-serif;
+	color: #fff;
+	font-size: 12px;
+	line-height: 16px;
+	background: #ddeef5; 
+	background: -moz-linear-gradient(left, #ddeef5 0%, #3eccf2 100%); 
+	background: -webkit-linear-gradient(left, #ddeef5 0%,#3eccf2 100%); 
+	background: linear-gradient(to right, #ddeef5 0%,#3eccf2 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ddeef5', endColorstr='#3eccf2',GradientType=1 ); 
+}
+div {
+	position: relative;
+}
+.clearfix::after {
+   content: ' ';
+   display: block;
+   height: 0;
+   clear: both;
+}
+
+
+#header {
+	width: 100%;
+	height: 71px;
+	background: #436c95 url('images/header.jpg') no-repeat;
+}
+#brand {
+	float: left;
+	height: 71px;
+	width: 200px;
+}
+#brand span {
+	display: none;
+}
+#camera__details {
+	float: left;
+	position: relative;
+  top: 48px;
+	margin-left: 130px;
+  height: 71px;
+  font-size: 14px;
+}
+
+.outer {
+	position: relative;
+	width: 100%;
+}
+#side__nav {
+	float: left;
+	width: 200px;
+}
+#main__content {
+	float: left;
+	margin: 2px 0px 0px 10px;
+	text-align: center;
+}
+#side__nav div {
+	margin: 2px 0px 2px 0px;
+	padding:20px;
+	color: #ffffff;
+	background-color: #2c5886;
+}
+#side__nav div span {
+	margin-left: 30px;
+}
+#client__settings::before {
+	content: ' ';
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	background: transparent url(images/client_settings.gif) no-repeat 50% 50%/contain;
+}
+#image_setup::before {
+	content: ' ';
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	background: transparent url(images/image_setup.gif) no-repeat 50% 50%/contain;
+}
+#product__support::before {
+	content: ' ';
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	background: transparent url(images/product_support.gif) no-repeat 50% 50%/contain;
+}
+#video__feed {
+	display: table-cell;
+	width: 640px;
+	height: 380px;
+	margin: 2px auto;
+	color: #ffffff;
+	text-align: center;
+	background-color: #000000;
+	vertical-align: middle;
+}
+
+.streaming #video__feed img {
+	width: 100%;
+	height: 100%;
+}
+
+.error #video__feed img {
+	display: none;
+}
+.error #video__feed span {
+	color: #ff0000;
+}
+
+/* FOOTER */
+.footer {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+  padding: 3em 0;
+  font-size: 9px;
+  line-height: 1.4em;
+  text-align:  center;
+}
+.footer span,
+.footer a,
+.footer a:link,
+.footer a:hover,
+.footer a:visited,
+.footer a:active {
+  padding: 5px;
+  color:#DDD;
+}
+
+#main__content.buffering #video__feed span {
+	clear:both;
+	display: block;
+}
+
+@media (max-height: 600px) {
+	.footer {
+		position: relative;
+		padding: 10em 0 3em;
+	}
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="//assets.adobedtm.com/5ed6cf59538a2045d9fe4799a3f70da302c83d5a/satelliteLib-24e397569ca85a58d3963043838c6696e85c5e9a.js"></script>
+<script>
+function load__video__stream() {
+	$('#main__content').addClass('buffering');
+	$('#main__content #video__feed').html('<img src="images/loader.gif" width="100"><span>Buffering...</span>');
+
+	setTimeout(start__stream, 2000);
+}
+function start__stream() {
+	$.ajax({
+        type: "GET",
+        url: "stream.php",
+        success: function(result) {
+            display__stream(result);
+        }
+    });
+}
+function display__stream(data) {
+	if (data.streamdata != '') {
+		var streamsrc = data.streamsrc.replace(/[^\w\s\.\/]/gi, '');
+
+		$('#main__content #video__feed img').attr('src', streamsrc);
+		$('#main__content').removeClass('buffering');
+		$('#main__content').addClass('streaming');
+		$('#main__content #video__feed span').html('Streaming...');
+	} else {
+		$('#main__content').removeClass('buffering');
+		$('#main__content #video__feed span').html('Stream error!');
+		$('#main__content').addClass('error');
+	}
+}
+</script>
+</head>
+
+<body>
+<div id="header">
+	<div id="brand">
+		<span>Baby Cam</span>
+		<span>Home &amp; Family Services</span>
+	</div>
+	<div id="camera__details">
+		Live IP Camera Access - Model NO.: PUNKAB-1080W
+	</div>
+</div>
+
+<div class="outer clearfix">
+	<div id="side__nav">
+		<div id="client__settings"><span>Client Settings</span></div>
+		<div id="image_setup"><span>Image Setup</span></div>
+		<div id="product__support"><span>Product Support</span></div>
+	</div>
+	<div id="main__content" class="">
+		<div id="video__feed">
+			<span>Feed Offline</span>
+		</div>
+	</div>
+</div>
+
+<div class="footer">
+  <span><a href="http://www.usanetwork.com/terms" target="_blank">TERMS OF SERVICE</a></span>
+  <span><a href="http://www.nbcuniversal.com/privacy" target="_blank">PRIVACY POLICY</a></span>
+</div>
+
+<script>
+$(document).ready(function() {
+	load__video__stream();
+});
+</script>
+
+<script>
+var AdobeTracking = new Object();
+AdobeTracking.contentType = 'Home';
+AdobeTracking.pageName = 'y9bukwer.bxjyb2jvda.net : Home';
+AdobeTracking.showSite = 'runpsu4';
+AdobeTracking.showSiteFeatureII = 'y9bukwer.bxjyb2jvda.net';
+_satellite.pageBottom();
+</script>
+</body>
+</html>
