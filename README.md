@@ -89,7 +89,7 @@ Timeline
 TODO
 ----
 
-- finish up sites by adding, rvzjtenpula.net, vimeo videos, ecoin-services, sandbox.vflsruxm, and e-corp usa main page
+- finish up sites by adding, rvzjtenpula.net, vimeo videos, ecoin-services, sandbox.vflsruxm, and e-corp usa main page, whoismrrobot.com
 - Grab the script image file from perks
 - Make daily 5/9 section
 - Grab the series track listings for each episode
