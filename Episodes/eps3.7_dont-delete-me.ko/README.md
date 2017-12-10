@@ -31,6 +31,41 @@ Observations
 
 Evidence
 --
+**Elliot's new cabinet**
+![cabinet](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep8/Episodes/eps3.7_dont-delete-me.ko/screenshots/01-bathroom_cabinet.jpg)
+
+**Trenton CD**
+![trenton_cd](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep8/Episodes/eps3.7_dont-delete-me.ko/screenshots/02-bruce_trenton.jpg)
+
+**Markesh Family**
+![markesh_fam](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep8/Episodes/eps3.7_dont-delete-me.ko/screenshots/03-Markesh_family.jpg)
+
+**Sandesh OSINT Files**
+![sandesh_osint](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep8/Episodes/eps3.7_dont-delete-me.ko/screenshots/04-Sandesh_files.jpg)
+
+**Elliot's Strange Wall Picture**
+![mosaic](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep8/Episodes/eps3.7_dont-delete-me.ko/screenshots/05-Weird_mosaic.jpg)
+
+**Suitcase Unlock Code**
+![812](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep8/Episodes/eps3.7_dont-delete-me.ko/screenshots/06-812.jpg)
+
+**Hotel Cabiri**
+![cabiri](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep8/Episodes/eps3.7_dont-delete-me.ko/screenshots/07-Hotel-Cabiri.jpg)
+
+**Trenton's House Number**
+![trenton_house](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep8/Episodes/eps3.7_dont-delete-me.ko/screenshots/08-Trenton_house_number.jpg)
+
+**Climbing Frame on the beach**
+![climbing_frame](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep8/Episodes/eps3.7_dont-delete-me.ko/screenshots/09-Climbing_frame.jpg)
+
+**Lollipop**
+![lolly](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep8/Episodes/eps3.7_dont-delete-me.ko/screenshots/10-Green_lollipop.jpg)
+
+**Angela's Apartment Number**
+![angela_apartment](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep8/Episodes/eps3.7_dont-delete-me.ko/screenshots/11-Angela_apartment.jpg)
+
+**Trenton's Email**
+![trenton_email](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep8/Episodes/eps3.7_dont-delete-me.ko/screenshots/12-Trenton_email.jpg)
 
 3 Digit Numbers
 --
