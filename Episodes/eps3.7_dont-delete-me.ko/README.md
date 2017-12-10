@@ -35,23 +35,23 @@ Evidence
 3 Digit Numbers
 --
 
-269.99 (Price of the bathroom cabinet)
-5:31 (Time vox article was uploaded)
-241.1 (Size of Trenton's information CD)
-238.6 (Size of Mobley's OSINT folder)
-461.4 (size free on the CD after adding mobley's folder)
-256 (Sandesh Markesh PDF file size)
-218 (Sandesh Markesh PDF file size)
-7:45 (Time of Sandesh's post)
-2:00 (Time on the microwave when Elliot fries the chips)
-812 (The *unlock* code for the suitcase)
-117 (Trenton's house number)
-107.72 (Size of file attached to Trenton's email)
-7:28 (Time Trenton's email was sent)
+269.99 (Price of the bathroom cabinet)  
+5:31 (Time vox article was uploaded)  
+241.1 (Size of Trenton's information CD)  
+238.6 (Size of Mobley's OSINT folder)  
+461.4 (size free on the CD after adding mobley's folder)  
+256 (Sandesh Markesh PDF file size)  
+218 (Sandesh Markesh PDF file size)  
+7:45 (Time of Sandesh's post)  
+2:00 (Time on the microwave when Elliot fries the chips)  
+812 (The *unlock* code for the suitcase)  
+117 (Trenton's house number)  
+107.72 (Size of file attached to Trenton's email)  
+7:28 (Time Trenton's email was sent)  
 
 
-Other Notes
+Interesting
 --
 6,6,2,2,2 (numbers of items in Markesh OSINT folders - screenshot in Extra Shots)  
-5,14,12,6,8,11 (numbers of items in each Markesh family OSINT folder)
-2,16,2,5,31 (numbers of items inside Sandesh Markesh folders)
+5,14,12,6,8,11 (numbers of items in each Markesh family OSINT folder)  
+2,16,2,5,31 (numbers of items inside Sandesh Markesh folders)  
