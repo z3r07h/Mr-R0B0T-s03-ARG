@@ -35,6 +35,7 @@ Observations
 - 46m57s **HUNTER2** A huge easter egg nod to a meme known as hunter2 - Looks like Elliots malware scraped passwords from the host and put them into a innocuous looking /dev/nu11 folder (normall on a unix/linux host this is meant to look like the dev/null folder which you can send any amounts of crap to and it'll just vanish)
 in the folder is a keylog of events, first someone is typing an internal address, then the word garyhost, then they type their password but have to backspace a couple of times - therefore "huntr[BS]er3[BS]2" becomes "hunter2" =D
 - 47m27s Seems like the Dark army infections are much greater than we saw before.
+- Addional screenshots included of Sentinel information that Mr Robot is reading near the end. 
 
 
 
@@ -98,6 +99,9 @@ Evidence
 **Larger Infections Map**
 ![infections_map](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep9/Episodes/eps3.8_stage3.torrent/screenshots/19-Infection_map.jpg)
 
+
+
+
 Interesting
 --
 **Romero Serial Numbers**  
@@ -115,7 +119,6 @@ Dom shows off a bunch of tattoo's in this episode that I don't think we've seen 
 It kind of looks like Dom's ID badge has a sim-card in it.  
 Doms passcode has 456 in it. it goes, bottom left, 456, (perhaps 9), then two unseen numbers
 
+Elliot's shhelldcode included in the file 'shellcode'  
 
-TODO
---
-- Reverse Elliots Shellcode and see what's inside
+The sentinel info at the end of the episode talks about ELSUR (FIB Electronic Surveillance) Which we saw in one of DOM's files in ep2 288A-NY-84511326-ELSUR.txt
