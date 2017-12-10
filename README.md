@@ -1,6 +1,6 @@
 # Mr-R0B0T-s03-ARG
 
-Last Updated: Wed  6 Dec 03:01:14 GMT 2017
+Last Updated: Sun 10 Dec 17:57:14 GMT 2017
 
 A writeup for things found and theories regarding the Mr Robot Season 3 ARG
 
@@ -71,6 +71,7 @@ Timeline
 **Sun  3 Dec 22:38:21 GMT 2017** - Added Episode 3.6_fredrick&tanya.chk to Episodes  
 **Tue  5 Dec 21:44:44 GMT 2017** - Added Lists and Perks folders, fully tested all car number plates  
 **Wed  6 Dec 03:01:14 GMT 2017** - HUGE update - Almost entirely filled out Sites with decriptions, findings, screenshots. ALmost all up to date upto ep7.  
+**Sun 10 Dec 17:57:14 GMT 2017** - Added Episode 3.7_dont-delete-me.ko to Episodes  
 
 
 
