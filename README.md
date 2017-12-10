@@ -72,7 +72,7 @@ Timeline
 **Tue  5 Dec 21:44:44 GMT 2017** - Added Lists and Perks folders, fully tested all car number plates  
 **Wed  6 Dec 03:01:14 GMT 2017** - HUGE update - Almost entirely filled out Sites with decriptions, findings, screenshots. ALmost all up to date upto ep7.  
 **Sun 10 Dec 17:57:14 GMT 2017** - Added Episode 3.7_dont-delete-me.ko to Episodes  
-**Sun 10 Dec 20:37:34 GMT 2017** - Updated Sites with index_base64-zyajcl2 from ep9, created a quick info list on sites for easy look up of what's what. 
+**Sun 10 Dec 20:37:34 GMT 2017** - Added Episode 3.8_stage3.torrent to Episodes. Updated Sites with index_base64-zyajcl2 from ep9, created a quick info list on sites for easy look up of what's what. 
 
 
 
