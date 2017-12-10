@@ -17,4 +17,4 @@ Investigation
 
 This file has a PK header, meaning it's a form of ZIP file.
 
-I may be doing something wrong but this file cannot just be extracted straight as a zip file. Therefore maybe we need to add the previous partial zip file (theory) to the end of it.
+This has been solved by ARGSoc - will update soon with info
