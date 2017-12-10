@@ -99,6 +99,16 @@ Evidence
 **Larger Infections Map**
 ![infections_map](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep9/Episodes/eps3.8_stage3.torrent/screenshots/19-Infection_map.jpg)
 
+**Sentinel Info 1**
+![sen1](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep9/Episodes/eps3.8_stage3.torrent/screenshots/sentinel_info_1.jpg)
+
+**Sentinel Info 2**
+![sen2](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep9/Episodes/eps3.8_stage3.torrent/screenshots/sentinel_info_2.jpg)
+
+**Sentinel Info 3**
+![sen3](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/ep9/Episodes/eps3.8_stage3.torrent/screenshots/sentinel_info_3.jpg)
+
+
 
 
 
