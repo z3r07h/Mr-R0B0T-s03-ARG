@@ -15,106 +15,121 @@ ThePlague
 
 "Someone didn't bother reading my carefully prepared memo on commonly-used passwords. Now, then, as I so meticulously pointed out, the four most-used passwords are: love, sex, secret, and God. So, would your holiness care to change her password?"
 
+Tr3nton
+--
+
+"I may have found a way to undo the hack. I've been investigating Romero. He installed hardware keyloggers on all the machines at the arcade some time before five/nine. The NYPD imaged all of his data after he was murdered. I was able to get this chain of custody document from the NYPD when they prepared to transfer the evidence to the FBI.  They couldn't get into the encrypted keylogger containers. If Romero somehow got a hold of the keys, or even the seed data and source code for the encryption tools, the answer might be in those keylogger captures, but the FBI probably has those files now."
 
 E-corp Employees
 ================
 
-**Gracie Lowdell** (emailed 31st October 2017 approx 19:43 UK time)\
+**Gracie Lowdell** (emailed 31st October 2017 approx 19:43 UK time)  
 "Currently out of the office. Will reply ASAP upon return."
 
 
-**Adam Nullhardt**\
+**Adam Nullhardt**  
 "I am at a departmental all-hands meeting and will be checking email more slowly than normal."
 
 
-**Joe Oldswith**\
+**Joe Oldswith**  
 "I am moving to a new office location on a different floor. My responses will be slow for a while."
 
 
-**Eric Macteal**\
+**Eric Macteal**  
 "The person you are trying to reach is currently unavailable."
 
 
-**Justin Kenswick**\
+**Justin Kenswick**  
 "Traveling extensively with limited wireless connectivity for the next few days."
 
 
-**Alivia Murabahti**\
+**Alivia Murabahti**  
 "I am currently out of the office."
 
 
-**Belle Kiriyuchi**\
+**Belle Kiriyuchi**  
 "Due to extreme weather conditions, my Internet connectivity is unstable and my email responses will be infrequent. Please be patient - I will get back to you as soon as I can."
 
 
-**Brian Elkarn**\
+**Brian Elkarn**  
 "Thanks for the message. I am not in the office for the time being, but will get back to you as soon as possible."
 
 
-**Bryan Gilamito**\
+**Bryan Gilamito**  
 "Please excuse my temporary absence. I will be back in the office as soon as I can."
 
 
-**Carolyn Pullerman**\
+**Carolyn Pullerman**  
 "I am currently out of the office. Please refer to our website for immediate assistance."
 
 
-**Carrie Henbar**\
+**Carrie Henbar**  
 "I am attending an industry expo and am unable to fulfill immediate requests."
 
 
-**Eric Nessberg**\
+**Eric Nessberg**  
 "I am currently attending a conference and will be slow to respond to email."
 
 
-**Janet Robinson**\
+**Janet Robinson**  
 "I am currently OOTO running some personal errands. I will be back shortly."
 
 
-**John Laslen**\
+**John Laslen**  
 "Out for the rest of the day for a medical appointment. I will get back to you soon."
 
 
-**John Tholdon**\
+**John Tholdon**  
 "I am currently out of the office traveling."
 
-**Kara Mulrigan**\
+**Kara Mulrigan**  
 "I am on maternity leave. Thanks for your patience and forward all urgent correspondences to my colleagues."
 
 
-**Karen Ivanthal**\
+**Karen Ivanthal**  
 "Temporarily unavailable due to personal reasons. I apologize for any inconvenience."
 
 
-**Kevin Shelvern**\
+**Kevin Shelvern**  
 "I am currently WFH while the cable-guy hooks me up with better service. My responses will be sporadic."
 
 
-**Linda Spencer**\
+**Linda Spencer**  
 "Thanks for your email! I am currently traveling for business at an HR summit. Please direct your enquiry to my experienced team. Have a great day!"
 
 
-**Michael Hamerell**\
+**Michael Hamerell**  
 "I am at a company retreat and will be checking emails less frequently. For urgent concerns, contact my assistant."
 
 
-**Mike Lowdell**\
+**Mike Lowdell**  
 "Responses may be delayed for the next few days. Regular response times will resume soon."
 
 
-**Peter McCleery**\
+**Peter McCleery**  
 "McCleery, Peter (peter.mccleery@e-corp-usa.com)
 The e-mail address you entered could not be found. You may have mistyped the recipient's e-mail address, or they may no longer be with the company. If the problem continues, please contact your helpdesk."
 
 
-**Myhoa Kulamio**\
+**Myhoa Kulamio**  
 "I am traveling for the next week and will be checking email less frequently. For immediate response, call the front desk."
 
 
-**Travis Kiddrell**\
+**Travis Kiddrell**  
 "I am on vacation and have no access to email. Please excuse any delay in response."
 
 
-**William Braddock**\
+**William Braddock**  
 "Delivery has failed to these recipients or groups:
 Braddock, William (william.braddock@e-corp-usa.com)"
+
+
+**Angela Moss**  
+"I am currently OOO on a special project. I will get back to you as soon as I am able. If this is an emergency, please contact legal@e-corp.usa.com"
+
+
+**Erik Ralbern**   
+"Thank you for your email. I am not currently in the office right now. I will respond when I return."
+
+**Frank Bowman**  
+"I am currently OOTO. Will get back to you ASAP."
