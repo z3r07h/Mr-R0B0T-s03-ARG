@@ -11,7 +11,7 @@ Sites Quick Reference
 Babycam site, Gif files found at end of hidden URL
 
 **CSAT-server-yakkqwhz**  
-CSAT terminal screen - requires password to get into - username in show was zlon0101
+CSAT terminal screen - passoword iz z1on0101 - same as username in the show on the instructions. You can get more output but putting in 022350 (the PED instructions) afterwards
 
 **chinese-desktop-y8agrfx3**  
 Chinese desktop - two image files *mask.png*, and *warty-final-ubuntukylin.jpg*  
