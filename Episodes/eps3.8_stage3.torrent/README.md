@@ -115,14 +115,14 @@ Evidence
 Interesting
 --
 **Romero Serial Numbers**  
-BND7BZAFWWCUQ8J6  (ROM-01)
-YCYVE6EMMGSP8A3M  (ROM-02)
-5P8FF938V93HBWEX  (ROM-03)
-57HLZDB4X446V4TP  (ROM-04)
+BND7BZAFWWCUQ8J6  (ROM-01)  
+YCYVE6EMMGSP8A3M  (ROM-02)  
+5P8FF938V93HBWEX  (ROM-03)  
+57HLZDB4X446V4TP  (ROM-04)  
 
-**Hard Drive Details**
-ST902504-EXA101-RK    (Model Number)
-5QFGXNRD  (Serial Number)
+**Hard Drive Details**  
+ST902504-EXA101-RK    (Model Number)  
+5QFGXNRD  (Serial Number)  
 
 
 Dom shows off a bunch of tattoo's in this episode that I don't think we've seen before.  
