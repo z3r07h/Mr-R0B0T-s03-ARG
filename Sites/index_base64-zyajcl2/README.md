@@ -27,12 +27,12 @@ Decoding the base64 file will give you a corrupt zip - on linux you can still ex
 When comparing this image to the stock image version of the same file there are some slight noticeable differences, particularly with some fuzziness/blurriness to the image. The heavily indicates that the image has been modified, not enough to change it completely but enough to hide extract data in it. For more information lookkup steganography, and LSB steganography. 
 
 Utilising LSB (Least significant bit) steganography some text strings are revealed:  
-'''
+```
 johI8xS2mc{
   "h":"60e1c7c059dc85fe1125ad92c0e5ebde74f7e93ce502038a288bf5da39426943",
   "p":"qBqOR5VJJzgJERxpXZ4l2JXSQOthufVnAynQMROT"
 }
-'''
+```
 
 Which looks like a piece of JSON, the starting string and the 'h' parameter have yet to find a use however the 'p' parameter can be used on garyhost as the password. 
 
