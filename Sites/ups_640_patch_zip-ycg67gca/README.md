@@ -33,4 +33,8 @@ Hmm ok - well the story doesn't end there, scouring the rest of the encoded text
 
 With that information punk put it all together to decode the long string of capital letters into YOUMUSTRUNTWICEASFASTASTHAT *you must run twice as fast as that* another Alice in Wonderland quote/reference
 
+For reference here is a screenshot detailing what's been explained
+
+![screenshot](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Sites/ups_640_patch_zip-ycg67gca/screenshots/8DOWN5ACROSS.jpg)
+
 
