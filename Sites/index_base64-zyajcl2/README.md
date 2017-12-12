@@ -24,7 +24,10 @@ This file has a PK header, meaning it's a form of ZIP file.
 
 Decoding the base64 file will give you a corrupt zip - on linux you can still extract the file using dd. The image is of two roses. This time around I've left the original file format of .png as this is important. 
 
+**Flowers image from corrupted zip**
+
 ![corrupted_flowers](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Sites/index_base64-zyajcl2/files/output.png)
+
 
 When comparing this image to the stock image version of the same file there are some slight noticeable differences, particularly with some fuzziness/blurriness to the image. The heavily indicates that the image has been modified, not enough to change it completely but enough to hide extract data in it. For more information lookkup steganography, and LSB steganography. 
 
