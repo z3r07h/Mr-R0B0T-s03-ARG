@@ -1,6 +1,9 @@
 red-wheelbarrow.com
 ===================
 
+Possibly Solved
+==
+
 Full site link
 
 https://www.red-wheelbarrow.com/
@@ -38,14 +41,10 @@ Color By Numbers (Credits to ARG Society)
 ----------------
 
 - Binary theory again for the fence posts
-- The Butterfly tail is morse code (NEED THE MORSE TRANSLATION)
-- The numbers by the colors represent alphabet letters
-- The Sun ends up spelling "SHES NOT SANE" when converted from colors to alphabet
+- The Butterfly tail is morse code **THEY DONT KNOW WE ARE HERE YET**
+- The numbers by the colors represent alphabet letters **AEHNOST**
+- The Sun ends up spelling **SHES NOT HONEST** when converted from colors to alphabet
+- Numbers in the butterfly spell out **SHES NOT SANE**
 
 
-TODO
-----
-- Find out what the morse code is
-- Find out if the Sun word was an anagram
-- Credit first solvers properly
 

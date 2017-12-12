@@ -1,6 +1,6 @@
 # Mr-R0B0T-s03-ARG
 
-Last Updated: Sun 10 Dec 20:37:34 GMT 2017
+Last Updated: Tue 12 Dec 23:09:33 GMT 2017
 
 A writeup for things found and theories regarding the Mr Robot Season 3 ARG
 
@@ -72,7 +72,9 @@ Timeline
 **Tue  5 Dec 21:44:44 GMT 2017** - Added Lists and Perks folders, fully tested all car number plates  
 **Wed  6 Dec 03:01:14 GMT 2017** - HUGE update - Almost entirely filled out Sites with decriptions, findings, screenshots. ALmost all up to date upto ep7.  
 **Sun 10 Dec 17:57:14 GMT 2017** - Added Episode 3.7_dont-delete-me.ko to Episodes  
-**Sun 10 Dec 20:37:34 GMT 2017** - Added Episode 3.8_stage3.torrent to Episodes. Updated Sites with index_base64-zyajcl2 from ep9, created a quick info list on sites for easy look up of what's what. 
+**Sun 10 Dec 20:37:34 GMT 2017** - Added Episode 3.8_stage3.torrent to Episodes. Updated Sites with index_base64-zyajcl2 from ep9, created a quick info list on sites for easy look up of what's what.
+**Tue 12 Dec 23:09:33 GMT 2017** - Added solves (FROM ARGSOCIETY) to Sites - Babycam, chinese desktop, index_base64, ups_640, logstash ssh termina, red wheelbarrow, webmail
+ 
 
 
 
@@ -89,13 +91,20 @@ Timeline
 TODO
 ----
 
-- finish up sites by adding, rvzjtenpula.net, vimeo videos, ecoin-services, sandbox.vflsruxm, and e-corp usa main page, whoismrrobot.com
+- Add section for AiW (Alice in Wonderland) Quotes collected
+- Add section for shakespear references
+- Add kor Adana interviews 
+- Add geographical places list
+- Bring in a ton more solves from ARGSociety
+- Credit solvers appropriately
+- Get tools/techniques used for solves
+- Java stuff from ep4
+- finish up sites by adding, garyhost, rvzjtenpula.net, vimeo videos, ecoin-services, sandbox.vflsruxm, and e-corp usa main page, whoismrrobot.com
 - Grab the script image file from perks
 - Make daily 5/9 section
 - Grab the series track listings for each episode
-- Add Vimeo to sites
-- Update about plans.rar and how to solve, also spot the difference issue with python
+- spot the difference issue with python
+- grab all numbers from ecorp subreddits
 - Chase up/ Document shodan stuff /etc from ep1
 - subreddit write up
-- Add whois/etc information for sites
-- Investigations - In Progress
+

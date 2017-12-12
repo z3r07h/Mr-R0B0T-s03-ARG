@@ -214,11 +214,9 @@ cd /usr/local/logstatsh-ups
 ls 
 
 
-Todo
-----
 
+TODO
+--
 - QR Codes
 - base64/md5/try to decode the hashes seen in kibana dashboard **b9a4dac2192fd78cda097bfa79f6e7b2**, **28656e674bfa56253bc73ec81071363e**, **b8a9569a8a227f7e98eb297433d405da**, **1f038b87e8a1f84d89a74168e27a44a0**,
-- Add relative link for Elliot's badge
-- Update ecorp employee's list
-- Update Bobby/bobbi Fulltern
+

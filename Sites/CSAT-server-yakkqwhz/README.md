@@ -1,6 +1,9 @@
 CSAT-server-yakkqwhz
 ==
 
+Possibly Solved
+==
+
 Full site link
 
 https://yakkqwhz.bxjyb2jvda.net/
@@ -21,4 +24,10 @@ password is **z1on0101**
 Extra output can be acquired by entering the PED instructions afterwards:  
 **022350**
 
+**Credits to ARGSociety for the below information**
 
+After entering 022350 you will get a Key confirmation of:  
+B-TUDGTDL-0112180501042508051805  
+
+The numerical part can be transcoded as letters (01=A, 02=B, etc) into:  
+*ALREADYHERE*

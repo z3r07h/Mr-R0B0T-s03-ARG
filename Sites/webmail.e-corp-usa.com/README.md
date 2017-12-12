@@ -1,6 +1,9 @@
 webmail.e-corp-usa.com
 ======================
 
+Solved
+==
+
 Full link
 
 https://webmail.e-corp-usa.com/OWA
@@ -50,15 +53,15 @@ When trying with the Joseph Green account form ARG season 2 the error code state
 ![joseph_green_error_code](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/master/Sites/webmail.e-corp-usa.com/screenshots/joseph_green_error_code.jpg)
 
 
+**Credits to u/punkAB (from ARGSociety) for the below information**
 
------
-Base64'd the error Letters, but only jibberish came out 
+The error messages themself are a reference to the rest of the error codes, and each, respectively giving us another anagram each which in turn is the username and password to use on this site. 
 
-TODO
-====
+#13489-RARECHPOT => 1=R 3=R 4=E 8=O 9=T => anagram of **RETRO**
+#123578-PARMLETOR => 1=P 2=A 3=R 5=L 7=T 8=O => anagram of **PORTAL**
 
-Maybe try and use Burp suite to see if error codes can be emnumerated. 
-Change error codes to H2 / Bigger Font
-Investigate more
+
+Which once used to login gives us a copy of Elliot's presentation about his paper records recovery plan:  
+https://webmail.e-corp-usa.com/O1IQ6LbJ/HT26MABs/~4ezQlaZc/_attachments/K3ZQ6XJr/TqfqF5Hp/Paper_Records.pdf
 
 

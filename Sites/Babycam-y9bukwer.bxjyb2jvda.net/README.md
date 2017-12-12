@@ -1,4 +1,7 @@
-Babycam-y9bukwer.bxjyb2jvda.net
+Babycam-y9bukwer.bxjyb2jvda.net 
+==
+
+Solved
 ==
 
 Full site link:
@@ -39,5 +42,15 @@ Pretty obviously this is ascii hex table letters, which turns out to say: **h e 
 
 **h e r e**
 ![here](https://github.com/z3r07h/Mr-R0B0T-s03-ARG/blob/sites/Sites/Babycam-y9bukwer.bxjyb2jvda.net/screeenshots/03-here.jpg)
+
+**Credits to ARGSociety and Gamedetectives.net for the below information**
+Each time you visit the site the gif that is loaded is randomised from a set of 4, each of the 4 holds a secret code. They are:
+
+77 65 26 23 33 39 3b 72 65 - we're
+61 6c 6c - all
+6d 61 64 - mad
+68 65 72 65 - here
+
+making up the phrase *we're all mad here* a reference to Lewis Carroll's Alice in Wonderland.
 
 

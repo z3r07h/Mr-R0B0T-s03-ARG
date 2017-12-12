@@ -152,8 +152,5 @@ TODO
 - Check articles for legitimacy
 - Email article creators if possible
 - Find out the car reg behind Cisco
-- Find the large X in episode 2
 - Find out what the book behind Tyrell is
-- Investigate the domain rvzjtenpula.net
-- Lookup the Taxi number
 
